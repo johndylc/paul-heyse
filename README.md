@@ -6,5 +6,5 @@ Public Domain Works by Paul Johann Ludwig von Heyse (1830-1914).
 
 English - Plain Text  
 English - PDF  
-German - Plain Text  
+[German - Plain Text](sechs-kleine-dramen/full-text-german.md)  
 German - PDF | NotoSans | GentiumPlus | Junicode | Roboto | Custom01 | Custom02 | Custom03  
