@@ -1,24 +1,46 @@
-# Sechs kleine Dramen.
+# Dramatische Dichtungen
 
-### 0001
+## Von Paul Heyse.
+
+### Siebenunddreissigstes und achtunddreissigstes Bändchen:
+
+## Sechs kleine Dramen.
+
+## Stuttgart und Berlin 1905.
+
+## J. G. Cotta'sche Buchhandlung Nachfolger.
+
+---
+
+# 1. [Eine alte Geschichte.]()
+
+# 2. [Die Zaubergeige.]()
+
+# 3. [Zu treu.]()
+
+# 4. [Horaz und Lydia.]()
+
+# 5. [Der Stern von Mantua.]()
+
+# 6. [Die Tochter der Semiramis.]()
+
+---
 
 Alle Rechte vorbehalten.
+
 Druck der Union Deutsche Verlagsgesellschaft in Stuttgart.
 
-
-### 0002
-
 Meinem lieben Freunde
+
 Erich Petzet
+
 zugeeignet.
-Denn du glaubtest ja ftets, sie könnten wohl sich
-Sehen lafsen, die Kleinen von den Meinen.
+
+Denn du glaubtest ja stets, sie könnten wohl sich  
+Sehen lassen, die Kleinen von den Meinen.  
 (Frei nach Catull.)
 
-
-### 0003
-
-as hier unter Einer Decke
+Was hier unter Einer Decke
 Seltsam sich zusammenfand,
 Wandre friedlich eine Strecke
 Miteinander durch das Land.
@@ -39,37 +61,16 @@ Einzeln, oder neu gesellt,
 Sich des Lampenlichts zu freuen
 Auf der bunten Bretterwelt.
 
+---
 
-### 0004
+# Eine alte Geschichte.
 
-Seite
-Eine alte Geschichte
-Die Zaubergeige.
-37
-Zu treu..
-. 69
-Horaz und Lydia.
-. 93
-Der Stern von Mantua..
-. 131
-Die Tochter der Semiramis.
-. 199
-Inhalt.
-
-
-### 0005
-
-
-
-
-### 0006
-
-Eine alte Geschichte.
 Familienscene in einem Akt.
+
 (1899.)
 
 
-### 0007
+0007
 
 Personen:
 Erich Weber, Verlagsbuchhändler und Stadtrath (55 Iahre alt).
@@ -79,7 +80,7 @@ Die alte Auguste, Dienerin bei Webers.
 Ort der Handlung: eine grössere Stadt an der Ostsee.
 
 
-### 0008
+0008
 
 Wohnzimmer bei Webers, links und im Hintergrund
 Thüren, rechts ein Fenster. Vorn links ein Sopha und
@@ -110,7 +111,7 @@ mals doch ebenso schön, wenn auch nicht die ganze Strasse
 uns nachsah. Nein, seht nur, ein förmlicher Auflauf
 
 
-### 0009
+0009
 
 12
 Eine alte Geschichte.
@@ -149,7 +150,7 @@ heirathen --- der kleine Altersunterschied, kaum dreissig
 Iahre, das konnte ja nicht in Betracht kommen --- und
 
 
-### 0010
+0010
 
 Eine alte Geschichte.
 13
@@ -186,7 +187,7 @@ Ich danke Ihnen, dass auch Ihnen an diesem Freuden-
 tag die Augen übergehen.
 
 
-### 0011
+0011
 
 14
 Eine alte Geschichte.
@@ -221,7 +222,7 @@ dir doch nicht zur Last, wenn ich bei meiner verehrten
 Frau Gevatterin als Mädchen für Alles fungiere.
 
 
-### 0012
+0012
 
 Eine alte Geschichte.
 Erich.
@@ -256,7 +257,7 @@ Wein ist Wahrheit. Ich wünschte sehr, dass der Sect
 einmal ausplauderte, was er eigentlich gegen mich hat.
 
 
-### 0013
+0013
 
 16
 Eine alte Geschichte.
@@ -293,7 +294,7 @@ nicht zu lang, nicht zu sentimental --- das bischen Humor
 am Schluss machte sich auch recht hübsch, wie mir schien --
 
 
-### 0014
+0014
 
 Eine alte Geschichte.
 Thaddäus.
@@ -330,7 +331,7 @@ Heyse, Sechs kleine Dramen.
 2
 
 
-### 0015
+0015
 
 18
 Eine alte Geschichte.
@@ -364,7 +365,7 @@ nichts weiter, und all das Gerede von Bewunderung
 und Hass -
 
 
-### 0016
+0016
 
 Eine alte Geschichte.
 Auguste
@@ -401,7 +402,7 @@ Und dann, kurz eh' der Zug abging, rief sie mir noch ans
 Wagenfenster und sagte, ich sollte ihrem lieben Herrn
 
 
-### 0017
+0017
 
 20
 Pathen, dem Herrn Doctor, noch einen ganz besonderen
@@ -438,7 +439,7 @@ ist darin einbegriffen. Aber hab' ich's nicht gesagt?
 Er ist wieder die Hauptperson. Ie nun, das muss man
 
 
-### 0018
+0018
 
 eben zu dem Ubrigen legen. Und jetzt --- ich dächte,
 es wäre wohl erlaubt, sich noch eine Cigarre zu gönnen.
@@ -471,7 +472,7 @@ Um Gottes willen, Sie wollen doch nicht --- Sie
 könnten --
 
 
-### 0019
+0019
 
 22
 Thaddäus (immer sehr sanft).
@@ -507,7 +508,7 @@ nicht auch an sich, wie Sie das einsame Leben --- denn
 ich bilde mir doch ein, dass auch wir Ihnen ein bischen
 
 
-### 0020
+0020
 
 Eine alte Geschichte.
 23
@@ -543,7 +544,7 @@ Also gute Nacht und tausend Dank. Schlafen Sie
 wohl, liebe Gevatterin! Und Sie erlauben wohl, ich
 
 
-### 0021
+0021
 
 2
 Eine alte Geschichte.
@@ -578,7 +579,7 @@ Erich.
 So? Wirklich? Nun, dann ist es ja gut. Früher
 
 
-### 0022
+0022
 
 Eine alte Geschichte.
 25
@@ -615,7 +616,7 @@ Susanne.
 O Erich! Ist es denn möglich! (inkt auf einen Stuhl.)
 
 
-### 0023
+0023
 
 26
 Eine alte Geschichte.
@@ -651,7 +652,7 @@ Susanne.
 Eins freilich hat er vor dir voraus, eins besitzt er in
 
 
-### 0024
+0024
 
 hohem Masse, was ich bei dir manchmal schmerzlich
 vermisse ---
@@ -685,7 +686,7 @@ Susanne (ihn ernst anblickend).
 Du willst doch nicht sagen --
 
 
-### 0025
+0025
 
 28
 Eine alte Geschichte.
@@ -722,7 +723,7 @@ die Besten unter uns, sind keine Engel. Wie er dich
 liebte, dich vergötterte --- er selbst hat ia nie ein Hehl
 
 
-### 0026
+0026
 
 daraus gemacht. Wenn er daher selbst das richtige
 "Zartgefühl" gehabt hätte, wäre es ihm doch wohl ein-
@@ -756,7 +757,7 @@ lieb hatte. Das hinderte ihn aber nicht, auch andere
 Frauen schön und anziehend zu finden und ihnen eifrig
 
 
-### 0027
+0027
 
 0
 Eine alte Geschichte.
@@ -791,7 +792,7 @@ e sicher bald genua von selbst zur Be-
 en --- ich
 
 
-### 0028
+0028
 
 Eine alte Geschichte.
 31
@@ -827,7 +828,7 @@ Kummer abzulenken suchte. Ia, Erich, da verglich ich
 ihn mit dir und sagte mir: hier hast du einen wahren,
 
 
-### 0029
+0029
 
 32
 Eine alte Geschichte.
@@ -864,7 +865,7 @@ zitterte, als er mich sanft von sich wegdrängte und zum
 Sitzen nöthigte. Und auf einmal trocknete der Zorn.
 
 
-### 0030
+0030
 
 Eine alte Geschichte.
 33
@@ -904,7 +905,7 @@ Heyse, Sechs kleine Dramen.
 3
 
 
-### 0031
+0031
 
 34
 Eine alte Geschichte.
@@ -941,7 +942,7 @@ Erich (sich zur Heiterkeit zwingend).
 Ietzt beneide ich jeden regierenden Fürsten, der einen
 
 
-### 0032
+0032
 
 Eine alte Geschichte.
 35
@@ -977,7 +978,7 @@ und dann angestossen und von jetzt an auf Du und Du!
 (Susanne thut nach seinen Worten.) Nein, das ist noch nicht
 
 
-### 0033
+0033
 
 36
 Alles. Ietzt kommt noch die Hauptsache: du musst
@@ -1002,13 +1003,14 @@ die Augen über! Wollen Sie mir nicht, liebe Freundin
 (Vorhang fällt.)
 
 
-### 0034
+0034
 
-Die Zaubergeige.
+# Die Zaubergeige.
+
 (1901.)
 
 
-### 0035
+0035
 
 Personen:
 Irene v. Mannsfeld, eine junge Wittwe.
@@ -1017,7 +1019,7 @@ Annette, Irene's Zofe.
 Ort: Eine grosse Stadt.
 
 
-### 0036
+0036
 
 Wohnzimmer Irene's, behaglich und künstlerisch ausgestattet,
 Photographien nach italienischen Bildern, Blumen, vorn
@@ -1048,7 +1050,7 @@ Glauben Sie, dass ich nach einem Concert, nach
 Ihrem Concert, so bald an Schlafen denken könnte?
 
 
-### 0037
+0037
 
 0
 Die Zaubergeige.
@@ -1085,7 +1087,7 @@ net, heut noch einen Gast zu haben, meine Freundin
 Lucn Wendland, die war aber schon anderweitig versagt.
 
 
-### 0038
+0038
 
 Die Zaubergeige.
 Lorm (immer etwas befangen).
@@ -1121,7 +1123,7 @@ mit der Seele suchend. Ich konnte eben nicht, wie ich
 wollte.
 
 
-### 0039
+0039
 
 42
 Die Zaubergeige.
@@ -1157,7 +1159,7 @@ Lorm.
 Ich sehe da einen schönen Apfel. Das erinnert mich
 
 
-### 0040
+0040
 
 Die Zaubergeige.
 43
@@ -1195,7 +1197,7 @@ Lorm (nimmt zerstreut ein Scheibchen).
 Tausend Dank! Aber an jenem Abend war ich schlecht
 
 
-### 0041
+0041
 
 44
 Die Zaubergeige.
@@ -1233,7 +1235,7 @@ zu viel wurde und sie mir keinen Groschen mehr für
 ihn geben wollte. Da sparte ich mir das Brödchen oder
 
 
-### 0042
+0042
 
 Die Zaubergeige.
 45
@@ -1269,7 +1271,7 @@ unddreissig --- und keinen Stein in der Brust hat und
 wehrlos ist gegen die Macht des Schönen --- aber ver-
 
 
-### 0043
+0043
 
 46
 Die Zaubergeige.
@@ -1303,7 +1305,7 @@ Lorm.
 O nein! Das nicht. (wendet sich von ihr wea und macht
 
 
-### 0044
+0044
 
 Die Zaubergeige.
 47
@@ -1338,7 +1340,7 @@ begegnet, die Sie, auch abgesehen von Ihrer Kunst,
 liebenswürdig gefunden hätte?
 
 
-### 0045
+0045
 
 Die Zaubergeige.
 Lorm.
@@ -1373,7 +1375,7 @@ Irene.
 Und wie lange wird Ihre Tournee dauern?
 
 
-### 0046
+0046
 
 Die Zaubergeige.
 Lorm.
@@ -1407,7 +1409,7 @@ war, dass ein Künstler auf seinen Concertreisen sich sein
 Heyse, Sechs kleine Dramen.
 
 
-### 0047
+0047
 
 50
 Die Zaubergeige.
@@ -1442,7 +1444,7 @@ Lorm.
 Ein solches Märchen ---
 
 
-### 0048
+0048
 
 Die Zaubergeige.
 Irene.
@@ -1482,7 +1484,7 @@ werden.
 eI
 
 
-### 0049
+0049
 
 52
 Die Zaubergeige.
@@ -1517,7 +1519,7 @@ schüchternsten --- nein, seine kühnsten Iugendträume von
 weiblicher Hoheit und Holdseligkeit erfüllt, die er als
 
 
-### 0050
+0050
 
 Die Zaubergeige.
 53
@@ -1553,7 +1555,7 @@ nun gestehe, dass ich seit jenem ersten Abend beständig
 an Sie gedacht habe, dass der etwas verrückte Einfall,
 
 
-### 0051
+0051
 
 54
 Die Zaubergeige.
@@ -1589,7 +1591,7 @@ ja gestehn, dass ich nur auf Reisen gehn wollte, um
 Ihnen zu entfliehn, eh' es zu spät wäre. Ietzt bleibe
 
 
-### 0052
+0052
 
 Die Zaubergeige.
 55
@@ -1624,7 +1626,7 @@ Wie?
 Lorm.
 
 
-### 0053
+0053
 
 Die Zaubergeige.
 Irene.
@@ -1661,7 +1663,7 @@ lich, dass das äussere Band noch respectiert wird, wenn
 das innere längst zerrissen ist. Eine solche Treue, wenn
 
 
-### 0054
+0054
 
 Die Zaubergeige.
 57
@@ -1697,7 +1699,7 @@ Hause
 dem
 
 
-### 0055
+0055
 
 Die Zaubergeige.
 8
@@ -1734,7 +1736,7 @@ Ich habe Sie erschreckt --- Sie sind plötzlich irre an
 mir geworden --- Sie halten mich für eine der leicht-
 
 
-### 0056
+0056
 
 Die Zaubergeige.
 59
@@ -1772,7 +1774,7 @@ den ich über Alles liebe! (Sie hat seine Hand ergriffen und blickt
 ihn innig an. Er steht regungslos und sieht ernst zu Boden.)
 
 
-### 0057
+0057
 
 Die Zaubergeige.
 Lorm.
@@ -1809,7 +1811,7 @@ aufblicke, jetzt verschmähe ich alle Wonnen eines kurzen
 Rausches, die mir nicht die ewige Dauer verbürgen.
 
 
-### 0058
+0058
 
 Die Zaubergeige.
 61
@@ -1845,7 +1847,7 @@ Irene.
 Nicht doch. Nur dass es mir allerdings schwer wird,
 
 
-### 0059
+0059
 
 62
 Die Zaubergeige.
@@ -1882,7 +1884,7 @@ bleibt einen Augenblick an der Schwelle stehen, doch ohne zurückzublicken,
 und geht dann hinaus.)
 
 
-### 0060
+0060
 
 Die Zaubergeige.
 Irene
@@ -1921,7 +1923,7 @@ noch etwas gesagt?
 63
 
 
-### 0061
+0061
 
 Die Zaubergeige.
 Annette.
@@ -1958,7 +1960,7 @@ Schreibtisch, wo sie, dem Zuschauer abgewendet, etwas in ein weisses
 Papier wickelt.) Wer mir das vorausgesagt hätte, als ich ihn
 
 
-### 0062
+0062
 
 Die Zaubergeige.
 65
@@ -1995,7 +1997,7 @@ Heyse, Sechs kleine Dramen.
 5
 
 
-### 0063
+0063
 
 66
 Die Zaubergeige.
@@ -2032,7 +2034,7 @@ blieben, fragen wollte, ob sie mich trösten könnte über
 das verlorene Glück. Ich merkte gleich, dazu hätte sie
 
 
-### 0064
+0064
 
 Die Zaubergeige.
 (
@@ -2066,7 +2068,7 @@ aber lass dir von meinen stummen Lippen sagen -
 (umfängt ihn rasch, küsst ihn.)
 
 
-### 0065
+0065
 
 68
 Die Zaubergeige.
@@ -2079,13 +2081,14 @@ Anfang an all das Unheil angestiftet!
 (Vorhang fällt.)
 
 
-### 0066
+0066
 
-Zu treu.
+# Zu treu.
+
 (1904.)
 
 
-### 0067
+0067
 
 Personen:
 Louison, Schauspielerin.
@@ -2095,7 +2098,7 @@ Rosenberg, Theaterdirector.
 Dr. Wolf, Theaterkritiker.
 
 
-### 0068
+0068
 
 Zimmer bei Louison, sehr elegant möblirt, Thüren in der
 Mitte und links, rechts Fenster, daneben ein grosser Steh-
@@ -2123,7 +2126,7 @@ Heinrich.
 Nun denn --- (ieht eine Karte hervor) geben Sie ihr das!
 
 
-### 0069
+0069
 
 )
 4
@@ -2158,7 +2161,7 @@ nen, Samtdivan --- alle Wetter! Wer mir damals ge-
 sagt hätte, meine kleine Luise werde es so weit bringen
 
 
-### 0070
+0070
 
 Zu treu.
 73
@@ -2195,7 +2198,7 @@ Heft blickend) und finde eine Braut. Wie das jetzt werden
 wird --- na, lassen wir die Götter walten! (wirft sich in
 
 
-### 0071
+0071
 
 Zu treu.
 4
@@ -2234,7 +2237,7 @@ ihn zu, küsst ihn zweimal lebhaft auf den Mund.) Seit mann hist
 ihn zu, küsst ihn zweimal lebhaft auf den Mund.) Seit wann bist
 
 
-### 0072
+0072
 
 Zu treu.
 75
@@ -2269,7 +2272,7 @@ Hast du mir's noch nicht verziehen? Wahrhaftig,
 ich that's nicht leichten Herzens. Aber damals konnten
 
 
-### 0073
+0073
 
 Zu treu.
 1
@@ -2306,7 +2309,7 @@ noch. Auch dem Dichter bin ich treu geblieben, will
 sagen dem Menschen, der so schöne Sachen schrieb.
 
 
-### 0074
+0074
 
 Zu treu.
 Heinrich (rüsst ihr die Hand).
@@ -2341,7 +2344,7 @@ Heinrich.
 Du weisst, Liebste, wer einmal dramaturgisches Blut
 
 
-### 0075
+0075
 
 78
 Zu treu.
@@ -2376,7 +2379,7 @@ jetzt erlauben's unsre Mittel noch nicht. Aber kannst
 du dich nicht hieher versetzen lassen? Oder wenn das
 
 
-### 0076
+0076
 
 Zu treu.
 79
@@ -2410,7 +2413,7 @@ Louison (umarmt ihn).
 Da! Und jetzt --- ich habe die Ehre und das Ver-
 
 
-### 0077
+0077
 
 0
 Zu treu.
@@ -2444,7 +2447,7 @@ geblieben, endlich soll Ernst gemacht werden. Wenn
 Sie meinen Heinrich erst kennen werden --
 
 
-### 0078
+0078
 
 Zu treu.
 Heinrich.
@@ -2478,7 +2481,7 @@ Hense, Sechs kleine Dramen.
 5
 
 
-### 0079
+0079
 
 82
 Zu treu.
@@ -2513,7 +2516,7 @@ Horst, Gymnasiallehrer und dramatischer Dichter, mein
 Verlobter.
 
 
-### 0080
+0080
 
 Zu treu.
 Dr. Wolf.
@@ -2546,7 +2549,7 @@ Abend nach dem Theater eine Tasse Thee für mich haben,
 gnädiges Fräulein?
 
 
-### 0081
+0081
 
 Zu treu.
 Louison.
@@ -2582,7 +2585,7 @@ Von Graf Nordheim. Ist selbst draussen, fragt, ob
 das Fräulein nur auf fünf Minuten zu sprechen wäre.
 
 
-### 0082
+0082
 
 Zu treu.
 Louison.
@@ -2618,7 +2621,7 @@ angenommen, Liebste? Diese kostbaren Ringe --- die
 Diamantohrringe --- alles von deiner Gage?
 
 
-### 0083
+0083
 
 86
 Zu treu.
@@ -2653,7 +2656,7 @@ freilich unschädlich gemacht. Es könnte jedoch sein, dass
 einer der Andern wieder auftauchte ---
 
 
-### 0084
+0084
 
 Zu treu.
 Lonison.
@@ -2689,7 +2692,7 @@ Louison.
 Gemiss. Hab' ich doch auch den unscheinbaren Ver-
 
 
-### 0085
+0085
 
 Zu treu.
 88
@@ -2721,7 +2724,7 @@ Der Zar hat ihn begnadigt, ihm ein Iahr seines
 Exils geschenkt, und er --- der gute Mensch --- augen-
 
 
-### 0086
+0086
 
 Zu treu.
 89
@@ -2755,7 +2758,7 @@ wenn ich ihm in den ersten fünf Minuten meinen Bräuti-
 gam vorstellte. Hernach --- na, da muss er sich freilich
 
 
-### 0087
+0087
 
 90
 Zu treu.
@@ -2790,7 +2793,7 @@ Louison's Stimme (trällernd).
 "Die Troika fährt in leisem Trabe u. s. w.
 
 
-### 0088
+0088
 
 Zu treu.
 Letzte Scene.
@@ -2827,7 +2830,7 @@ in recht
 Ein recht hübscher Brief, wenn auch ein bischen
 
 
-### 0089
+0089
 
 92
 Zu treu.
@@ -2843,14 +2846,16 @@ Hemdkrägen trägt und angeknöpfte Manchetten!
 (Vorhang fällt.)
 
 
-### 0090
+0090
 
-Horaz und Lydia.
+# Horaz und Lydia.
+
 (1905.)
+
 Donec gratus eram tibi ---
 
 
-### 0091
+0091
 
 Horaz.
 Torquatus.
@@ -2864,7 +2869,7 @@ Ort: das Landgut des Horaz.
 Personen:
 
 
-### 0092
+0092
 
 Ein geräumiges Speisezimmer, im Hintergrunde ein breiter
 Eingang, durch den man in den offenen Hof sieht. Ein
@@ -2895,7 +2900,7 @@ Kommt zu Besuch, da gilt's, sich Ehre machen!
 Und ich: wird sie vorlieb auch nehmen, sagt' ich,
 
 
-### 0093
+0093
 
 Horaz und Lydia.
 96
@@ -2931,7 +2936,7 @@ Lyke.
 Was denkst du auch! Hier treibt er's nicht so lustig,
 
 
-### 0094
+0094
 
 Horaz und Lndia.
 Wie in der Stadt. Ist auch nichts Feines hier,
@@ -2969,7 +2974,7 @@ Traurig? Sagt' er so?
 Heyse, Sechs kleine Dramen.
 
 
-### 0095
+0095
 
 98
 Horaz und Lydia.
@@ -3007,7 +3012,7 @@ Lyke.
 O nicht doch!
 
 
-### 0096
+0096
 
 Horaz und Lydia.
 Wenn er dich findet, lässt er dich nicht sort.
@@ -3043,7 +3048,7 @@ Gesellschaft ihr zu leisten. Und ich dachte,
 Warum auch sollt' ich, da mein Weg vorbeiführt,
 
 
-### 0097
+0097
 
 Horaz und Lydia.
 10
@@ -3079,7 +3084,7 @@ Und dasse
 stet -
 
 
-### 0098
+0098
 
 Horaz und Lydia.
 Horaz.
@@ -3117,7 +3122,7 @@ Lobt' ich dir seinen ros'gen Nacken, seine
 Arme so weiss wie Wachs -
 
 
-### 0099
+0099
 
 102
 Horaz und Lydia.
@@ -3153,7 +3158,7 @@ Mich dünkt, da kam ich auch. Doch statt des Herrn,
 Der freudealänzend immer mich begrüsste
 
 
-### 0100
+0100
 
 Wie eine Göttin, die sein dürftig Haus
 Gewürdigt ihrer Gegenwart, empfing mich
@@ -3192,7 +3197,7 @@ Horaz und Lndia.
 103
 
 
-### 0101
+0101
 
 14
 Horaz und Lydia.
@@ -3228,7 +3233,7 @@ Den Trug der Liebe, floh hieher und hielt
 Den Schwur, indessen du --
 
 
-### 0102
+0102
 
 Horaz und Lydia.
 Lydia.
@@ -3264,7 +3269,7 @@ Den Göttern danken, dass sie uns ein Glück
 Gelehrt, nicht ganz so süss, doch dauernder.
 
 
-### 0103
+0103
 
 106
 Horaz und Lydia.
@@ -3299,7 +3304,7 @@ Denn um so länger jetzt behalt' ich euch,
 Und nicht vor morgen früh lass' ich euch fort.
 
 
-### 0104
+0104
 
 Horaz und Lydia.
 Ia, läg's an mir--
@@ -3336,7 +3341,7 @@ Die dich beglaub'gen. Ohne Zögern dann
 Machst du dich auf den Weg.
 
 
-### 0105
+0105
 
 108
 Horaz und Lydia.
@@ -3374,7 +3379,7 @@ Ein ländlich Mahl, wie ich's versprach, nicht eine
 Muräne, erst mit Ol, so lang sie kocht,
 
 
-### 0106
+0106
 
 Horaz und Lydia.
 Und dann beträuft mit Chierwein, nicht Leber
@@ -3411,7 +3416,7 @@ Daraus von jung' und alten Lippen trällern.
 Ia, im Prozess des Aulus Vettius
 
 
-### 0107
+0107
 
 110
 Horaz und Lydia.
@@ -3446,7 +3451,7 @@ Von Eros' Pfeil nicht rasch vernarbten durch
 Den Balsam süsser Lippen, nur um rasch
 
 
-### 0108
+0108
 
 Horaz und Lydia.
 Neu aufzubrechen? O und doch, auch uns
@@ -3486,7 +3491,7 @@ Freundschaft und Liebe --- seltsam, du berührst
 Das Thema, das ich erst vor wenig Tagen
 
 
-### 0109
+0109
 
 Horaz und Lydia.
 -
@@ -3524,7 +3529,7 @@ Auf jede süsse Thorheit
 Und holde Knechtschaft bring' ich dir's, Horaz.
 
 
-### 0110
+0110
 
 Horaz und Lydia.
 Heil, Heil der Unheilstifterin Aphrodite! (trintt.)
@@ -3562,7 +3567,7 @@ Heyse, Sechs kleine Dramen.
 8
 
 
-### 0111
+0111
 
 114
 Horaz und Lydia.
@@ -3599,7 +3604,7 @@ Geh wieder in die Küche, hilf der Tante
 Beim Kochen!
 
 
-### 0112
+0112
 
 Horaz und Ludia.
 Lydia (mit verstellter Stimme).
@@ -3633,7 +3638,7 @@ Lydia.
 Phyllis.
 
 
-### 0113
+0113
 
 116
 Wie alt?
@@ -3666,7 +3671,7 @@ Ich nehme sie
 Zunächst aufs Land hinaus. Doch wenn sie selbst
 
 
-### 0114
+0114
 
 Horaz und Ludia.
 117
@@ -3701,7 +3706,7 @@ Fluren der Rasen
 Und an den Bäumen das Laub.“
 
 
-### 0115
+0115
 
 18
 Horaz und Lydia.
@@ -3733,7 +3738,7 @@ Nein, süsses Kind,
 Noch nicht die Frucht, nur erst die Blüte. Tritt
 
 
-### 0116
+0116
 
 Horaz und Lydia.
 Nur wieder ein. Komm! bitte, dass dein Herr
@@ -3769,7 +3774,7 @@ Zurück! Gewaltthat duld' ich nicht
 In meinem Hause.
 
 
-### 0117
+0117
 
 120
 Horaz und Lydia.
@@ -3801,7 +3806,7 @@ Der Wagen lasse nicht vor morgen früh
 In Stand sich setzen, dass zur Fahrt nach Rom
 
 
-### 0118
+0118
 
 Horaz und Lydia.
 Er brauchbar sei. Nun hilf mir aus der Noth
@@ -3837,7 +3842,7 @@ Torquatus (höchst erstaunt).
 Lydia! Mir ahnt' es doch!
 
 
-### 0119
+0119
 
 122
 Horaz und Lndin
@@ -3869,7 +3874,7 @@ In einer alten Tante Schlafgemach!
 Dir wünsch' ich Glück zu solcher Freundschaft, Lydia,
 
 
-### 0120
+0120
 
 Horaz und Lydia.
 Und dir, Horaz, muss ich nun zugestehn,
@@ -3904,7 +3909,7 @@ Gesellschaft hier! (winkt Lydia zu.)
 eilia herein.)
 
 
-### 0121
+0121
 
 124
 Horaz und Lydia.
@@ -3938,7 +3943,7 @@ Nicht Alles blüht im neuen Frühling neu,
 Was abaeblüht vor Iahr und Tag. Du musst
 
 
-### 0122
+0122
 
 Horaz und Lydia.
 Nicht fürchten, dass ich mit Gewalt dich halte,
@@ -3971,7 +3976,7 @@ Um seinethalb drängt mich's hinweg von hier:
 Um dich!
 
 
-### 0123
+0123
 
 126
 Horaz und Lydia.
@@ -4005,7 +4010,7 @@ Ein Raub der alten Flamme, die ich Thor
 Für immer schon gewähnt erstickt zu haben!
 
 
-### 0124
+0124
 
 Horaz und Ludia.
 Ia nun beschwör' ich selbst dich: Schone mich
@@ -4040,7 +4045,7 @@ Gequälter Herzen, steh mir bei, beschütze
 Mich vor dem Wahnsinn, der ums Haupt mir schon
 
 
-### 0125
+0125
 
 Horaz und Lydia.
 128
@@ -4076,7 +4081,7 @@ Hat's Raum in einer Brust und sprengt sie nicht?
 Mein Schicksal du, mein Himmelstrost, o sag,
 
 
-### 0126
+0126
 
 Horaz und Lydia.
 129
@@ -4111,7 +4116,7 @@ Da du bestätigt hast, dass ein Poet
 Heyse, Sechs kleine Dramen.
 
 
-### 0127
+0127
 
 Horaz und Lydia.
 130
@@ -4125,14 +4130,16 @@ Wenn das Leben entflieht, scheidet der Liebesgott!"
 (Vorhang fällt.)
 
 
-### 0128
+0128
 
-Der Stern von Mantua.
+# Der Stern von Mantua.
+
 Schauspiel in zwei Akten.
+
 (1898.)
 
 
-### 0129
+0129
 
 Personen:
 Ercole Gonzaga, Herzog von Mantua.
@@ -4152,7 +4159,7 @@ Ort der Handlung: Mantua.
 Zeit: Ende des 16. Iahrhunderts.
 
 
-### 0130
+0130
 
 Erster Akt.
 Zimmer im Hause des Advokaten Tedaldi, links zwei
@@ -4179,7 +4186,7 @@ Deine Hände sind kalt und feucht, und dein Gesicht
 glüht. Schon gestern Nacht, als ich dich mit meiner
 
 
-### 0131
+0131
 
 134
 früheren Heimkehr freudig zu überraschen dachte, -
@@ -4214,7 +4221,7 @@ Brief kam, der mir den plötzlichen Tod meiner armen
 geliebten Mutter anzeigte. Und ich hatte nicht an ihrem
 
 
-### 0132
+0132
 
 Der Stern von Mantua.
 135
@@ -4251,7 +4258,7 @@ Nein, es ist nicht möglich, es wäre wider die Natur.
 du, es ist wie eine Verzauberung --- selbst das Uber-
 
 
-### 0133
+0133
 
 136
 Der Stern von Mantun
@@ -4288,7 +4295,7 @@ dich nur bewunderte und dir's dankte, was du an
 den Meinen gethan, dass du für meinen Bruder den
 
 
-### 0134
+0134
 
 Der Stern von Mantua.
 137
@@ -4325,7 +4332,7 @@ Einen Herzenswunsch? Und du hast ihn mir ver-
 schwiegen?
 
 
-### 0135
+0135
 
 138
 Der Stern von Mantua.
@@ -4361,7 +4368,7 @@ die beleidigte Ehre einer Schwester oder Gattin gegen
 den zügellosen Wüstling eintrat, der schon die Absicht,
 
 
-### 0136
+0136
 
 Der Stern von Mantua.
 139
@@ -4397,7 +4404,7 @@ Es klopft unten. Wer kann noch so spät ---
 eilt hinaus1
 
 
-### 0137
+0137
 
 140
 Der Stern von Mantua.
@@ -4429,7 +4436,7 @@ Ich bin nicht krank, Herr Eusebio, nur ein wenig
 angegriffen von der unruhigen Nacht.
 
 
-### 0138
+0138
 
 Der Stern von Mantua.
 Eusebio.
@@ -4465,7 +4472,7 @@ Ich will die Herren verlassen. Gute Nacht! (geht,
 Lorenzo zunickend, in die hintere Thüre links ab.)
 
 
-### 0139
+0139
 
 142
 Der Stern von Mantua.
@@ -4497,7 +4504,7 @@ nicht auf die Pfaffen stützen könnte --- na, dergleichen
 sehen die guten Weiber nicht ein, und die Eure ---
 
 
-### 0140
+0140
 
 Der Stern von Mantua.
 Lorenzo (unwirsch).
@@ -4532,7 +4539,7 @@ Was geht's mich auch an? Nein, ich hätte kein Wort
 sagen sollen. Lebt wohl! (wil gehen.)
 
 
-### 0141
+0141
 
 144
 Der Stern von Mantua.
@@ -4569,7 +4576,7 @@ Lorenzo (sich mühsam fassend).
 Sieht Eure Frau oft Gespenster?
 
 
-### 0142
+0142
 
 Der Stern von Mantua.
 Eusebio.
@@ -4606,7 +4613,7 @@ Heyse, Sechs kleine Dramen.
 10
 
 
-### 0143
+0143
 
 146
 Der Stern von Mantua.
@@ -4638,7 +4645,7 @@ Was stehst du und starrst mich an? Was hast du
 hier zu thun? Ist deine Frau schon zu Bett?
 
 
-### 0144
+0144
 
 Cattina.
 Ich sagte schon, Herr, sie wollte eben ---
@@ -4668,7 +4675,7 @@ Lorenzo (or sich hin brütend).
 Der Wurm! Der nagende Wurm!
 
 
-### 0145
+0145
 
 148
 Der Stern von Mantua
@@ -4706,7 +4713,7 @@ oder Pfaffenspuk --- in meinem Hause duld' ich keinen.
 zurück.) Nein, nein! Es ist ja unmöglich! --
 
 
-### 0146
+0146
 
 Der Stern von Mantua.
 Eusebio.
@@ -4741,7 +4748,7 @@ Es hilft nichts, darüber nachzugrübeln. Ich darf
 keine Zeit verlieren, er muss fort.
 
 
-### 0147
+0147
 
 150
 Cattina.
@@ -4775,7 +4782,7 @@ Lelio --- du Armster, wie hast du den langen Tag
 überstanden, während ich --- nicht einen Auaenblick
 
 
-### 0148
+0148
 
 Der Stern von Mantua.
 151
@@ -4811,7 +4818,7 @@ es ist grausam, dass wir uns so kurz nur wieder haben
 durften!
 
 
-### 0149
+0149
 
 152
 Der Stern von Mantun.
@@ -4846,7 +4853,7 @@ miterlebt hättest, mit angesehen, wie der, dem du feind
 bist, deine Schwester auf Händen trägt --
 
 
-### 0150
+0150
 
 Der Stern von Mantua.
 Lelio.
@@ -4880,7 +4887,7 @@ du ihm meinen Namen nanntest, hören müssen, dass
 er nichts mit mir gemein haben will? Auch wenn der
 
 
-### 0151
+0151
 
 154
 Der Stern von Mantua.
@@ -4916,7 +4923,7 @@ stürzt binan8)
 stürzt hinaus.)
 
 
-### 0152
+0152
 
 Der Stern von Mantun
 Achte Scene.
@@ -4952,7 +4959,7 @@ Ich muss hin zu ihm --- halte mich nicht --- er tödtet
 hn --- (fieht plötzlich Lorenzo, der die Thür aufgerifsen hat
 
 
-### 0153
+0153
 
 156
 Der Stern von Mantua.
@@ -4986,7 +4993,7 @@ O Gott, meine Frau, --- sie stirbt mir unter den
 Händen!
 
 
-### 0154
+0154
 
 Der Stern von Mantua.
 Lorenzo.
@@ -5020,7 +5027,7 @@ Ich beschwöre dich, Lorenzo, halte mich nicht --- ich
 157
 
 
-### 0155
+0155
 
 158
 darf dir nicht sagen --- ich hab' es geschworen bei der
@@ -5053,7 +5060,7 @@ wenn sein Tod mir die Lippen öffnet, wirst du dies
 Wort bereuen!
 
 
-### 0156
+0156
 
 Der Stern von Mantu
 Zehnte Scene.
@@ -5087,7 +5094,7 @@ Augen nach dem Madonnenbild gewendet.)
 (Vorhang fällt.)
 
 
-### 0157
+0157
 
 160
 Der Stern von Mantua.
@@ -5122,7 +5129,7 @@ dieser Heirath nicht endlich Ernst machte, und so ver-
 sprach ich --- aber dann stellte ich mir vor, wie diese
 
 
-### 0158
+0158
 
 Der Stern von Mantua.
 161
@@ -5160,7 +5167,7 @@ ihren kleinen Finger seinen Mund drücken könnte.
 Heyse, Sechs kleine Dramen.
 
 
-### 0159
+0159
 
 162
 Der Stern von Mantua.
@@ -5195,7 +5202,7 @@ die Ehe mit diesem Mann, der ihr Vater sein könnte,
 ihr zu genügen schien. Wenn ich sie vor fünf Iahren
 
 
-### 0160
+0160
 
 Der Stern von Mantua.
 163
@@ -5231,7 +5238,7 @@ sollen warten, bis ich sie berufe. Und höre: weisst du,
 wie's um den Verwundeten steht?
 
 
-### 0161
+0161
 
 164
 Der Stern von Mantua.
@@ -5263,7 +5270,7 @@ Costanza.
 Auch heute noch würde ich die gleiche Antwort haben.
 
 
-### 0162
+0162
 
 Der Stern von Mantua.
 Herzog.
@@ -5299,7 +5306,7 @@ Ihr seht, wir sind allein. Ihr könnt nun freier
 reden.
 
 
-### 0163
+0163
 
 166
 Der Stern von Mantua.
@@ -5336,7 +5343,7 @@ Recht hat, nicht verletzt zu werden, sollt Ihr dem Ge-
 richt Rede stehen. Wollt Ihr mir, Eurem obersten
 
 
-### 0164
+0164
 
 Der Stern von Mantua.
 167
@@ -5373,7 +5380,7 @@ führe --- ich gebiete es Euch. (ergreift ihre Hand, führt sie
 trotz ihres Widerstrebens zu dem Sessel vorn, in den sie hineinsinkt.)
 
 
-### 0165
+0165
 
 168
 Der Stern von Mantua.
@@ -5410,7 +5417,7 @@ sagen. Er aber, mein theurer Gatte, nur darum, weil
 er einen Augenblick an seinem Weibe gezweifelt hat,
 
 
-### 0166
+0166
 
 Der Stern von Mantua.
 169
@@ -5446,7 +5453,7 @@ Anderes, als den Tod auf dem Schafott in ewige Ver-
 bannung zu verwandeln. Allzuhoch ist die Zügellosig-
 
 
-### 0167
+0167
 
 170
 keit des Pöbels gegen die heiligen Diener der Kirche
@@ -5483,7 +5490,7 @@ Ihr spottet meiner. Entlasst mich, Herzog Ercole.
 Ich bin nicht gelaunt, Hohn zu ertragen.
 
 
-### 0168
+0168
 
 Der Stern von Mantua.
 Herzog.
@@ -5522,7 +5529,7 @@ m?
 unterscheiden kann? Sagt Euer Verstand Euch nicht,
 
 
-### 0169
+0169
 
 172
 Der Stern von Mantua.
@@ -5561,7 +5568,7 @@ wollen, besinnt sich dann und entfernt sich durch die Thüre vorn zur
 Linken.)
 
 
-### 0170
+0170
 
 Der Stern von Mantua.
 Dritte Scene.
@@ -5595,7 +5602,7 @@ Ich weiss nur, edle Dame, dass ich Euch bewachen
 und Euch keinen Verkehr mit Andern gestatten soll.
 
 
-### 0171
+0171
 
 174
 Der Stern von Mantua.
@@ -5633,7 +5640,7 @@ und Cattina.
 Volpino (geht durch die vordere Thür links hinaus).
 
 
-### 0172
+0172
 
 Der Stern von Mantua.
 Sibilla.
@@ -5670,7 +5677,7 @@ wenn man auch von ihr wüsste, wie sie's trieb, und dass
 hinter der Heiligenlarve der baare Teufel sich ins
 
 
-### 0173
+0173
 
 176
 Der Stern von Mantua.
@@ -5705,7 +5712,7 @@ vergangenen Nacht um die 20ste Stunde einen Mord
 begangen zu haben an einem unbekannten Mönch vom
 
 
-### 0174
+0174
 
 Orden der Minoriten, den Ihr aus Eurem Hause
 kommen saht. Bekennt Ihr Euch der blutigen That
@@ -5742,7 +5749,7 @@ Heyse, Sechs kleine Dramen.
 12
 
 
-### 0175
+0175
 
 178
 Der Stern von Mantua.
@@ -5777,7 +5784,7 @@ That werfen. Frau Costanza Tedaldi, ich
 diese dunkle
 
 
-### 0176
+0176
 
 Der Stern von Mantua.
 179
@@ -5811,7 +5818,7 @@ Costanza.
 Auch gegen ihn! O tausendmal habe ich bereut.
 
 
-### 0177
+0177
 
 180
 Der Stern von Mantua.
@@ -5849,7 +5856,7 @@ wenn hier Iemand büssen muss für eine unselige That,
 die im Rausch der verwundeten Liebe, im Fieber eines
 
 
-### 0178
+0178
 
 Der Stern von Mantua.
 181
@@ -5885,7 +5892,7 @@ sei's geklagt, Sibilla Gallo, Eurer Excellenz zu dienen,
 und die böseste Zunge von Mantua, und gegen unsere
 
 
-### 0179
+0179
 
 182
 edle Frau Costanza so gehässig, wie nur je eine Krähe
@@ -5922,7 +5929,7 @@ Auge, und richtig, genau um Mitternacht, wie sie's
 wohl abgeredet hatten, schlich er sich an ihr Haus --
 
 
-### 0180
+0180
 
 Der Stern von Mantua.
 183
@@ -5959,7 +5966,7 @@ schwarze Seide. Und, sagt' ich, obwohl ich der Costanza
 drüben nicht grün bin wegen ihrer Scheinheiligkeit, dass
 
 
-### 0181
+0181
 
 184
 Der Stern von Mantua.
@@ -5995,7 +6002,7 @@ selbst den Kopf geschüttelt. Aber ich dachte: Du bist
 ein dummes Geschöpf, Cattina, was deine Frau thut,
 
 
-### 0182
+0182
 
 Der Stern von Mantua.
 185
@@ -6032,7 +6039,7 @@ sein noch nicht wiedergekehrt, doch schien es ein wohl-
 thätiaer Schlaf zu sein. Ob er freilich schon bald so
 
 
-### 0183
+0183
 
 186
 Der Stern von Mantua.
@@ -6068,7 +6075,7 @@ Costanza.
 Geht mit Gott, Eusebio, meine Verzeihung soll Euch
 
 
-### 0184
+0184
 
 Der Stern von Mantua.
 187
@@ -6107,7 +6114,7 @@ Wissen und Gewissen gebe ich
 em besten
 
 
-### 0185
+0185
 
 188
 Der Stern von Mantua.
@@ -6144,7 +6151,7 @@ Ein Gatte, der den Schänder seiner Ehre züchtigt, ist
 frei auch vor dem irdischen Gericht, das ihn dem Spruch
 
 
-### 0186
+0186
 
 Der Stern von Mantua.
 189
@@ -6180,7 +6187,7 @@ nach dem Gesetz mir zukommt. Die Welt, in der allein
 ich athmen kann, war bis gestern mein Haus und das
 
 
-### 0187
+0187
 
 190
 Herz meines Weibes. Da ich aus diesen Stätten ver-
@@ -6214,7 +6221,7 @@ Ich --- habe es --- gethan! Ich bin ein armes sündiges
 Weib, und wenn mein Gatte um mich den Tod erlitten
 
 
-### 0188
+0188
 
 Der Stern von Mantua.
 191
@@ -6252,7 +6259,7 @@ da sie sich zur Märtyrerin gemacht, sie steht wie eine
 Boden. (nähert sich ihr, beugt ein Knie vor ihr.) Costanza, du
 
 
-### 0189
+0189
 
 192
 Heilige, auf den Knieen lass mich dir danken, dass du
@@ -6288,7 +6295,7 @@ Herzog.
 Was bedeuten die Zurufe draussen auf der Gasse?
 
 
-### 0190
+0190
 
 Der Stern von Mantua.
 Sihilla (die hinausgelaufen ist, kehrt zurück).
@@ -6327,7 +6334,7 @@ Heyse, Sechs kleine Dramen.
 13
 
 
-### 0191
+0191
 
 194
 Der Stern von Mantua.
@@ -6362,7 +6369,7 @@ Lelio.
 Weil ich meiner Schwester Costanza den Segen
 
 
-### 0192
+0192
 
 Der Stern von Mantua.
 195
@@ -6400,7 +6407,7 @@ Wille. Aber hofft nicht, wir möchten alles Gesetz und
 Recht in unsrem Lande zum Spott und zur Posse werden
 
 
-### 0193
+0193
 
 196
 Der Stern von Mantua.
@@ -6438,7 +6445,7 @@ fürstliche Hand zu vergeben hat. Wolltet Ihr nun der
 Frau, die Ihr so hoch erhoben, die einzige Gunst ver-
 
 
-### 0194
+0194
 
 sagen, die ihr das Glück und den Frieden ihrer Seele
 sichern kann?
@@ -6475,7 +6482,7 @@ Lelio. mein aeliebter Bruder. du lebst, du wirst
 Lelio, mein geliebter Bruder, du lebst, du wirst
 
 
-### 0195
+0195
 
 198
 leben --- und du, mein Lorenzo --- meine Geliebten,
@@ -6495,28 +6502,25 @@ Lippen zu drücken, und sie den Arm um ihn schlingt)
 (fällt der Vorhang.)
 
 
-### 0196
+0196
 
-Die Tochter der Semiramis.
+# Die Tochter der Semiramis.
+
 Tragödie in einem Akt.
+
 (1897.)
 
+- Personen:
+  - Mylitta, Königin von Assyrien.
+  - Ninyas.
+  - Seine Mutter.
+  - Menon, Palastvogt.
+  - Nabonassar
+  - Simmas Krieger.
+  - Sclaven und Sclavinnen.
+  - Ort der Handlung: Königspalast in Niniveh.
 
-### 0197
-
-Personen:
-Mylitta, Königin von Assyrien.
-Ninyas.
-Seine Mutter.
-Menon, Palastvogt.
-Nabonassar
-Simmas Krieger.
-Sclaven und Sclavinnen.
-Ort der Handlung: Königspalast in Niniveh.
 Zeit: um 1200 v. Chr.
-
-
-### 0198
 
 Grosses Gemach im Palast. Durch schwere vergoldete
 Pfeiler im Hintergrunde Ausblick in einen Garten. Rechts
@@ -6541,7 +6545,7 @@ Simmas.
 Du meinst --- ein Freier für die Königin?
 
 
-### 0199
+0199
 
 202
 Die Tochter der Semiramis.
@@ -6577,7 +6581,7 @@ Nabonassar.
 Ich nicht. Die Malchis, als ich hier die Wache
 
 
-### 0200
+0200
 
 Die Tochter der Semiramis.
 Bezog, die hat mir's zugeraunt. Blutjung,
@@ -6613,7 +6617,7 @@ Simmas.
 Ie nun, sie ist sehr schön.
 
 
-### 0201
+0201
 
 204
 Die Tochter der Semiramis.
@@ -6649,7 +6653,7 @@ Simmas (lachend).
 Wenn Malchis Recht hat,
 
 
-### 0202
+0202
 
 Die Tochter der Semiramis.
 Wird mit dem Neusten sie zufrieden sein,
@@ -6685,7 +6689,7 @@ Wär' eine Dummheit, lieber Sohn. Es giebt
 Der Proben mehr, sich muthig zu erweisen,
 
 
-### 0203
+0203
 
 206
 Die Tochter der Semiramis.
@@ -6722,7 +6726,7 @@ Sie Frau geworden. So! Nun weisst du's. Also:
 Bleibst du dabei?
 
 
-### 0204
+0204
 
 Die Tochter der Semiramis.
 Ninnas fmacht eine Geberde der Ungeduld).
@@ -6753,7 +6757,7 @@ Nicht bei gesunden Sinnen.
 (Ninyas sinkt wie erschöpft auf die Stufen nieder.)
 
 
-### 0205
+0205
 
 208
 Die Tochter der Semiramis.
@@ -6787,7 +6791,7 @@ sind nackt, aber mit einem feinen granatrothen Schleier-
 tuch bedeckt, das sie um Brust und Hals geschlungen hat.
 
 
-### 0206
+0206
 
 Die Tochter der Semiramis.
 209
@@ -6825,7 +6829,7 @@ Hast du noch
 14
 
 
-### 0207
+0207
 
 210
 Die Tochter der Semiramis.
@@ -6858,7 +6862,7 @@ Mylitta (das Haupt aufrichtend).
 Wer lehrte dich
 
 
-### 0208
+0208
 
 Die Tochter der Semiramis.
 Die stolze Sprache? Du bist niedern Standes,
@@ -6894,7 +6898,7 @@ Sie sagten: Wir sind alt und einsam, Kind.
 Musst du uns denn verlassen? Und ich sprach:
 
 
-### 0209
+0209
 
 212
 Die Tochter der Semiramis.
@@ -6930,7 +6934,7 @@ Mylitta.
 Und dann --
 
 
-### 0210
+0210
 
 Die Tochter der Semiramis.
 Ninyas.
@@ -6964,7 +6968,7 @@ Mylitta (betrofen).
 Nein?
 
 
-### 0211
+0211
 
 214
 Die Tochter der Semiramis
@@ -6999,7 +7003,7 @@ Zu mir, so wie der Bräutigam zur Braut.
 Zum Ekel wurde mir's, von Höflingen
 
 
-### 0212
+0212
 
 Die Tochter der Semiramis.
 Mein Lob zu hören. Von so unberührten,
@@ -7032,7 +7036,7 @@ Aus Laune nur?
 215
 
 
-### 0213
+0213
 
 216
 Die Tochter der Semiramis.
@@ -7068,7 +7072,7 @@ Wahnwitz'ger Thor!
 (schlägt an einen Schild; Menon und die beiden Wachen treten ein.)
 
 
-### 0214
+0214
 
 Die Tochter der Semiramis.
 217
@@ -7104,7 +7108,7 @@ Mylitta
 Bist du ein Seher,
 
 
-### 0215
+0215
 
 218
 Die Tochter der Semiramis.
@@ -7139,7 +7143,7 @@ Von wem ich rede! --- Wisse denn: er fuhr
 Bei Mondenschein den Fluss hinunter, wohl
 
 
-### 0216
+0216
 
 Die Tochter der Semiramis.
 Der Heimkehr froh zu seinem jungen Weibe,
@@ -7176,7 +7180,7 @@ Zerfleischt hintreiben, und im Ohre klang mir
 219
 
 
-### 0217
+0217
 
 220
 Die Tochter der Semiramis.
@@ -7213,7 +7217,7 @@ Ninyas.
 Dass man als Halbgott mich gepriesen,
 
 
-### 0218
+0218
 
 Die Tochter der Semiramis.
 Der endlich doch die feige Welt befreit
@@ -7250,7 +7254,7 @@ Von meinen Lippen, und der Halbgott fühlt
 Die Fäuste niedrer Sclaven. Zögerst du?
 
 
-### 0219
+0219
 
 222
 Die Tochter der Semiramis.
@@ -7286,7 +7290,7 @@ Und Klugheit sah und ihren Muth. Doch kaum
 Gestillt die erste Sinnenbrunst, so hielt er
 
 
-### 0220
+0220
 
 Die hohe Frau viel liebevoller nicht,
 Als hätt' er sie erkauft am Sclavenmarkt.
@@ -7323,7 +7327,7 @@ Und da ich nun mich selbst in abscheuwürd'ger
 Gestalt gesehn, im Spiegel, den du mir
 
 
-### 0221
+0221
 
 224
 Die Tochter der Semiramis.
@@ -7361,7 +7365,7 @@ Elender Prahler! Ia!
 Vermassest dich, du Schwächlina, diesen Hals
 
 
-### 0222
+0222
 
 Die Tochter der Semiramis.
 Mit zitternd weichen Händen zu umklammern,
@@ -7400,7 +7404,7 @@ Heyse, Sechs kleine Dramen.
 225
 
 
-### 0223
+0223
 
 226
 Die Tochter der Semiramis.
@@ -7439,7 +7443,7 @@ Der mich in meiner Schwäche sah!
 wieder um den Nacken und schreitet langsam rechts hinaus.)
 
 
-### 0224
+0224
 
 Fünfte Scene.
 Ninyas allein.
@@ -7476,7 +7480,7 @@ Die Kön'gin sendet ihrem Gast
 Gruss und die Bitte, dass er fröhlich sei
 
 
-### 0225
+0225
 
 228
 Und koste von dem Mahl und sich am Wein
@@ -7512,7 +7516,7 @@ Musik.)
 Ha, noch immer mehr
 
 
-### 0226
+0226
 
 Der buhlerischen Künste?
 Schmachtende Flöten, weisse Schultern, Augen
@@ -7547,7 +7551,7 @@ Die Mutter.
 Soll eine Mutter den
 
 
-### 0227
+0227
 
 230
 Nicht finden, die zum Sohne will? O Ninyas,
@@ -7581,7 +7585,7 @@ Die Mutter.
 Ia, das ist's,
 
 
-### 0228
+0228
 
 Die Tochter der Semiramis.
 Nie zu verwinden. Und das sagt' ich auch,
@@ -7619,7 +7623,7 @@ Ietzt sollst du leben.
 231
 
 
-### 0229
+0229
 
 232
 Die Tochter der Semiramis.
@@ -7654,7 +7658,7 @@ Nach Allem aus, wie du als Knabe warst,
 Und dann als Iüngling, ob die Weiber dir
 
 
-### 0230
+0230
 
 Die Tochter der Semiramis.
 Nicht nachgestellt, und da ich überfloss
@@ -7690,7 +7694,7 @@ Dies jammervolle Herz, das nicht mehr weiss,
 Was es zu wünschen, was zu fürchten hat!
 
 
-### 0231
+0231
 
 234
 Die Tochter der Semiramis.
@@ -7727,7 +7731,7 @@ Sie schauen müsste --
 (schlägt die Hände vors Gesicht. Dann verstört aufblickend)
 
 
-### 0232
+0232
 
 Die Tochter der Semiramis.
 - Lass uns fliehn! Gleich jetzt!
@@ -7764,7 +7768,7 @@ Das Herz voll Mordgedanken, so gewiss
 Wird dieses Herz unwiderstehlich dich
 
 
-### 0233
+0233
 
 236
 Zurückziehn. Wo du auch dich bergen möchtest,
@@ -7802,7 +7806,7 @@ Ninyas
 Den Sieg? Nein, Mütterchen, nicht wahr, wir geben
 
 
-### 0234
+0234
 
 Die Tochter der Semiramis.
 So rasch uns nicht verloren. Zwar, der Feind
@@ -7838,7 +7842,7 @@ Sein tapfres Herz steht still --- o, Todesgöttin,
 Kannst du die blühnde Iuaend vor dem Alter
 
 
-### 0235
+0235
 
 238
 Die Tochter der Semiramis.
@@ -7877,7 +7881,7 @@ Die Mördrin deines Bruders. --- Siehst du wohl,
 Alte? Bei meinem Namen zuckt's in ihm
 
 
-### 0236
+0236
 
 Von wildem Hass. Wenn ich die Lippen jetzt
 Auf seine drücke, wird der Ekel so
@@ -7914,7 +7918,7 @@ Zum Durst nach einem einz'gen Tropfen Glück,
 Der nie ihr netzt die Lippe!
 
 
-### 0237
+0237
 
 240
 Die Tochter der Semiramis.
