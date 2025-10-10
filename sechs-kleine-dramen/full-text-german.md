@@ -6499,10 +6499,10 @@ dir nichts zu verzeihen habe, da Alles, was du gethan,
 nur aus Ubermass der Liebe geschah!
 (Indem er in tiefer Bewegung nach ihrer Hand hascht, um sie an seine
 Lippen zu drücken, und sie den Arm um ihn schlingt)
+
 (fällt der Vorhang.)
 
-
-0196
+---
 
 # 6. Die Tochter der Semiramis.
 
@@ -6523,50 +6523,48 @@ Ort der Handlung: Königspalast in Niniveh.
 
 Zeit: um 1200 v. Chr.
 
-Grosses Gemach im Palast. Durch schwere vergoldete
-Pfeiler im Hintergrunde Ausblick in einen Garten. Rechts
-und links Eingänge, zwischen geflügelten Löwen und Stieren
-mit Menschenhäuptern, durch Teppiche verschlossen. Links
-vorn über einigen Stufen ein breites Ruhebett mit gold-
-gesticktem Purpurteppich bedeckt. Ein paar niedere Sitze
-gegenüber.
+Grosses Gemach im Palast. Durch schwere vergoldete Pfeiler im Hintergrunde Ausblick in einen Garten. Rechts und links Eingänge, zwischen geflügelten Löwen und Stieren mit Menschenhäuptern, durch Teppiche verschlossen. Links vorn über einigen Stufen ein breites Ruhebett mit goldgesticktem Purpurteppich bedeckt. Ein paar niedere Sitze gegenüber.
 
-Erste Scene.
+## Erste Scene.
 
-(Neben der Pforte rechts halten) Nabonassar und
-Simmas, (auf ihre Bogen gestützt, Wache.)
+(Neben der Pforte rechts halten) Nabonassar und Simmas, (auf ihre Bogen gestützt, Wache.)
 
-Nabonassar.
+**Nabonassar.**
 
 Du, Simmas, sage: hast du's auch gehört?
 
-Simmas.
+**Simmas.**
+
 Was meinst du, Nabonassar?
-Nabonassar.
-Dass schon wieder
-Ein Narr sich fand, der, nur um eine Nacht
-Recht weich zu liegen, sich's gefallen lässt,
-Hernach im Todesabgrund fortzuschlafen?
-Simmas.
+
+**Nabonassar.**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dass schon wieder  
+Ein Narr sich fand, der, nur um eine Nacht  
+Recht weich zu liegen, sich's gefallen lässt,  
+Hernach im Todesabgrund fortzuschlafen?  
+
+**Simmas.**
+
 Du meinst --- ein Freier für die Königin?
 
+**Nabonassar.**
 
-0199
-
-202
-Die Tochter der Semiramis.
-Nabonassar.
 Ein Freier, hm! als sagte man: die Motte
 Freit um die Kerze. Dünkt es nicht auch dir
 Ein sonderbar Gelüst, sich einem Mädchen
 Zur Puppe zu verdingen, das ihr Spielzeug
 Heut mit ins Bett nimmt und schon morgen früh
 Zerbricht?
+
 Simmas.
+
 Seltsamer ist's noch, dass die Herrin
 Des Spiels nicht satt wird. 's ist doch schauerlich!
 So schöne Puppen!
+
 Nabonassar.
+
 Meinst du? Ha, man sieht,
 Du bist noch neu in unsrer Herrin Dienst
 Und weisst nicht viel von Macht und Majestät.
