@@ -6582,7 +6582,7 @@ Dass nun auch dieser Neuste ---
 
 **Simmas.**
 
-Sahst du ihn?
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sahst du ihn?
 
 **Nabonassar.**
 
