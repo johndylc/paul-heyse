@@ -6662,112 +6662,113 @@ Ist gut genug für sie.
 
 **Simmas** (lachend).
 
-Wenn Malchis Recht hat,
-Wird mit dem Neusten sie zufrieden sein,
-Und wir besaufen uns heut Nacht aufs Wohl
+Wenn Malchis Recht hat,  
+Wird mit dem Neusten sie zufrieden sein,  
+Und wir besaufen uns heut Nacht aufs Wohl  
 Des jungen Hochzeitspaars.
-Zweite Scene.
-205
-Menon führt Ninyas (herein, der einfach, wie einer aus
-dem niederen Volk gekleidet ist. Der Palastvogt trägt ein
-sehr reiches, mit Goldstickerei überladenes Gewand, einen
-bis tief auf die Brust herabhängenden, sorgfältig gekräuselten
-Bart und einen goldenen Stab. Bei seinem Eintritt neigen
-sich die Wachen tief zur Erde).
-Menon.
-Hier wartest du,
-Bis ich der Königin dich gemeldet habe.
-Du bist aus Niniveh? Gut. Bist ein Schiffer?
-Auch gut. Allein noch einmal, junger Mensch,
-Bedenk wohl, was du thust. Du siehst so weit
-Recht wacker aus. Doch junges Blut ist oft
-Voll Unverstand, verspielt, als wär' es Nichts,
-In einer Nacht sein ganzes Hab' und Gut
-Und wacht als Bettler auf. Du, guter Freund,
-Nach diesem Spiel wachst gar nicht wieder auf.
-Doch das ist deine Sache. Macht dir's Spass,
-Mit offnen Augen in den Tod zu gehn,
-Ich halte dich am Armel nicht zurück.
-Doch hättest du vielleicht vor Zechgesellen
-Geprahlt, du würdst es thun, und Einer sagte:
-Du hast das Herz nicht! und nun willst du's thun,
-Blos um den Spötter zu beschämen --- das
-Wär' eine Dummheit, lieber Sohn. Es giebt
-Der Proben mehr, sich muthig zu erweisen,
 
+## Zweite Scene.
 
-0203
+Menon führt Ninyas (herein, der einfach, wie einer aus dem niederen Volk gekleidet ist. Der Palastvogt trägt ein sehr reiches, mit Goldstickerei überladenes Gewand, einen bis tief auf die Brust herabhängenden, sorgfältig gekräuselten Bart und einen goldenen Stab. Bei seinem Eintritt neigen sich die Wachen tief zur Erde).
 
-206
-Die Tochter der Semiramis.
-Wenn man nur lebt. Wie? oder hättest du
-Etwas verbrochen, drauf der Tod gesetzt ist,
-Und dächtest, müsse doch gestorben sein,
-Wär's noch ein lust'ger Kehraus als Gemahl
-Der Königin? Doch nein, mein gutes Kind,
-Wie'n Mörder oder Dieb siehst du nicht aus.
-Was also ist's, das dir dein junges Leben
+**Menon.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hier wartest du,  
+Bis ich der Königin dich gemeldet habe.  
+Du bist aus Niniveh? Gut. Bist ein Schiffer?  
+Auch gut. Allein noch einmal, junger Mensch,  
+Bedenk wohl, was du thust. Du siehst so weit  
+Recht wacker aus. Doch junges Blut ist oft  
+Voll Unverstand, verspielt, als wär' es Nichts,  
+In einer Nacht sein ganzes Hab' und Gut  
+Und wacht als Bettler auf. Du, guter Freund,  
+Nach diesem Spiel wachst gar nicht wieder auf.  
+Doch das ist deine Sache. Macht dir's Spass,  
+Mit offnen Augen in den Tod zu gehn,  
+Ich halte dich am Ärmel nicht zurück.  
+Doch hättest du vielleicht vor Zechgesellen  
+Geprahlt, du würdst es thun, und Einer sagte:  
+Du hast das Herz nicht! und nun willst du's thun,  
+Blos um den Spötter zu beschämen --- das  
+Wär' eine Dummheit, lieber Sohn. Es giebt  
+Der Proben mehr, sich muthig zu erweisen,  
+Wenn man nur lebt. Wie? oder hättest du  
+Etwas verbrochen, drauf der Tod gesetzt ist,  
+Und dächtest, müsse doch gestorben sein,  
+Wär's noch ein lust'ger Kehraus als Gemahl  
+Der Königin? Doch nein, mein gutes Kind,  
+Wie'n Mörder oder Dieb siehst du nicht aus.  
+Was also ist's, das dir dein junges Leben  
 Verleidet?
-Ninyas (düster sich abwendend).
+
+**Ninyas** (düster sich abwendend).
+
 Frage nicht! Führ mich zur Kön'gin!
-Menon.
-Ohol So stolz, mein Bürschchen? Weisst du auch,
-Mit wem du sprichst, vielmehr, mit wem zu sprechen
-Der junge Herr sich nicht herab will lassen?
-Palastvogt bin ich. Alle deine vielen
-Vorgänger --- ich, wie meines Amtes war,
-Hab' sie der Königin zugeführt. Es waren
-Sehr hübsche Leute drunter, hübscher noch
-Als du, und alle höflich. Warum lass' ich
-Nun just mit dir mich ein, als thäte mir.
-Dein brauner Trotzkopf leid? So'n junger Fant
-Weiss Alles besser. Doch das bilde dir
-Nicht ein, mein Söhnchen, wenn der Morgen kommt,
-Würdst du mit Schmeicheln, Betteln oder Winseln
-Den Sinn der Kön'gin wenden. Der steht fest
-Wie'n Fels im Meer. So wenig Sturm und Wellen
-Rütteln an dem, so wenig rührt ein Meer
-Von Thränen am assyrischen Staatsgesetz,
-Wonach die Königin Wittwe wird, sobald
-Sie Frau geworden. So! Nun weisst du's. Also:
+
+**Menon.**
+
+Oho! So stolz, mein Bürschchen? Weisst du auch,  
+Mit wem du sprichst, vielmehr, mit wem zu sprechen  
+Der junge Herr sich nicht herab will lassen?  
+Palastvogt bin ich. Alle deine vielen  
+Vorgänger --- ich, wie meines Amtes war,  
+Hab' sie der Königin zugeführt. Es waren  
+Sehr hübsche Leute drunter, hübscher noch  
+Als du, und alle höflich. Warum lass' ich  
+Nun just mit dir mich ein, als thäte mir.  
+Dein brauner Trotzkopf leid? So'n junger Fant  
+Weiss Alles besser. Doch das bilde dir  
+Nicht ein, mein Söhnchen, wenn der Morgen kommt,  
+Würdst du mit Schmeicheln, Betteln oder Winseln  
+Den Sinn der Kön'gin wenden. Der steht fest  
+Wie'n Fels im Meer. So wenig Sturm und Wellen  
+Rütteln an dem, so wenig rührt ein Meer  
+Von Thränen am assyrischen Staatsgesetz,  
+Wonach die Königin Wittwe wird, sobald  
+Sie Frau geworden. So! Nun weisst du's. Also:  
 Bleibst du dabei?
 
+**Ninyas** (macht eine Geberde der Ungeduld).
 
-0204
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich sag' dir, frage nicht!
 
-Die Tochter der Semiramis.
-Ninnas fmacht eine Geberde der Ungeduld).
-Ich sag' dir, frage nicht!
-Menon.
+**Menon.**
+
 Nun, wie du willst. Ich gehe dich zu melden.
+
 (ab durch die Pforte links.)
-Dritte Scene.
-Ninyas und die Wächter.
-Simmas (während Ninyas finster vor sich hin blickt).
-Hör, Nabonassar, bei den Göttern, Malchis
+
+## Dritte Scene.
+
+_Ninyas und die Wächter._
+
+**Simmas** (während Ninyas finster vor sich hin blickt).
+
+Hör, Nabonassar, bei den Göttern, Malchis  
 Hat Recht: um Den ist's wahrlich Schade.
-Nabonassar.
-Denn besser haben? Hat er doch sogar
-Menon hochmüthig abgetrumpft, der Geck:
-"Frage mich nicht!" So'n Schifferknecht!
-Simmas.
-207
-Will er's
-Er sieht
-Trotz seines Anzugs nach was Besserm aus.
-Und wie er traurig stiert und starrt! Am End'
+
+**Nabonassar.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Will er's  
+Denn besser haben? Hat er doch sogar  
+Menon hochmüthig abgetrumpft, der Geck:  
+„Frage mich nicht!“ So'n Schifferknecht!
+
+**Simmas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Er sieht  
+Trotz seines Anzugs nach was Besserm aus.  
+Und wie er traurig stiert und starrt! Am End'  
 Ist's hier bei ihm nicht richtig. (nach der Stirn deutend.)
-Nabonassar.
-Nu gewiss!
-Wer darum herkommt, der ist allemal
+
+**Nabonassar.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nu gewiss!  
+Wer darum herkommt, der ist allemal  
 Nicht bei gesunden Sinnen.
+
 (Ninyas sinkt wie erschöpft auf die Stufen nieder.)
 
-
-0205
-
-208
-Die Tochter der Semiramis.
 Simmas.
 Ob er krank ist?
 Die Kniee brechen ihm. Sprich doch mit ihm!
