@@ -6703,7 +6703,7 @@ Verleidet?
 
 **Ninyas** (düster sich abwendend).
 
-Frage nicht! Führ mich zur Kön'gin!
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Frage nicht! Führ mich zur Kön'gin!
 
 **Menon.**
 
