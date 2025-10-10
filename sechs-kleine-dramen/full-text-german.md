@@ -6550,81 +6550,79 @@ Du meinst --- ein Freier für die Königin?
 
 **Nabonassar.**
 
-Ein Freier, hm! als sagte man: die Motte
-Freit um die Kerze. Dünkt es nicht auch dir
-Ein sonderbar Gelüst, sich einem Mädchen
-Zur Puppe zu verdingen, das ihr Spielzeug
-Heut mit ins Bett nimmt und schon morgen früh
+Ein Freier, hm! als sagte man: die Motte  
+Freit um die Kerze. Dünkt es nicht auch dir  
+Ein sonderbar Gelüst, sich einem Mädchen  
+Zur Puppe zu verdingen, das ihr Spielzeug  
+Heut mit ins Bett nimmt und schon morgen früh  
 Zerbricht?
 
-Simmas.
+**Simmas.**
 
-Seltsamer ist's noch, dass die Herrin
-Des Spiels nicht satt wird. 's ist doch schauerlich!
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Seltsamer ist's noch, dass die Herrin  
+Des Spiels nicht satt wird. 's ist doch schauerlich!  
 So schöne Puppen!
 
-Nabonassar.
+**Nabonassar.**
 
-Meinst du? Ha, man sieht,
-Du bist noch neu in unsrer Herrin Dienst
-Und weisst nicht viel von Macht und Majestät.
-Die Grossen, siehst du, werden niemals satt,
-Die sind wie Götter, wie der Moloch-Baal,
-Nur hungriger, je mehr man Opfer wirft
-In ihren Feuerschlund. Ist unsre Herrin
-Die Tochter nicht der furchtbarn Königin,
-Die eine Göttin ihre Mutter nannte?
-Da liegt's ihr nun im Blut. Doch dass ein Mensch,
-Der's lassen könnt', freiwillig zu dem Spiel
-Sich hergiebt, weiss er gleich, das bischen Kurzweil
-Nimmt so verzweifelt rasch ein ernsthaft Ende,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Meinst du? Ha, man sieht,  
+Du bist noch neu in unsrer Herrin Dienst  
+Und weisst nicht viel von Macht und Majestät.  
+Die Grossen, siehst du, werden niemals satt,  
+Die sind wie Götter, wie der Moloch-Baal,  
+Nur hungriger, je mehr man Opfer wirft  
+In ihren Feuerschlund. Ist unsre Herrin  
+Die Tochter nicht der furchtbarn Königin,  
+Die eine Göttin ihre Mutter nannte?  
+Da liegt's ihr nun im Blut. Doch dass ein Mensch,  
+Der's lassen könnt', freiwillig zu dem Spiel  
+Sich hergiebt, weiss er gleich, das bischen Kurzweil  
+Nimmt so verzweifelt rasch ein ernsthaft Ende,  
 Dass nun auch dieser Neuste ---
-Simmas.
+
+**Simmas.**
+
 Sahst du ihn?
-Nabonassar.
-Ich nicht. Die Malchis, als ich hier die Wache
 
+**Nabonassar.**
 
-0200
-
-Die Tochter der Semiramis.
-Bezog, die hat mir's zugeraunt. Blutjung,
-Ein Schiffer sei's, ein Bild von einem Menschen,
-Wie'n junger Vogel, dem's zu gönnen wär',
-Dass er recht munter seine Flügel brauchte,
-Und steckt, der dumme Grünspecht, seinen Kopf
-Selbst in die Schlinge, gleich als gäb' es nicht
-Der rothen Beeren mehr! Es habe sie
-So recht erbarmt, als er nach Menon fragte,
-Der ihn zur Königin führen sollt'. Sie hätt'
-Ihn gern gewarnt: es sei denn doch kein Spass,
-Frühmorgens aus dem warmen Hochzeitbett
-Ins eis'ge Flussbett; heute Nacht gespeis't
-An königlicher Tafel, morgen selbst
-Ein Frühstück für die Fische. Doch der Bursch
-Hab' stier und steinern vor sich hin geschaut,
+Ich nicht. Die Malchis, als ich hier die Wache  
+Bezog, die hat mir's zugeraunt. Blutjung,  
+Ein Schiffer sei's, ein Bild von einem Menschen,  
+Wie'n junger Vogel, dem's zu gönnen wär',  
+Dass er recht munter seine Flügel brauchte,  
+Und steckt, der dumme Grünspecht, seinen Kopf  
+Selbst in die Schlinge, gleich als gäb' es nicht  
+Der rothen Beeren mehr! Es habe sie  
+So recht erbarmt, als er nach Menon fragte,  
+Der ihn zur Königin führen sollt'. Sie hätt'  
+Ihn gern gewarnt: es sei denn doch kein Spass,  
+Frühmorgens aus dem warmen Hochzeitbett  
+Ins eis'ge Flussbett; heute Nacht gespeis't  
+An königlicher Tafel, morgen selbst  
+Ein Frühstück für die Fische. Doch der Bursch  
+Hab' stier und steinern vor sich hin geschaut,  
 Da habe sie geschwiegen.
-Simmas.
-Es steckt an,
-Wie Schafe rennen in den brennenden Stall,
-Wenn eins voranlief. Weiss man wohl, wie Viel'
+
+**Simmas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Es steckt an,  
+Wie Schafe rennen in den brennenden Stall,  
+Wenn eins voranlief. Weiss man wohl, wie Biel'  
 Es schon gepackt hat?
-203
-Nabonassar.
-Ei, wer rechnet nach?
-Ein Ieder denkt, der Letzte werd' er sein
-Und so verliebt sie machen, dass sie ihn
-Begnadigt und auf ihren Thron erhebt.
-Sie aber ist nicht dumm, sie liebt Verändrung.
+
+**Nabonassar.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ei, wer rechnet nach?  
+Ein Jeder denkt, der Letzte werd' er sein  
+Und so verliebt sie machen, dass sie ihn  
+Begnadigt und auf ihren Thron erhebt.  
+Sie aber ist nicht dumm, sie liebt Verändrung.  
 Verrückte Welt!
-Simmas.
+
+**Simmas.**
+
 Ie nun, sie ist sehr schön.
-
-
-0201
-
-204
-Die Tochter der Semiramis.
 Die Augen --- ha, beim Baal! Die können Einem,
 Der sich nicht vorsieht, wohl das Hirn versengen.
 Nabonassar.
