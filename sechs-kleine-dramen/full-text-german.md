@@ -12,17 +12,17 @@
 
 ---
 
-# 1. [Eine alte Geschichte.]()
+# 1. [Eine alte Geschichte.](#1-eine-alte-geschichte-1)
 
-# 2. [Die Zaubergeige.]()
+# 2. [Die Zaubergeige.](#2-die-zaubergeige-1)
 
-# 3. [Zu treu.]()
+# 3. [Zu treu.](#3-zu-treu-1)
 
-# 4. [Horaz und Lydia.]()
+# 4. [Horaz und Lydia.](#4-horaz-und-lydia-1)
 
-# 5. [Der Stern von Mantua.]()
+# 5. [Der Stern von Mantua.](#5-der-stern-von-mantua-1)
 
-# 6. [Die Tochter der Semiramis.]()
+# 6. [Die Tochter der Semiramis.](#6-die-tochter-der-semiramis-1)
 
 ---
 
@@ -6514,13 +6514,14 @@ Tragödie in einem Akt.
   - **Mylitta**, Königin von Assyrien.
   - **Ninyas**.
   - **Seine Mutter**.
-  - **Menon, Palastvogt.
-  - **Nabonassar**.
-  - **Simmas Krieger**.
-  - **Sclaven und Sclavinnen**.
-  - **Ort der Handlung**: Königspalast in Niniveh.
+  - **Menon**, Palastvogt.
+  - **Nabonassar**, Krieger.
+  - **Simmas**, Krieger.
+  - Sclaven und Sclavinnen.
 
-**Zeit**: um 1200 v. Chr.
+Ort der Handlung: Königspalast in Niniveh.
+
+Zeit: um 1200 v. Chr.
 
 Grosses Gemach im Palast. Durch schwere vergoldete
 Pfeiler im Hintergrunde Ausblick in einen Garten. Rechts
@@ -6529,11 +6530,16 @@ mit Menschenhäuptern, durch Teppiche verschlossen. Links
 vorn über einigen Stufen ein breites Ruhebett mit gold-
 gesticktem Purpurteppich bedeckt. Ein paar niedere Sitze
 gegenüber.
+
 Erste Scene.
+
 (Neben der Pforte rechts halten) Nabonassar und
 Simmas, (auf ihre Bogen gestützt, Wache.)
+
 Nabonassar.
+
 Du, Simmas, sage: hast du's auch gehört?
+
 Simmas.
 Was meinst du, Nabonassar?
 Nabonassar.
