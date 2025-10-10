@@ -6608,7 +6608,7 @@ Da habe sie geschwiegen.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Es steckt an,  
 Wie Schafe rennen in den brennenden Stall,  
-Wenn eins voranlief. Weiss man wohl, wie Biel'  
+Wenn eins voranlief. Weiss man wohl, wie Viel'  
 Es schon gepackt hat?
 
 **Nabonassar.**
@@ -6622,42 +6622,47 @@ Verrückte Welt!
 
 **Simmas.**
 
-Ie nun, sie ist sehr schön.
-Die Augen --- ha, beim Baal! Die können Einem,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Je nun, sie ist sehr schön.  
+Die Augen --- ha, beim Baal! Die können Einem,  
 Der sich nicht vorsieht, wohl das Hirn versengen.
-Nabonassar.
-Nein, das ist's nicht. Was sie gefährlich macht,
-Ist grad, was sie nicht theilt mit jedem Weibe,
-Will sagen, dass sie grausam ist und kalt
-Und Königin. Ich selbst, gesteh' ich dir's:
-Wenn sie so stolz an uns vorübergeht,
-Wie eine Löwin an Kaninchen --- ha,
-Denk' ich mir oft, dies Götterweib zu zwingen,
-Mit der zu thun, wie jeder Bauernkerl
-Mit seiner Liebsten thut --
+
+**Nabonassar.**
+
+Nein, das ist's nicht. Was sie gefährlich macht,  
+Ist grad, was sie nicht theilt mit jedem Weibe,  
+Will sagen, dass sie grausam ist und kalt  
+Und Königin. Ich selbst, gesteh' ich dir's:  
+Wenn sie so stolz an uns vorübergeht,  
+Wie eine Löwin an Kaninchen --- ha,  
+Denk' ich mir oft, dies Götterweib zu zwingen,  
+Mit der zu thun, wie jeder Bauernkerl  
+Mit seiner Liebsten thut ---
+
 (hinter den Thürvorhang spähend.)
-- es hört's doch Keiner?
-Wo du mir schwätzest, Bursch --l
-Simmas.
-Stumm wie das Grab.
-Ha hal ich seh' dich noch als Eintagskönig!
-Probier's doch! Iedem steht die Werbung frei,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --- es hört's doch Keiner?  
+Wo du mir schwätzest, Bursch --- !
+
+**Simmas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Stumm wie das Grab.  
+Ha ha! ich seh' dich noch als Eintagskönig!  
+Probier's doch! Jedem steht die Werbung frei,  
 Ob hoch, ob niedrig.
-Nabonassar.
-Mit dem Unterschied,
-Dass sie die Wahl sich vorbehalten hat
-Und schäb'ge Kerle, so wie Unsereins,
-Mit Hohn hinwegschickt, wenn nicht Menon schon
-Dem Frechen mit der Peitsche heimgeleuchtet.
-Ich sag' dir, sie ist Kennerin; nur das Beste
+
+**Nabonassar.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mit dem Unterschied,  
+Dass sie die Wahl sich vorbehalten hat  
+Und schäb'ge Kerle, so wie Unsereins,  
+Mit Hohn hinwegschickt, wenn nicht Menon schon  
+Dem Frechen mit der Peitsche heimgeleuchtet.  
+Ich sag' dir, sie ist Kennerin; nur das Beste  
 Ist gut genug für sie.
-Simmas (lachend).
+
+**Simmas** (lachend).
+
 Wenn Malchis Recht hat,
-
-
-0202
-
-Die Tochter der Semiramis.
 Wird mit dem Neusten sie zufrieden sein,
 Und wir besaufen uns heut Nacht aufs Wohl
 Des jungen Hochzeitspaars.
