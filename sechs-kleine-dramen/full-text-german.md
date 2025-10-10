@@ -6539,7 +6539,7 @@ Was meinst du, Nabonassar?
 
 **Nabonassar.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dass schon wieder  
+&nbsp;Dass schon wieder  
 Ein Narr sich fand, der, nur um eine Nacht  
 Recht weich zu liegen, sich's gefallen lässt,  
 Hernach im Todesabgrund fortzuschlafen?  
