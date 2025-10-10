@@ -6662,7 +6662,7 @@ Ist gut genug für sie.
 
 **Simmas** (lachend).
 
-Wenn Malchis Recht hat,  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Wenn Malchis Recht hat,  
 Wird mit dem Neusten sie zufrieden sein,  
 Und wir besaufen uns heut Nacht aufs Wohl  
 Des jungen Hochzeitspaars.
