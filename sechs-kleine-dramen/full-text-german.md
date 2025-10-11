@@ -6934,236 +6934,286 @@ Aufs Haupt und sprachen: Thue, was du musst!
 
 **Mylitta.**
 
-Und warum musstest du? Was riss dich fort?
-Leichtsinn der Iugend, die das Leben noch
-So wenig schätzt, dass sie es lachend wegwirft
-Im tollen Abenteuer einer Nacht?
-Doch nein, um deine junge Stirne schwebt
-Verträumte Schwermuth. Also blendete
-Mein Anblick dich, dass taumelnde Begier
-Unrettbar dich in dein Verhängniss treibt?
-Hast du, so jung du bist, schon durchgenossen,
-Was irdischer Weiber Liebe bieten kann,
-Und träumst dir überirdischen Wonnerausch
-Am Busen einer Königin, die Göttern
+Und warum musstest du? Was riss dich fort?  
+Leichtsinn der Jugend, die das Leben noch  
+So wenig schätzt, dass sie es lachend wegwirft  
+Im tollen Abenteuer einer Nacht?  
+Doch nein, um deine junge Stirne schwebt  
+Verträumte Schwermuth. Also blendete  
+Mein Anblick dich, dass taumelnde Begier  
+Unrettbar dich in dein Verhängniss treibt?  
+Hast du, so jung du bist, schon durchgenossen,  
+Was irdischer Weiber Liebe bieten kann,  
+Und träumst dir überirdischen Wonnerausch  
+Am Busen einer Königin, die Göttern  
 Entstammt?
-Ninyas (einfach).
-Ich habe nie ein Weib berührt.
-Mylitta (tirnrunzelnd).
-Du lügst! Wer so wie du geschaffen ist,
-Im reifen Iugendflor, mit Feueraugen,
-Durch seidne Wimpern glühend --- oder sagte
+
+**Ninyas** (einfach).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich habe nie ein Weib berührt.
+
+**Mylitta** (stirnrunzelnd).
+
+Du lügst! Wer so wie du geschaffen ist,  
+Im reifen Jugendflor, mit Feueraugen,  
+Durch seidne Wimpern glühend --- oder sagte  
 Dir nie ein Weib, wie schön du bist?
-Ninyas.
-Ich hatte
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich hatte
 Nicht Zeit, nach Weiberrede hinzuhorchen.
 Von früh bis spät musst' ich die Arme rühren,
-Und dann-
-Mylitta.
-Und dann --
+Und dann ---
 
+**Mylitta.**
 
-0210
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Und dann ---
 
-Die Tochter der Semiramis.
-Ninyas.
-ein Mädchen war im Haus --
-Mylitta.
-Ninyas.
-Seit ich den Knabenrock
-Ablegte. Eine Waise --- meine Eltern
-Erbarmten sich des Findlings. Ich gedachte,
-Sie einst zu meinem Weibe zu erlangen,
-Doch anders war's beschlossen.
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --- ein Mädchen war im Haus ---
+
+**Mylitta.**
+
 Du liebtest sie?
-Mylitta.
-Anders?
-Ninyas.
-Auch
-Mein Bruder wollte sie. Er war der Altre,
-So wurde sie sein Weib. Da ging ich fort
-Und aus der Stadt und fuhr in manchem Fluss
-Und manchem Meer, und mit mir fuhr ihr Bild,
-Hier eingebrannt mit glüh'ndem Stachel, nie
-Verwischt durch eines andern Weibes Züge.
-Bis eines Tags --
-Mylitta.
-Bis eines Tages du
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Seit ich den Knabenrock  
+Ablegte. Eine Waise --- meine Eltern  
+Erbarmten sich des Findlings. Ich gedachte,  
+Sie einst zu meinem Weibe zu erlangen,  
+Doch anders war's beschlossen.
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Anders?
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Auch  
+Mein Bruder wollte sie. Er war der Ältre,  
+So wurde sie sein Weib. Da ging ich fort  
+Und aus der Stadt und fuhr in manchem Fluss  
+Und manchem Meer, und mit mir fuhr ihr Bild,  
+Hier eingebrannt mit glüh'ndem Stachel, nie  
+Verwischt durch eines andern Weibes Züge.  
+Bis eines Tags ---
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bis eines Tages du  
 Die Königin gesehn?
-213
-Ninyas.
-Nein, Herrin.
-Mylitta (betrofen).
-Nein?
 
+**Ninyas.**
 
-0211
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nein, Herrin.
 
-214
-Die Tochter der Semiramis
-Ninyas.
-Bis mir in fremdem Lande Botschaft kam,
-Todt sei mein Bruder, schlimmer noch als todt
-Sein junges Weib. Da jagt' ich heim und trat
-ns Haus der Trauer, und da sagten sie
-Mylitta.
-Alles? Was?
+**Mylitta** (betroffen).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nein?
+
+**Ninyas.**
+
+Bis mir in fremdem Lande Botschaft kam,  
+Todt sei mein Bruder, schlimmer noch als todt  
+Sein junges Weib. Da jagt' ich heim und trat  
+Ins Haus der Trauer, und da sagten sie  
 Mir Alles.
-Ninyas.
-Die Mutter sagt' es,
-Mein alter Vater nickte nur dazu.
-Am Herd sass Amytis, die arme Irre,
-Ein Holzscheit an die Brust gedrückt, das sie
-Liebkost' und mit des Todten Namen rief
-Und dazu lächelte --- ein Lächeln --- ohl
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Alles? Was?
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Die Mutter sagt' es,  
+Mein alter Vater nickte nur dazu.  
+Am Herd sass Amytis, die arme Irre,  
+Ein Holzscheit an die Brust gedrückt, das sie  
+Liebkost' und mit des Todten Namen rief  
+Und dazu lächelte --- ein Lächeln --- oh!  
 Das Herz zerschnitt mir's!
+
 (drückt die Hände vors Gesicht.)
-Mylitta.
-Seltsam, in der That!
-Dein Herz ist weich, das Leid der Deinen rührt's,
-Und doch von Neuem willst du sie betrüben
-Und gehst von ihnen? War so übermächtig
-Die Leidenschaft, die, als du heimgekehrt,
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Seltsam, in der That!  
+Dein Herz ist weich, das Leid der Deinen rührt's,  
+Und doch von Neuem willst du sie betrüben  
+Und gehst von ihnen? War so übermächtig  
+Die Leidenschaft, die, als du heimgekehrt,  
 Mein Anblick dir entflammte?
-Ninyas (chweiat).
-Mylitta.
-Reden darfst du
-Zu mir, so wie der Bräutigam zur Braut.
-Zum Ekel wurde mir's, von Höflingen
 
+**Ninyas** (schweigt).
 
-0212
+**Mylitta.**
 
-Die Tochter der Semiramis.
-Mein Lob zu hören. Von so unberührten,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Reden darfst du  
+Zu mir, so wie der Bräutigam zur Braut.  
+Zum Ekel wurde mir's, von Höflingen  
+Mein Lob zu hören. Von so unberührten,  
 Schüchternen Lippen hört' ich's gern.
+
+**Ninyas** (sich abwendend).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Verzeih!  
 Ich --- kann nicht!
-Ninyas (sich abwendend).
-Verzeih!
-Mylitta (legt ihre Hand auf die seine).
-Auch ein unbeholfnes Lob
-Klingt süss, ja wohl am süssesten. Wann war's,
-Dass du zuerst erkannt, dein Schicksal sei's,
+
+**Mylitta** (legt ihre Hand auf die seine).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Auch ein unbeholfnes Lob  
+Klingt süss, ja wohl am süssesten. Wann war's,  
+Dass du zuerst erkannt, dein Schicksal sei's,  
 Um mich zu sterben?
-Ninyas (ögernd).
-Muss ich's denn gestehn?
-Ich seh' dich heut und hier zum ersten Mal.
-Du bist sehr schön, schöner als Amytis,
-Und nie sah ich ein schön'res Weib als dich.
-Doch nichts von dem, was ich für Amytis
+
+**Ninyas** (zögernd).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Muss ich's denn gestehn?  
+Ich seh' dich heut und hier zum ersten Mal.  
+Du bist sehr schön, schöner als Amytis,  
+Und nie sah ich ein schön'res Weib als dich.  
+Doch nichts von dem, was ich für Amytis  
 Empfunden, glüht in meiner Brust für dich.
-Mylitta (tirnrunzelnd).
+
+**Mylitta** (stirnrunzelnd).
+
 So wär's --- nur eine Laune?
-Ninyas.
-Nenn es sol
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nenn es so!  
 Doch nein, du hast's gesagt: mein Schicksal ist's.
-Mylitta (sich rasch erhebend, mit mühsamer Fafsung).
-Du bist --- verzweifelt ehrlich. Weisst du auch,
-Dass du den Tod verdient hast, da du wagst
-Der Königin zu spotten, um sie werbend
+
+**Mylitta** (sich rasch erhebend, mit mühsamer Fassung).
+
+Du bist --- verzweifelt ehrlich. Weisst du auch,  
+Dass du den Tod verdient hast, da du wagst  
+Der Königin zu spotten, um sie werbend  
 Aus Laune nur?
-215
 
+**Ninyas.**
 
-0213
-
-216
-Die Tochter der Semiramis.
-Ninyas.
-So tödte mich. Ich kann
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;So tödte mich. Ich kann  
 Nicht lügen.
-Mylitta (ihn scharf anblicend).
-Glauben muss ich fast, dein Thun
-Sei nur des Wahnsinns Ausgeburt. So geh
-Nach Haus, vermähle dich mit Amytis.
-Die Brut von blöden Kindern, die ihr zeugt,
+
+**Mylitta** (ihn scharf anblickend).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Glauben muss ich fast, dein Thun  
+Sei nur des Wahnsinns Ausgeburt. So geh  
+Nach Haus, vermähle dich mit Amytis.  
+Die Brut von blöden Kindern, die ihr zeugt,  
 Sei Strafe deines Frevels. (wendet sich ab.)
-Ninyas (erhebt flehend die Hände).
-Königin,
-Schick mich nicht fort! Wahnsinnig bin ich nicht,
-Noch nicht; doch kann ich's werden, wenn du mich
+
+**Ninyas** (erhebt flehend die Hände).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Königin,  
+Schick mich nicht fort! Wahnsinnig bin ich nicht,  
+Noch nicht; doch kann ich's werden, wenn du mich  
 Verbannst aus deinen Augen.
-Mylitta.
-Und doch sagst du,
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Und doch sagst du,
 Du fühltest Nichts für mich?
-Ninyas (düster zu Boden blickend).
-Das, was ich fühle,
-Du sollst's erfahren, wenn die Nacht den Schleier
-Um Offenbares breitet und Geheimes
+
+**Ninyas** (düster zu Boden blickend).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Das, was ich fühle,  
+Du sollst's erfahren, wenn die Nacht den Schleier  
+Um Offenbares breitet und Geheimes  
 Enthüllt.
-Mylitta (heftia).
-Genug der räthseldunklen Reden!
-Welch ein Geheimniss lauert, du Verstockter,
-In deinem halben Wort? Ich will es wissen.
-Denk, dass ich Mittel habe, dir die Zunge
-Zu lösen! (da Ninyas schweigt) Wirst du sprechen? Ha,
+
+**Mylitta** (heftig).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Genug der räthseldunklen Reden!  
+Welch ein Geheimniss lauert, du Verstockter,  
+In deinem halben Wort? Ich will es wissen.  
+Denk, dass ich Mittel habe, dir die Zunge  
+Zu lösen! (da Ninyas schweigt) Wirst du sprechen? Ha,  
 Wahnwitz'ger Thor!
+
 (schlägt an einen Schild; Menon und die beiden Wachen treten ein.)
 
-
-0214
-
-Die Tochter der Semiramis.
-217
-Nehmt Diesen hier und stachelt
-Mit glüh'ndem Eisen seine träge Zunge,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nehmt Diesen hier und stachelt  
+Mit glüh'ndem Eisen seine träge Zunge,  
 Bis sie zum Sprechen sich entschliesst.
-Ninyas (talt aufblickend).
-Du wähnst,
-Durch Folterqual mir aus der Brust zu reissen,
-Was ich drin bergen will? mir, dem der Tod
-Erwünscht und nichts gilt seines Leibes Marter
-Gegen der Seele Qual? Nun wohl, du sollst
-Erkennen, dass ich mächt'ger bin als du.
-Ich war ein Thor, dass mein Geheimniss ich
-Mir halb entschlüpfen liess. Das ganze nun
-Liefr' ich dir aus, freiwillig. Hast du mich
-Nicht schonen wollen? Nun will ich dich zwingen,
+
+**Ninyas** (kalt aufblickend).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du wähnst,  
+Durch Folterqual mir aus der Brust zu reissen,  
+Was ich drin bergen will? mir, dem der Tod  
+Erwünscht und nichts gilt seines Leibes Marter  
+Gegen der Seele Qual? Nun wohl, du sollst  
+Erkennen, dass ich mächt'ger bin als du.  
+Ich war ein Thor, dass mein Geheimniss ich  
+Mir halb entschlüpfen liess. Das ganze nun  
+Liefr' ich dir aus, freiwillig. Hast du mich  
+Nicht schonen wollen? Nun will ich dich zwingen,  
 Der Schonung zu entsagen.
-Mylitta.
-Zwingen? mich?
-Die Tochter der Semiramis? Du wärst
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Zwingen? mich?  
+Die Tochter der Semiramis? Du wärst  
 Der Erste. Sprich!
-Ninyas.
-Dein Ohr nur soll es hören.
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dein Ohr nur soll es hören.
+
 (Mylitta winkt. Menon und die Wachen ziehen sich zurück.)
-Ninyas (ihr einen Schritt näher tretend, tonlos).
-Die Tochter der Semiramis, wenn heut
-Sie Hochzeit hielte mit dem Fischersohn,
-Wär' morgen nur ein Haufe weisser Glieder,
+
+**Ninyas** (ihr einen Schritt näher tretend, tonlos).
+
+Die Tochter der Semiramis, wenn heut  
+Sie Hochzeit hielte mit dem Fischersohn,  
+Wär' morgen nur ein Haufe weisser Glieder,  
 Von keinem Hauch beseelt.
-Mylitta
+
+**Mylitta.**
+
 (blickt ihn ruhig an, die Arme über der Brust gekreuzt).
-Bist du ein Seher,
 
-
-0215
-
-218
-Die Tochter der Semiramis.
-Dass du voraussagst, was die Götter mir
-Von heut auf morgen als ein räthselhaft
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bist du ein Seher,  
+Dass du voraussagst, was die Götter mir  
+Von heut auf morgen als ein räthselhaft  
 Geschick verhängten?
-Ninyas.
-Dies verhängte dir
-Ein Mensch, der nur noch athmet, um zu rächen,
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dies verhängte dir  
+Ein Mensch, der nur noch athmet, um zu rächen,  
 Was du ihm anthatst.
-Mylitta.
-Du? --- Ich seh' dich heut
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du? --- Ich seh' dich heut
 Zum ersten Mal und meint' es gut mit dir.
-Ninyas.
-Doch Andern brachtest du Verderben, die
-Mir theurer als mein Leben. Willst du wissen,
-Woran mein Bruder starb? Am Fieber, das
-Dein Anblick ihm entflammt, das er zu heilen
+
+**Ninyas.**
+
+Doch Andern brachtest du Verderben, die  
+Mir theurer als mein Leben. Willst du wissen,  
+Woran mein Bruder starb? Am Fieber, das  
+Dein Anblick ihm entflammt, das er zu heilen  
 Gehofft in deinem Arm.
-Mylitta (etzt sich wieder, zuckt die Achseln).
+
+**Mylitta** (setzt sich wieder, zuckt die Achseln).
+
+
+
 Ist's meine Schuld,
 Dass mich die Mutter nicht zur Welt geboren
 Als Affin oder Eule? Doch was ist mir
 Ein fieberkranker Narr? Entsinn' ich mich
 Doch nicht, von wem du redest.
+
 Ninyas.
+
 O mein Sarkas,
 Dass dein verlornes Leben keine Spur
 Zurückliess im Gedächtniss deiner Mördrin,
