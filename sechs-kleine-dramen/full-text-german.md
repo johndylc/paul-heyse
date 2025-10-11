@@ -69,7 +69,7 @@ Auf der bunten Bretterwelt.
 
 ---
 
-# 1. Eine alte Geschichte.
+# 1. --- Eine alte Geschichte.
 
 Familienscene in einem Akt.
 
@@ -1011,7 +1011,7 @@ die Augen über! Wollen Sie mir nicht, liebe Freundin
 
 0034
 
-# 2. Die Zaubergeige.
+# 2. --- Die Zaubergeige.
 
 (1901.)
 
@@ -2089,7 +2089,7 @@ Anfang an all das Unheil angestiftet!
 
 0066
 
-# 3. Zu treu.
+# 3. --- Zu treu.
 
 (1904.)
 
@@ -2854,7 +2854,7 @@ Hemdkrägen trägt und angeknöpfte Manchetten!
 
 0090
 
-# 4. Horaz und Lydia.
+# 4. --- Horaz und Lydia.
 
 (1905.)
 
@@ -4138,7 +4138,7 @@ Wenn das Leben entflieht, scheidet der Liebesgott!"
 
 0128
 
-# 5. Der Stern von Mantua.
+# 5. --- Der Stern von Mantua.
 
 Schauspiel in zwei Akten.
 
@@ -6510,11 +6510,11 @@ Lippen zu drücken, und sie den Arm um ihn schlingt)
 
 ---
 
-# 6. Die Tochter der Semiramis.
+# 6. --- Die Tochter der Semiramis.
 
-Tragödie in einem Akt.
+### Tragödie in einem Akt.
 
-(1897.)
+#### 1897.
 
 - Personen:
   - **MYLITTA**, Königin von Assyrien.
@@ -6525,13 +6525,13 @@ Tragödie in einem Akt.
   - **SIMMAS**, Krieger.
   - Sclaven und Sclavinnen.
 
-Ort der Handlung: Königspalast in Niniveh.
+**Ort der Handlung:** Königspalast in Niniveh.
 
-Zeit: um 1200 v. Chr.
+**Zeit:** um 1200 v. Chr.
 
 _Grosses Gemach im Palast. Durch schwere vergoldete Pfeiler im Hintergrunde Ausblick in einen Garten. Rechts und links Eingänge, zwischen geflügelten Löwen und Stieren mit Menschenhäuptern, durch Teppiche verschlossen. Links vorn über einigen Stufen ein breites Ruhebett mit goldgesticktem Purpurteppich bedeckt. Ein paar niedere Sitze gegenüber._
 
-## Erste Scene.
+## 6.1 --- Erste Scene.
 
 _(Neben der Pforte rechts halten) Nabonassar und Simmas, (auf ihre Bogen gestützt, Wache.)_
 
@@ -6673,7 +6673,7 @@ Wird mit dem Neusten sie zufrieden sein,
 Und wir besaufen uns heut Nacht aufs Wohl  
 Des jungen Hochzeitspaars.
 
-## Zweite Scene.
+## 6.2 --- Zweite Scene.
 
 _Menon führt Ninyas (herein, der einfach, wie einer aus dem niederen Volk gekleidet ist. Der Palastvogt trägt ein sehr reiches, mit Goldstickerei überladenes Gewand, einen bis tief auf die Brust herabhängenden, sorgfältig gekräuselten Bart und einen goldenen Stab. Bei seinem Eintritt neigen sich die Wachen tief zur Erde)._
 
@@ -6744,7 +6744,7 @@ Nun, wie du willst. Ich gehe dich zu melden.
 
 _(ab durch die Pforte links.)_
 
-## Dritte Scene.
+## 6.3 --- Dritte Scene.
 
 _Ninyas und die Wächter._
 
@@ -6807,7 +6807,7 @@ Still! Die Königin!
 
 _(Beide werfen sich zu Boden.)_
 
-## Vierte Scene.
+## 6.4 --- Vierte Scene.
 
 _Vorige. (Durch die Pforte links treten) zwei Sclavinnen (ein, die an der Schwelle bleiben. Dann erscheint, von) Menon gefolgt, Mylitta (in ein langes, weisses wollenes Gewand gekleidet, mit Purpur und Gold verbrämt. Die Arme sind nackt, aber mit einem feinen granatrothen Schleiertuch bedeckt, das sie um Brust und Hals geschlungen hat. Ihr schwarzes Haar ist in ein Netz aus feinen Goldfäden zusammengefasst; kein Diadem. Goldene Sandalen an den nackten Füssen. --- Bei ihrem Eintritt deutet Menon auf Ninyas, der in sich versunken noch immer auf den Stufen ruht. Sie betrachtet ihn einen Augenblick, hebt dann rasch die Hand, worauf sich Alle zurückziehen, Menon mit den Wächtern durch die Pforte rechts, deren Teppich geschlossen wird, die Sclavinnen nach links._
 
