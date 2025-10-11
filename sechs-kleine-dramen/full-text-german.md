@@ -7191,7 +7191,7 @@ Was du ihm anthatst.
 
 **Mylitta.**
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du? --- Ich seh' dich heut
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du? --- Ich seh' dich heut  
 Zum ersten Mal und meint' es gut mit dir.
 
 **Ninyas.**
