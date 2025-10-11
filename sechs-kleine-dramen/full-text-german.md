@@ -6788,9 +6788,9 @@ Und knapp, wie du dem Menon Antwort gabst.
 
 **Nabonassar.**
 
-Lass ihn nur gehn. Er fühlt sich schon als Herrn,
-Und wir sind Dienerpack. Doch morgen früh
-Tauscht' er wohl gern mit uns. Nu, Jeder schläft,
+Lass ihn nur gehn. Er fühlt sich schon als Herrn,  
+Und wir sind Dienerpack. Doch morgen früh  
+Tauscht' er wohl gern mit uns. Nu, Jeder schläft,  
 Wie er sich bettet.
 
 **Simmas.**
