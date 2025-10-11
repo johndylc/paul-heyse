@@ -26,8 +26,6 @@
 
 ---
 
-Alle Rechte vorbehalten.
-
 Druck der Union Deutsche Verlagsgesellschaft in Stuttgart.
 
 Meinem lieben Freunde
