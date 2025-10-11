@@ -6509,12 +6509,12 @@ Tragödie in einem Akt.
 (1897.)
 
 - Personen:
-  - **Mylitta**, Königin von Assyrien.
-  - **Ninyas**.
-  - **Seine Mutter**.
-  - **Menon**, Palastvogt.
-  - **Nabonassar**, Krieger.
-  - **Simmas**, Krieger.
+  - **MYLITTA**, Königin von Assyrien.
+  - **NINYAS**.
+  - **SEINE MUTTER**.
+  - **MENON**, Palastvogt.
+  - **NABONASSAR**, Krieger.
+  - **SIMMAS**, Krieger.
   - Sclaven und Sclavinnen.
 
 Ort der Handlung: Königspalast in Niniveh.
@@ -6527,26 +6527,26 @@ Grosses Gemach im Palast. Durch schwere vergoldete Pfeiler im Hintergrunde Ausbl
 
 (Neben der Pforte rechts halten) Nabonassar und Simmas, (auf ihre Bogen gestützt, Wache.)
 
-**Nabonassar.**
+**NABONASSAR.**
 
 Du, Simmas, sage: hast du's auch gehört?
 
-**Simmas.**
+**SIMMAS.**
 
 Was meinst du, Nabonassar?
 
-**Nabonassar.**
+**NABONASSAR.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dass schon wieder  
 Ein Narr sich fand, der, nur um eine Nacht  
 Recht weich zu liegen, sich's gefallen lässt,  
 Hernach im Todesabgrund fortzuschlafen?  
 
-**Simmas.**
+**SIMMAS.**
 
 Du meinst --- ein Freier für die Königin?
 
-**Nabonassar.**
+**NABONASSAR.**
 
 Ein Freier, hm! als sagte man: die Motte  
 Freit um die Kerze. Dünkt es nicht auch dir  
@@ -6555,13 +6555,13 @@ Zur Puppe zu verdingen, das ihr Spielzeug
 Heut mit ins Bett nimmt und schon morgen früh  
 Zerbricht?
 
-**Simmas.**
+**SIMMAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Seltsamer ist's noch, dass die Herrin  
 Des Spiels nicht satt wird. 's ist doch schauerlich!  
 So schöne Puppen!
 
-**Nabonassar.**
+**NABONASSAR.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Meinst du? Ha, man sieht,  
 Du bist noch neu in unsrer Herrin Dienst  
@@ -6578,11 +6578,11 @@ Sich hergiebt, weiss er gleich, das bischen Kurzweil
 Nimmt so verzweifelt rasch ein ernsthaft Ende,  
 Dass nun auch dieser Neuste ---
 
-**Simmas.**
+**SIMMAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sahst du ihn?
 
-**Nabonassar.**
+**NABONASSAR.**
 
 Ich nicht. Die Malchis, als ich hier die Wache  
 Bezog, die hat mir's zugeraunt. Blutjung,  
@@ -6602,14 +6602,14 @@ Ein Frühstück für die Fische. Doch der Bursch
 Hab' stier und steinern vor sich hin geschaut,  
 Da habe sie geschwiegen.
 
-**Simmas.**
+**SIMMAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Es steckt an,  
 Wie Schafe rennen in den brennenden Stall,  
 Wenn eins voranlief. Weiss man wohl, wie Viel'  
 Es schon gepackt hat?
 
-**Nabonassar.**
+**NABONASSAR.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ei, wer rechnet nach?  
 Ein Jeder denkt, der Letzte werd' er sein  
@@ -6618,13 +6618,13 @@ Begnadigt und auf ihren Thron erhebt.
 Sie aber ist nicht dumm, sie liebt Verändrung.  
 Verrückte Welt!
 
-**Simmas.**
+**SIMMAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Je nun, sie ist sehr schön.  
 Die Augen --- ha, beim Baal! Die können Einem,  
 Der sich nicht vorsieht, wohl das Hirn versengen.
 
-**Nabonassar.**
+**NABONASSAR.**
 
 Nein, das ist's nicht. Was sie gefährlich macht,  
 Ist grad, was sie nicht theilt mit jedem Weibe,  
@@ -6641,14 +6641,14 @@ Mit seiner Liebsten thut ---
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --- es hört's doch Keiner?  
 Wo du mir schwätzest, Bursch --- !
 
-**Simmas.**
+**SIMMAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Stumm wie das Grab.  
 Ha ha! ich seh' dich noch als Eintagskönig!  
 Probier's doch! Jedem steht die Werbung frei,  
 Ob hoch, ob niedrig.
 
-**Nabonassar.**
+**NABONASSAR.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mit dem Unterschied,  
 Dass sie die Wahl sich vorbehalten hat  
@@ -6658,7 +6658,7 @@ Dem Frechen mit der Peitsche heimgeleuchtet.
 Ich sag' dir, sie ist Kennerin; nur das Beste  
 Ist gut genug für sie.
 
-**Simmas** (lachend).
+**SIMMAS** (lachend).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Wenn Malchis Recht hat,  
 Wird mit dem Neusten sie zufrieden sein,  
@@ -6669,7 +6669,7 @@ Des jungen Hochzeitspaars.
 
 Menon führt Ninyas (herein, der einfach, wie einer aus dem niederen Volk gekleidet ist. Der Palastvogt trägt ein sehr reiches, mit Goldstickerei überladenes Gewand, einen bis tief auf die Brust herabhängenden, sorgfältig gekräuselten Bart und einen goldenen Stab. Bei seinem Eintritt neigen sich die Wachen tief zur Erde).
 
-**Menon.**
+**MENON.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hier wartest du,  
 Bis ich der Königin dich gemeldet habe.  
@@ -6699,11 +6699,11 @@ Wie'n Mörder oder Dieb siehst du nicht aus.
 Was also ist's, das dir dein junges Leben  
 Verleidet?
 
-**Ninyas** (düster sich abwendend).
+**NINYAS** (düster sich abwendend).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Frage nicht! Führ mich zur Kön'gin!
 
-**Menon.**
+**MENON.**
 
 Oho! So stolz, mein Bürschchen? Weisst du auch,  
 Mit wem du sprichst, vielmehr, mit wem zu sprechen  
@@ -6726,11 +6726,11 @@ Wonach die Königin Wittwe wird, sobald
 Sie Frau geworden. So! Nun weisst du's. Also:  
 Bleibst du dabei?
 
-**Ninyas** (macht eine Geberde der Ungeduld).
+**NINYAS** (macht eine Geberde der Ungeduld).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich sag' dir, frage nicht!
 
-**Menon.**
+**MENON.**
 
 Nun, wie du willst. Ich gehe dich zu melden.
 
@@ -6740,26 +6740,26 @@ Nun, wie du willst. Ich gehe dich zu melden.
 
 _Ninyas und die Wächter._
 
-**Simmas** (während Ninyas finster vor sich hin blickt).
+**SIMMAS** (während Ninyas finster vor sich hin blickt).
 
 Hör, Nabonassar, bei den Göttern, Malchis  
 Hat Recht: um Den ist's wahrlich Schade.
 
-**Nabonassar.**
+**NABONASSAR.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Will er's  
 Denn besser haben? Hat er doch sogar  
 Menon hochmüthig abgetrumpft, der Geck:  
 „Frage mich nicht!“ So'n Schifferknecht!
 
-**Simmas.**
+**SIMMAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Er sieht  
 Trotz seines Anzugs nach was Besserm aus.  
 Und wie er traurig stiert und starrt! Am End'  
 Ist's hier bei ihm nicht richtig. (nach der Stirn deutend.)
 
-**Nabonassar.**
+**NABONASSAR.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nu gewiss!  
 Wer darum herkommt, der ist allemal  
@@ -6767,17 +6767,17 @@ Nicht bei gesunden Sinnen.
 
 (Ninyas sinkt wie erschöpft auf die Stufen nieder.)
 
-**Simmas.**
+**SIMMAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ob er krank ist?  
 Die Kniee brechen ihm. Sprich doch mit ihm!
 
-**Nabonassar.**
+**NABONASSAR.**
 
 He, junger Freund! (da Ninyas sich nicht regt)  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Der Narre spielt den Tauben.
 
-**Simmas** (mitleidig nähertretend).
+**SIMMAS** (mitleidig nähertretend).
 
 Sag, bist du krank? Gleich wird die Herrin kommen.  
 Weisst du, wie man vor ihrem Antlitz sich  
@@ -6786,14 +6786,14 @@ Den Boden küssen, reden erst, sobald
 Sie fragt, und dann manierlich, nicht so kurz  
 Und knapp, wie du dem Menon Antwort gabst.
 
-**Nabonassar.**
+**NABONASSAR.**
 
 Lass ihn nur gehn. Er fühlt sich schon als Herrn,  
 Und wir sind Dienerpack. Doch morgen früh  
 Tauscht' er wohl gern mit uns. Nu, Jeder schläft,  
 Wie er sich bettet.
 
-**Simmas.**
+**SIMMAS.**
 
 Still! Die Königin!
 
@@ -6803,7 +6803,7 @@ Still! Die Königin!
 
 Vorige. (Durch die Pforte links treten) zwei Sclavinnen (ein, die an der Schwelle bleiben. Dann erscheint, von) Menon gefolgt, Mylitta (in ein langes, weisses wollenes Gewand gekleidet, mit Purpur und Gold verbrämt. Die Arme sind nackt, aber mit einem feinen granatrothen Schleiertuch bedeckt, das sie um Brust und Hals geschlungen hat. Ihr schwarzes Haar ist in ein Netz aus feinen Goldfäden zusammengefasst; kein Diadem. Goldene Sandalen an den nackten Füssen. --- Bei ihrem Eintritt deutet Menon auf Ninyas, der in sich versunken noch immer auf den Stufen ruht. Sie betrachtet ihn einen Augenblick, hebt dann rasch die Hand, worauf sich Alle zurückziehen, Menon mit den Wächtern durch die Pforte rechts, deren Teppich geschlossen wird, die Sclavinnen nach links.
 
-**Mylitta.**
+**MYLITTA.**
 
 Steh auf! --- Hörst du mich nicht? Steh auf!
 
@@ -6811,53 +6811,53 @@ Steh auf! --- Hörst du mich nicht? Steh auf!
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du heissest?
 
-**Ninyas.**
+**NINYAS.**
 
 Ninyas.
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deine Eltern leben noch?
 
-**Ninyas.**
+**NINYAS.**
 
 Sie leben.
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sie sind alt?
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mein Vater siebzig,  
 Viel jünger meine Mutter.
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hast du noch  
 Geschwister?
 
-**Ninyas** (düster, immer ohne sie anzusehn).
+**NINYAS** (düster, immer ohne sie anzusehn).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Einen Bruder hatt' ich. Der  
 Ist todt.
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;So bist du jetzt im Elternhaus  
 Der Einz'ge noch?
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Des Bruders Wittwe lebt  
 In unsrer Hütte.
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Als dein Weib? Du freitest  
 Die Wittwe, wie's der Brauch?
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sie lebt nur noch  
 In Geistesnacht. Um ihres Gatten Tod  
@@ -6865,48 +6865,48 @@ Fiel sie in Wahnsinn.
 
 (Pause.)
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Weisst du nicht, wie man  
 Der Majestät sich naht?
 
-**Ninyas** (fest zu ihr aufblickend).
+**NINYAS** (fest zu ihr aufblickend).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich weiss es, Kön'gin.
 
-**Mylitta.**
+**MYLITTA.**
 
 Nun?
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;Dieses Bodens Staub vor dir zu küssen,  
 Schien mir unwürdig Dessen, der zu Nacht  
 Den Mund dir küssen darf.
 
-**Mylitta** (das Haupt aufrichtend).
+**MYLITTA** (das Haupt aufrichtend).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Wer lehrte dich  
 Die stolze Sprache? Du bist niedern Standes,  
 Ein Schifferknecht.
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ein Schiffer, doch kein Knecht.  
 Frei treibt mein Vater sein Gewerb.
 
 (Pause.)
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du bist  
 Sehr jung, --- kaum zwanzig alt.
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du sagst es, Herrin.
 
-**Mylitta.**
+**MYLITTA.**
 
 (betrachtet ihn scharf, steigt dann die Stufen hinauf und setzt sich auf das Ruhebett).
 
@@ -6915,7 +6915,7 @@ Hieher! --- Ich will's! Gehorche!
 
 (Ninyas schreitet langsam die Stufen hinan, setzt sich, so dass zwischen ihm und der Königin ein Raum bleibt. Ihr Anblick verwirrt ihn, er schlägt die Augen nieder.)
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deine Eltern  
 Wissen darum, dass du hiehergegangen,  
@@ -6923,7 +6923,7 @@ Und willigten darein, den einz'gen Sohn ---
 Denn ihnen auch ist das Gesetz bekannt,  
 Das Alle trifft, die um die Kön'gin werben?
 
-**Ninyas.**
+**NINYAS.**
 
 Sie wissen's nicht. Ich sagte: Segnet mich!  
 Ich muss auf eine weite Reise gehn.  
@@ -6932,7 +6932,7 @@ Musst du uns denn verlassen? Und ich sprach:
 Ich muss. Da legten sie mir ihre Hände  
 Aufs Haupt und sprachen: Thue, was du musst!
 
-**Mylitta.**
+**MYLITTA.**
 
 Und warum musstest du? Was riss dich fort?  
 Leichtsinn der Jugend, die das Leben noch  
@@ -6948,37 +6948,37 @@ Und träumst dir überirdischen Wonnerausch
 Am Busen einer Königin, die Göttern  
 Entstammt?
 
-**Ninyas** (einfach).
+**NINYAS** (einfach).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich habe nie ein Weib berührt.
 
-**Mylitta** (stirnrunzelnd).
+**MYLITTA** (stirnrunzelnd).
 
 Du lügst! Wer so wie du geschaffen ist,  
 Im reifen Jugendflor, mit Feueraugen,  
 Durch seidne Wimpern glühend --- oder sagte  
 Dir nie ein Weib, wie schön du bist?
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich hatte  
 Nicht Zeit, nach Weiberrede hinzuhorchen.  
 Von früh bis spät musst' ich die Arme rühren,  
 Und dann ---
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Und dann ---
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --- ein Mädchen war im Haus ---
 
-**Mylitta.**
+**MYLITTA.**
 
 Du liebtest sie?
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Seit ich den Knabenrock  
 Ablegte. Eine Waise --- meine Eltern  
@@ -6986,11 +6986,11 @@ Erbarmten sich des Findlings. Ich gedachte,
 Sie einst zu meinem Weibe zu erlangen,  
 Doch anders war's beschlossen.
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Anders?
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Auch  
 Mein Bruder wollte sie. Er war der Ältre,  
@@ -7001,20 +7001,20 @@ Hier eingebrannt mit glüh'ndem Stachel, nie
 Verwischt durch eines andern Weibes Züge.  
 Bis eines Tags ---
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bis eines Tages du  
 Die Königin gesehn?
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nein, Herrin.
 
-**Mylitta** (betroffen).
+**MYLITTA** (betroffen).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nein?
 
-**Ninyas.**
+**NINYAS.**
 
 Bis mir in fremdem Lande Botschaft kam,  
 Todt sei mein Bruder, schlimmer noch als todt  
@@ -7022,11 +7022,11 @@ Sein junges Weib. Da jagt' ich heim und trat
 Ins Haus der Trauer, und da sagten sie  
 Mir Alles.
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Alles? Was?
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Die Mutter sagt' es,  
 Mein alter Vater nickte nur dazu.  
@@ -7038,7 +7038,7 @@ Das Herz zerschnitt mir's!
 
 (drückt die Hände vors Gesicht.)
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Seltsam, in der That!  
 Dein Herz ist weich, das Leid der Deinen rührt's,  
@@ -7047,9 +7047,9 @@ Und gehst von ihnen? War so übermächtig
 Die Leidenschaft, die, als du heimgekehrt,  
 Mein Anblick dir entflammte?
 
-**Ninyas** (schweigt).
+**NINYAS** (schweigt).
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Reden darfst du  
 Zu mir, so wie der Bräutigam zur Braut.  
@@ -7057,19 +7057,19 @@ Zum Ekel wurde mir's, von Höflingen
 Mein Lob zu hören. Von so unberührten,  
 Schüchternen Lippen hört' ich's gern.
 
-**Ninyas** (sich abwendend).
+**NINYAS** (sich abwendend).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Verzeih!  
 Ich --- kann nicht!
 
-**Mylitta** (legt ihre Hand auf die seine).
+**MYLITTA** (legt ihre Hand auf die seine).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Auch ein unbeholfnes Lob  
 Klingt süss, ja wohl am süssesten. Wann war's,  
 Dass du zuerst erkannt, dein Schicksal sei's,  
 Um mich zu sterben?
 
-**Ninyas** (zögernd).
+**NINYAS** (zögernd).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Muss ich's denn gestehn?  
 Ich seh' dich heut und hier zum ersten Mal.  
@@ -7078,28 +7078,28 @@ Und nie sah ich ein schön'res Weib als dich.
 Doch nichts von dem, was ich für Amytis  
 Empfunden, glüht in meiner Brust für dich.
 
-**Mylitta** (stirnrunzelnd).
+**MYLITTA** (stirnrunzelnd).
 
 So wär's --- nur eine Laune?
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nenn es so!  
 Doch nein, du hast's gesagt: mein Schicksal ist's.
 
-**Mylitta** (sich rasch erhebend, mit mühsamer Fassung).
+**MYLITTA** (sich rasch erhebend, mit mühsamer Fassung).
 
 Du bist --- verzweifelt ehrlich. Weisst du auch,  
 Dass du den Tod verdient hast, da du wagst  
 Der Königin zu spotten, um sie werbend  
 Aus Laune nur?
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;So tödte mich. Ich kann  
 Nicht lügen.
 
-**Mylitta** (ihn scharf anblickend).
+**MYLITTA** (ihn scharf anblickend).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Glauben muss ich fast, dein Thun  
 Sei nur des Wahnsinns Ausgeburt. So geh  
@@ -7107,26 +7107,26 @@ Nach Haus, vermähle dich mit Amytis.
 Die Brut von blöden Kindern, die ihr zeugt,  
 Sei Strafe deines Frevels. (wendet sich ab.)
 
-**Ninyas** (erhebt flehend die Hände).
+**NINYAS** (erhebt flehend die Hände).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Königin,  
 Schick mich nicht fort! Wahnsinnig bin ich nicht,  
 Noch nicht; doch kann ich's werden, wenn du mich  
 Verbannst aus deinen Augen.
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Und doch sagst du,  
 Du fühltest Nichts für mich?
 
-**Ninyas** (düster zu Boden blickend).
+**NINYAS** (düster zu Boden blickend).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Das, was ich fühle,  
 Du sollst's erfahren, wenn die Nacht den Schleier  
 Um Offenbares breitet und Geheimes  
 Enthüllt.
 
-**Mylitta** (heftig).
+**MYLITTA** (heftig).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Genug der räthseldunklen Reden!  
 Welch ein Geheimniss lauert, du Verstockter,  
@@ -7141,7 +7141,7 @@ Wahnwitz'ger Thor!
 Mit glüh'ndem Eisen seine träge Zunge,  
 Bis sie zum Sprechen sich entschliesst.
 
-**Ninyas** (kalt aufblickend).
+**NINYAS** (kalt aufblickend).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du wähnst,  
 Durch Folterqual mir aus der Brust zu reissen,  
@@ -7155,26 +7155,26 @@ Liefr' ich dir aus, freiwillig. Hast du mich
 Nicht schonen wollen? Nun will ich dich zwingen,  
 Der Schonung zu entsagen.
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Zwingen? mich?  
 Die Tochter der Semiramis? Du wärst  
 Der Erste. Sprich!
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dein Ohr nur soll es hören.
 
 (Mylitta winkt. Menon und die Wachen ziehen sich zurück.)
 
-**Ninyas** (ihr einen Schritt näher tretend, tonlos).
+**NINYAS** (ihr einen Schritt näher tretend, tonlos).
 
 Die Tochter der Semiramis, wenn heut  
 Sie Hochzeit hielte mit dem Fischersohn,  
 Wär' morgen nur ein Haufe weisser Glieder,  
 Von keinem Hauch beseelt.
 
-**Mylitta.**
+**MYLITTA.**
 
 (blickt ihn ruhig an, die Arme über der Brust gekreuzt).
 
@@ -7183,26 +7183,26 @@ Dass du voraussagst, was die Götter mir
 Von heut auf morgen als ein räthselhaft  
 Geschick verhängten?
 
-**Ninyas.**
+**NINYAS.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dies verhängte dir  
 Ein Mensch, der nur noch athmet, um zu rächen,  
 Was du ihm anthatst.
 
-**Mylitta.**
+**MYLITTA.**
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du? --- Ich seh' dich heut  
 Zum ersten Mal und meint' es gut mit dir.
 
-**Ninyas.**
+**NINYAS.**
 
-Doch Andern brachtest du Verderben, die  
-Mir theurer als mein Leben. Willst du wissen,  
-Woran mein Bruder starb? Am Fieber, das  
-Dein Anblick ihm entflammt, das er zu heilen  
-Gehofft in deinem Arm.
+    Doch Andern brachtest du Verderben, die  
+    Mir theurer als mein Leben. Willst du wissen,  
+    Woran mein Bruder starb? Am Fieber, das  
+    Dein Anblick ihm entflammt, das er zu heilen  
+    Gehofft in deinem Arm.
 
-**Mylitta** (setzt sich wieder, zuckt die Achseln).
+**MYLITTA** (setzt sich wieder, zuckt die Achseln).
 
 
 
