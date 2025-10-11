@@ -24,6 +24,14 @@
 
 # 6. [Die Tochter der Semiramis.](#6-die-tochter-der-semiramis-1)
 
+## 6.1 [Erste Scene.]()
+
+## 6.2 [Zweite Scene.]()
+
+## 6.3 [Dritte Scene.]()
+
+## 6.4 [Vierte Scene.]()
+
 ---
 
 Druck der Union Deutsche Verlagsgesellschaft in Stuttgart.
@@ -6525,7 +6533,7 @@ Grosses Gemach im Palast. Durch schwere vergoldete Pfeiler im Hintergrunde Ausbl
 
 ## Erste Scene.
 
-(Neben der Pforte rechts halten) Nabonassar und Simmas, (auf ihre Bogen gestützt, Wache.)
+_(Neben der Pforte rechts halten) Nabonassar und Simmas, (auf ihre Bogen gestützt, Wache.)_
 
 **NABONASSAR.**
 
@@ -6636,7 +6644,7 @@ Denk' ich mir oft, dies Götterweib zu zwingen,
 Mit der zu thun, wie jeder Bauernkerl  
 Mit seiner Liebsten thut ---
 
-(hinter den Thürvorhang spähend.)
+_(hinter den Thürvorhang spähend.)_
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --- es hört's doch Keiner?  
 Wo du mir schwätzest, Bursch --- !
@@ -6667,7 +6675,7 @@ Des jungen Hochzeitspaars.
 
 ## Zweite Scene.
 
-Menon führt Ninyas (herein, der einfach, wie einer aus dem niederen Volk gekleidet ist. Der Palastvogt trägt ein sehr reiches, mit Goldstickerei überladenes Gewand, einen bis tief auf die Brust herabhängenden, sorgfältig gekräuselten Bart und einen goldenen Stab. Bei seinem Eintritt neigen sich die Wachen tief zur Erde).
+_Menon führt Ninyas (herein, der einfach, wie einer aus dem niederen Volk gekleidet ist. Der Palastvogt trägt ein sehr reiches, mit Goldstickerei überladenes Gewand, einen bis tief auf die Brust herabhängenden, sorgfältig gekräuselten Bart und einen goldenen Stab. Bei seinem Eintritt neigen sich die Wachen tief zur Erde)._
 
 **MENON.**
 
@@ -6734,7 +6742,7 @@ Bleibst du dabei?
 
 Nun, wie du willst. Ich gehe dich zu melden.
 
-(ab durch die Pforte links.)
+_(ab durch die Pforte links.)_
 
 ## Dritte Scene.
 
@@ -6757,7 +6765,7 @@ Menon hochmüthig abgetrumpft, der Geck:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Er sieht  
 Trotz seines Anzugs nach was Besserm aus.  
 Und wie er traurig stiert und starrt! Am End'  
-Ist's hier bei ihm nicht richtig. (nach der Stirn deutend.)
+Ist's hier bei ihm nicht richtig. _(nach der Stirn deutend.)_
 
 **NABONASSAR.**
 
@@ -6765,7 +6773,7 @@ Ist's hier bei ihm nicht richtig. (nach der Stirn deutend.)
 Wer darum herkommt, der ist allemal  
 Nicht bei gesunden Sinnen.
 
-(Ninyas sinkt wie erschöpft auf die Stufen nieder.)
+_(Ninyas sinkt wie erschöpft auf die Stufen nieder.)_
 
 **SIMMAS.**
 
@@ -6774,7 +6782,7 @@ Die Kniee brechen ihm. Sprich doch mit ihm!
 
 **NABONASSAR.**
 
-He, junger Freund! (da Ninyas sich nicht regt)  
+He, junger Freund! _(da Ninyas sich nicht regt)_  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Der Narre spielt den Tauben.
 
 **SIMMAS** (mitleidig nähertretend).
@@ -6797,17 +6805,17 @@ Wie er sich bettet.
 
 Still! Die Königin!
 
-(Beide werfen sich zu Boden.)
+_(Beide werfen sich zu Boden.)_
 
 ## Vierte Scene.
 
-Vorige. (Durch die Pforte links treten) zwei Sclavinnen (ein, die an der Schwelle bleiben. Dann erscheint, von) Menon gefolgt, Mylitta (in ein langes, weisses wollenes Gewand gekleidet, mit Purpur und Gold verbrämt. Die Arme sind nackt, aber mit einem feinen granatrothen Schleiertuch bedeckt, das sie um Brust und Hals geschlungen hat. Ihr schwarzes Haar ist in ein Netz aus feinen Goldfäden zusammengefasst; kein Diadem. Goldene Sandalen an den nackten Füssen. --- Bei ihrem Eintritt deutet Menon auf Ninyas, der in sich versunken noch immer auf den Stufen ruht. Sie betrachtet ihn einen Augenblick, hebt dann rasch die Hand, worauf sich Alle zurückziehen, Menon mit den Wächtern durch die Pforte rechts, deren Teppich geschlossen wird, die Sclavinnen nach links.
+_Vorige. (Durch die Pforte links treten) zwei Sclavinnen (ein, die an der Schwelle bleiben. Dann erscheint, von) Menon gefolgt, Mylitta (in ein langes, weisses wollenes Gewand gekleidet, mit Purpur und Gold verbrämt. Die Arme sind nackt, aber mit einem feinen granatrothen Schleiertuch bedeckt, das sie um Brust und Hals geschlungen hat. Ihr schwarzes Haar ist in ein Netz aus feinen Goldfäden zusammengefasst; kein Diadem. Goldene Sandalen an den nackten Füssen. --- Bei ihrem Eintritt deutet Menon auf Ninyas, der in sich versunken noch immer auf den Stufen ruht. Sie betrachtet ihn einen Augenblick, hebt dann rasch die Hand, worauf sich Alle zurückziehen, Menon mit den Wächtern durch die Pforte rechts, deren Teppich geschlossen wird, die Sclavinnen nach links._
 
 **MYLITTA.**
 
 Steh auf! --- Hörst du mich nicht? Steh auf!
 
-(Ninyas erhebt sich, wirft einen raschen Blick auf sie, senkt dann wieder die Augen.)
+_(Ninyas erhebt sich, wirft einen raschen Blick auf sie, senkt dann wieder die Augen.)_
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du heissest?
 
@@ -6863,7 +6871,7 @@ Die Wittwe, wie's der Brauch?
 In Geistesnacht. Um ihres Gatten Tod  
 Fiel sie in Wahnsinn.
 
-(Pause.)
+_(Pause.)_
 
 **MYLITTA.**
 
@@ -6895,7 +6903,7 @@ Ein Schifferknecht.
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ein Schiffer, doch kein Knecht.  
 Frei treibt mein Vater sein Gewerb.
 
-(Pause.)
+_(Pause.)_
 
 **MYLITTA.**
 
@@ -6908,12 +6916,12 @@ Sehr jung, --- kaum zwanzig alt.
 
 **MYLITTA.**
 
-(betrachtet ihn scharf, steigt dann die Stufen hinauf und setzt sich auf das Ruhebett).
+_(betrachtet ihn scharf, steigt dann die Stufen hinauf und setzt sich auf das Ruhebett)._
 
 Setz dich an meine Seite, Ninyas,  
 Hieher! --- Ich will's! Gehorche!
 
-(Ninyas schreitet langsam die Stufen hinan, setzt sich, so dass zwischen ihm und der Königin ein Raum bleibt. Ihr Anblick verwirrt ihn, er schlägt die Augen nieder.)
+_(Ninyas schreitet langsam die Stufen hinan, setzt sich, so dass zwischen ihm und der Königin ein Raum bleibt. Ihr Anblick verwirrt ihn, er schlägt die Augen nieder.)_
 
 **MYLITTA.**
 
@@ -7036,7 +7044,7 @@ Liebkost' und mit des Todten Namen rief
 Und dazu lächelte --- ein Lächeln --- oh!  
 Das Herz zerschnitt mir's!
 
-(drückt die Hände vors Gesicht.)
+_(drückt die Hände vors Gesicht.)_
 
 **MYLITTA.**
 
@@ -7105,7 +7113,7 @@ Nicht lügen.
 Sei nur des Wahnsinns Ausgeburt. So geh  
 Nach Haus, vermähle dich mit Amytis.  
 Die Brut von blöden Kindern, die ihr zeugt,  
-Sei Strafe deines Frevels. (wendet sich ab.)
+Sei Strafe deines Frevels. _(wendet sich ab.)_
 
 **NINYAS** (erhebt flehend die Hände).
 
@@ -7135,7 +7143,7 @@ Denk, dass ich Mittel habe, dir die Zunge
 Zu lösen! (da Ninyas schweigt) Wirst du sprechen? Ha,  
 Wahnwitz'ger Thor!
 
-(schlägt an einen Schild; Menon und die beiden Wachen treten ein.)
+_(schlägt an einen Schild; Menon und die beiden Wachen treten ein.)_
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nehmt Diesen hier und stachelt  
 Mit glüh'ndem Eisen seine träge Zunge,  
@@ -7165,7 +7173,7 @@ Der Erste. Sprich!
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dein Ohr nur soll es hören.
 
-(Mylitta winkt. Menon und die Wachen ziehen sich zurück.)
+_(Mylitta winkt. Menon und die Wachen ziehen sich zurück.)_
 
 **NINYAS** (ihr einen Schritt näher tretend, tonlos).
 
@@ -7176,7 +7184,7 @@ Von keinem Hauch beseelt.
 
 **MYLITTA.**
 
-*(blickt ihn ruhig an, die Arme über der Brust gekreuzt).*
+_(blickt ihn ruhig an, die Arme über der Brust gekreuzt)._
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bist du ein Seher,  
 Dass du voraussagst, was die Götter mir  
