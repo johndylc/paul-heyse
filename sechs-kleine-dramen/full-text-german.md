@@ -6769,150 +6769,173 @@ Nicht bei gesunden Sinnen.
 
 (Ninyas sinkt wie erschöpft auf die Stufen nieder.)
 
-Simmas.
-Ob er krank ist?
+**Simmas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ob er krank ist?  
 Die Kniee brechen ihm. Sprich doch mit ihm!
-Nabonassar.
-He, junger Freund! (da Ninyas sich nicht regt)
-Der Narre spielt den Tauben.
-Simmas (mitleidig nähertretend).
-Sag, bist du krank? Gleich wird die Herrin kommen.
-Weisst du, wie man vor ihrem Antlitz sich
-Beträgt? Nicht knieen bloss, nein, mit der Stirn
-Den Boden küssen, reden erst, sobald
-Sie fragt, und dann manierlich, nicht so kurz
+
+**Nabonassar.**
+
+He, junger Freund! (da Ninyas sich nicht regt)  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Der Narre spielt den Tauben.
+
+**Simmas** (mitleidig nähertretend).
+
+Sag, bist du krank? Gleich wird die Herrin kommen.  
+Weisst du, wie man vor ihrem Antlitz sich  
+Beträgt? Nicht knieen bloss, nein, mit der Stirn  
+Den Boden küssen, reden erst, sobald  
+Sie fragt, und dann manierlich, nicht so kurz  
 Und knapp, wie du dem Menon Antwort gabst.
-Nabonassar.
+
+**Nabonassar.**
+
 Lass ihn nur gehn. Er fühlt sich schon als Herrn,
 Und wir sind Dienerpack. Doch morgen früh
-Tauscht' er wohl gern mit uns. Nu, Ieder schläft,
+Tauscht' er wohl gern mit uns. Nu, Jeder schläft,
 Wie er sich bettet.
-Simmas.
+
+**Simmas.**
+
 Still! Die Königin!
+
 (Beide werfen sich zu Boden.)
-Vierte Scene.
-Vorige. (Durch die Pforte links treten) zwei Sclavinnen
-(ein, die an der Schwelle bleiben. Dann erscheint, von)
-Menon gefolgt, Mylitta (in ein langes, weisses wollenes
-Gewand gekleidet, mit Purpur und Gold verbrämt. Die Arme
-sind nackt, aber mit einem feinen granatrothen Schleier-
-tuch bedeckt, das sie um Brust und Hals geschlungen hat.
 
+## Vierte Scene.
 
-0206
+Vorige. (Durch die Pforte links treten) zwei Sclavinnen (ein, die an der Schwelle bleiben. Dann erscheint, von) Menon gefolgt, Mylitta (in ein langes, weisses wollenes Gewand gekleidet, mit Purpur und Gold verbrämt. Die Arme sind nackt, aber mit einem feinen granatrothen Schleiertuch bedeckt, das sie um Brust und Hals geschlungen hat. Ihr schwarzes Haar ist in ein Netz aus feinen Goldfäden zusammengefasst; kein Diadem. Goldene Sandalen an den nackten Füssen. --- Bei ihrem Eintritt deutet Menon auf Ninyas, der in sich versunken noch immer auf den Stufen ruht. Sie betrachtet ihn einen Augenblick, hebt dann rasch die Hand, worauf sich Alle zurückziehen, Menon mit den Wächtern durch die Pforte rechts, deren Teppich geschlossen wird, die Sclavinnen nach links.
 
-Die Tochter der Semiramis.
-209
-Ihr schwarzes Haar ist in ein Netz aus feinen Goldfäden
-zusammengefasst; kein Diadem. Goldene Sandalen an den
-nackten Füssen. --- Bei ihrem Eintritt deutet Menon auf
-Ninyas, der in sich versunken noch immer auf den Stufen
-ruht. Sie betrachtet ihn einen Augenblick, hebt dann rasch
-die Hand, worauf sich Alle zurückziehen, Menon mit den
-Wächtern durch die Pforte rechts, deren Teppich geschlossen
-wird, die Sclavinnen nach links.
-Mylitta.
-Steh auf! Hörst du mich nicht? Steh auf!
-(Ninyas erhebt sich, wirft einen raschen Blick auf sie, senkt dann wieder
-die Augen.)
-Du heissest?
+**Mylitta.**
+
+Steh auf! --- Hörst du mich nicht? Steh auf!
+
+(Ninyas erhebt sich, wirft einen raschen Blick auf sie, senkt dann wieder die Augen.)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du heissest?
+
+**Ninyas.**
+
 Ninyas.
-Ninyas.
-Mylitta.
-Deine Eltern leben noch?
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deine Eltern leben noch?
+
+**Ninyas.**
+
 Sie leben.
-Ninnas.
-Mylitta.
-Sie sind alt?
-Ninyas.
-Mein Vater siebzig,
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sie sind alt?
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mein Vater siebzig,  
 Viel jünger meine Mutter.
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hast du noch  
 Geschwister?
-Ninyas (düster, immer ohne sie anzusehn).
-Einen Bruder hatt' ich. Der
+
+**Ninyas** (düster, immer ohne sie anzusehn).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Einen Bruder hatt' ich. Der  
 Ist todt.
-Heyse, Sechs kleine Dramen.
-Mylitta.
-Hast du noch
-14
 
+**Mylitta.**
 
-0207
-
-210
-Die Tochter der Semiramis.
-Mylitta.
-So bist du jetzt im Elternhaus
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;So bist du jetzt im Elternhaus  
 Der Einz'ge noch?
-Ninyas.
-Des Bruders Wittwe lebt
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Des Bruders Wittwe lebt
 In unsrer Hütte.
-Mylitta.
-Als dein Weib? Du freitest
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Als dein Weib? Du freitest  
 Die Wittwe, wie's der Brauch?
-Ninnas.
-Sie lebt nur noch
-In Geistesnacht. Um ihres Gatten Tod
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sie lebt nur noch  
+In Geistesnacht. Um ihres Gatten Tod  
 Fiel sie in Wahnsinn.
+
 (Pause.)
-Mylitta.
-Weisst du nicht, wie man
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Weisst du nicht, wie man
 Der Majestät sich naht?
+
+**Ninyas** (fest zu ihr aufblickend).
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich weiss es, Kön'gin.
+
+**Mylitta.**
+
 Nun?
-Ninyas (est zu ihr aufblickend).
-Ich weiss es, Kön'gin.
-Mylitta.
-Ninyas.
-Dieses Bodens Staub vor dir zu küssen,
-Schien mir unwürdig Dessen, der zu Nacht
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;Dieses Bodens Staub vor dir zu küssen,  
+Schien mir unwürdig Dessen, der zu Nacht  
 Den Mund dir küssen darf.
-Mylitta (das Haupt aufrichtend).
-Wer lehrte dich
 
+**Mylitta** (das Haupt aufrichtend).
 
-0208
-
-Die Tochter der Semiramis.
-Die stolze Sprache? Du bist niedern Standes,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Wer lehrte dich  
+Die stolze Sprache? Du bist niedern Standes,  
 Ein Schifferknecht.
-Ninyas.
-Ein Schiffer, doch kein Knecht.
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ein Schiffer, doch kein Knecht.  
 Frei treibt mein Vater sein Gewerb.
+
 (Pause.)
-211
-Mylitta.
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du bist  
 Sehr jung, --- kaum zwanzig alt.
-Ninnas.
-Mylitta
-(betrachtet ihn scharf, steigt dann die Stufen hinauf und setzt sich auf
-das Ruhebett).
-Setz dich an meine Seite, Ninyas,
+
+**Ninyas.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du sagst es, Herrin.
+
+**Mylitta.**
+
+(betrachtet ihn scharf, steigt dann die Stufen hinauf und setzt sich auf das Ruhebett).
+
+Setz dich an meine Seite, Ninyas,  
 Hieher! --- Ich will's! Gehorche!
-(Ninyas schreitet langsam die Stufen hinan, setzt sich, so dass zwischen
-ihm und der Königin ein Raum bleibt. Ihr Anblick verwirrt ihn, er
-schlägt die Augen nieder.)
-Du bist
-Du sagst es, Herrin.
-Mylitta.
-Deine Eltern
-Wissen darum, dass du hiehergegangen,
-Und willigten darein, den einz'gen Sohn ---
-Denn ihnen auch ist das Gesetz bekannt,
+
+(Ninyas schreitet langsam die Stufen hinan, setzt sich, so dass zwischen ihm und der Königin ein Raum bleibt. Ihr Anblick verwirrt ihn, er schlägt die Augen nieder.)
+
+**Mylitta.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Deine Eltern  
+Wissen darum, dass du hiehergegangen,  
+Und willigten darein, den einz'gen Sohn ---  
+Denn ihnen auch ist das Gesetz bekannt,  
 Das Alle trifft, die um die Kön'gin werben?
-Ninyas.
-Sie wissen's nicht. Ich sagte: Segnet mich!
-Ich muss auf eine weite Reise gehn.
-Sie sagten: Wir sind alt und einsam, Kind.
-Musst du uns denn verlassen? Und ich sprach:
 
+**Ninyas.**
 
-0209
-
-212
-Die Tochter der Semiramis.
-Ich muss. Da legten sie mir ihre Hände
+Sie wissen's nicht. Ich sagte: Segnet mich!  
+Ich muss auf eine weite Reise gehn.  
+Sie sagten: Wir sind alt und einsam, Kind.  
+Musst du uns denn verlassen? Und ich sprach:  
+Ich muss. Da legten sie mir ihre Hände  
 Aufs Haupt und sprachen: Thue, was du musst!
-Mylitta.
+
+**Mylitta.**
+
 Und warum musstest du? Was riss dich fort?
 Leichtsinn der Iugend, die das Leben noch
 So wenig schätzt, dass sie es lachend wegwirft
