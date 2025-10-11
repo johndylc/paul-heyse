@@ -7308,8 +7308,8 @@ Von einem Ungeheu'r.
 
 **MYLITTA.**
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Und hätte wohl
-Zum Dank auf dieses Ungeheuers Thron
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Und hätte wohl  
+Zum Dank auf dieses Ungeheuers Thron  
 Den Halbgott selbst gesetzt?
 
 **NINYAS.**
