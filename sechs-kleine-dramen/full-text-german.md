@@ -7176,7 +7176,7 @@ Von keinem Hauch beseelt.
 
 **MYLITTA.**
 
-(blickt ihn ruhig an, die Arme über der Brust gekreuzt).
+*(blickt ihn ruhig an, die Arme über der Brust gekreuzt).*
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bist du ein Seher,  
 Dass du voraussagst, was die Götter mir  
@@ -7191,16 +7191,16 @@ Was du ihm anthatst.
 
 **MYLITTA.**
 
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du? --- Ich seh' dich heut  
-    Zum ersten Mal und meint' es gut mit dir.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du? --- Ich seh' dich heut  
+Zum ersten Mal und meint' es gut mit dir.
 
 **NINYAS.**
 
-    Doch Andern brachtest du Verderben, die  
-    Mir theurer als mein Leben. Willst du wissen,  
-    Woran mein Bruder starb? Am Fieber, das  
-    Dein Anblick ihm entflammt, das er zu heilen  
-    Gehofft in deinem Arm.
+Doch Andern brachtest du Verderben, die  
+Mir theurer als mein Leben. Willst du wissen,  
+Woran mein Bruder starb? Am Fieber, das  
+Dein Anblick ihm entflammt, das er zu heilen  
+Gehofft in deinem Arm.
 
 **MYLITTA** (setzt sich wieder, zuckt die Achseln).
 
