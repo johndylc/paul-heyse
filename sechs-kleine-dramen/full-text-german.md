@@ -6961,9 +6961,9 @@ Dir nie ein Weib, wie schön du bist?
 
 **Ninyas.**
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich hatte
-Nicht Zeit, nach Weiberrede hinzuhorchen.
-Von früh bis spät musst' ich die Arme rühren,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich hatte  
+Nicht Zeit, nach Weiberrede hinzuhorchen.  
+Von früh bis spät musst' ich die Arme rühren,  
 Und dann ---
 
 **Mylitta.**
@@ -7116,7 +7116,7 @@ Verbannst aus deinen Augen.
 
 **Mylitta.**
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Und doch sagst du,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Und doch sagst du,  
 Du fühltest Nichts für mich?
 
 **Ninyas** (düster zu Boden blickend).
