@@ -32,6 +32,8 @@
 
 ## 6.4 [Vierte Scene.](#64-----vierte-scene)
 
+## 6.5 [Fünfte Scene.]()
+
 ---
 
 Druck der Union Deutsche Verlagsgesellschaft in Stuttgart.
@@ -6514,7 +6516,7 @@ Lippen zu drücken, und sie den Arm um ihn schlingt)
 
 ### Tragödie in einem Akt.
 
-#### 1897.
+**1897.**
 
 - Personen:
   - **MYLITTA**, Königin von Assyrien.
@@ -7212,330 +7214,326 @@ Gehofft in deinem Arm.
 
 **MYLITTA** _(setzt sich wieder, zuckt die Achseln)_.
 
-
-
-Ist's meine Schuld,
-Dass mich die Mutter nicht zur Welt geboren
-Als Affin oder Eule? Doch was ist mir
-Ein fieberkranker Narr? Entsinn' ich mich
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ist's meine Schuld,  
+Dass mich die Mutter nicht zur Welt geboren  
+Als Äffin oder Eule? Doch was ist mir  
+Ein fieberkranker Narr? Entsinn' ich mich  
 Doch nicht, von wem du redest.
 
-Ninyas.
+**NINYAS.**
 
-O mein Sarkas,
-Dass dein verlornes Leben keine Spur
-Zurückliess im Gedächtniss deiner Mördrin,
-Die nur die Lippe rümpft und höhnisch fragt,
-Von wem ich rede! --- Wisse denn: er fuhr
-Bei Mondenschein den Fluss hinunter, wohl
-
-
-0216
-
-Die Tochter der Semiramis.
-Der Heimkehr froh zu seinem jungen Weibe,
-Den alten Eltern und dem stillen Herd.
-Da sahn ihn neidische Nachtdämonen, die
-Verderben sinnen armen Sterblichen,
-Und da er kam zu jener Stelle, wo
-Das Bad der Königin in den Fluss gebaut ist,
-Umhegt von hoher Mauer, und von innen
-Plätschern vernahm und Stimmen und Gesang,
-Entfachten sie in des Unsel'gen Brust
-Tollkühne Neugier, dass er seinen Kahn
-Sacht an die Mauer lenkt. Da hält er an
-Und lauscht, und immer heisser wallt sein Blut.
-Die Zeh'n und Finger bohrend in die Fugen
-Des Quaderbaus, klimmt er hinan, und über
-Die Zinnen spähend, ungesehn, erblickt er --
-Was zu vergessen sein entflammter Sinn
-Umsonst sich mühte, bis der Tod den Brand
-In seiner Brust zugleich mit diesem Bild
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;O mein Sarkas,  
+Dass dein verlornes Leben keine Spur  
+Zurückliess im Gedächtniss deiner Mördrin,  
+Die nur die Lippe rümpft und höhnisch fragt,  
+Von wem ich rede! --- Wisse denn: er fuhr  
+Bei Mondenschein den Fluss hinunter, wohl  
+Der Heimkehr froh zu seinem jungen Weibe,  
+Den alten Eltern und dem stillen Herd.  
+Da sahn ihn neidische Nachtdämonen, die  
+Verderben sinnen armen Sterblichen,  
+Und da er kam zu jener Stelle, wo  
+Das Bad der Königin in den Fluss gebaut ist,  
+Umhegt von hoher Mauer, und von innen  
+Plätschern vernahm und Stimmen und Gesang,  
+Entfachten sie in des Unsel'gen Brust  
+Tollkühne Neugier, dass er seinen Kahn  
+Sacht an die Mauer lenkt. Da hält er an  
+Und lauscht, und immer heisser wallt sein Blut.  
+Die Zeh'n und Finger bohrend in die Fugen  
+Des Quaderbaus, klimmt er hinan, und über  
+Die Zinnen spähend, ungesehn, erblickt er ---  
+Was zu vergessen sein entflammter Sinn  
+Umsonst sich mühte, bis der Tod den Brand  
+In seiner Brust zugleich mit diesem Bild  
 Auslöschte jammervoll.
-Mylitta.
-Er hat gewagt,
-Worauf der Tod von Henkershänden stand.
-Und sagst du nicht, er hatt' ein Weib, und doch
-Verliess er sie um sein Gelüst? So hat er
-Zwiefach den Tod verdient, und du, sein Bruder,
+
+**MYLITTA.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Er hat gewagt,  
+Worauf der Tod von Henkershänden stand.  
+Und sagst du nicht, er hatt' ein Weib, und doch  
+Verliess er sie um sein Gelüst? So hat er  
+Zwiefach den Tod verdient, und du, sein Bruder,  
 Was faselst du von Rachepflicht?
-Ninnas.
-Gleichviel!
-Er starb durch dich. Ich, wo ich ging und stand,
-Sah seinen Leib im Fluss von gier'gen Zähnen
-Zerfleischt hintreiben, und im Ohre klang mir
-219
 
+**NINYAS.**
 
-0217
-
-220
-Die Tochter der Semiramis.
-Der armen Wittwe irrer Wiegensang,
-Und dachte, wie viel Iugend noch, berückt
-Vom Dämon deiner Schönheit, schwimmen wird
-Dieselbe Bahn, bis endlich Einer kommt,
-Gestählt durch seinen Gram, der, ungerührt
-Von deinem Zauber, in der Hochzeitnacht,
-Wenn er den buhlerischen Vampyr nackt
-Und wehrlos hält in seinen Armen, ihm
-Den weissen Hals mit starken Rächerhänden
-Umspannt und ihn erwürgt.
-Nun, Königin,
-Hab' ich dir mein Geheimniss ausgeliefert,
-Nun zaudre länger nicht, die gift'ge Schlange
-Mit deiner goldnen Sohle zu zertreten.
-Denn nichts hinfort ist mir das Leben werth
-In einer Welt, drin solche Gräu'l geschehn,
-Und die ich dulden muss in meiner Ohnmacht,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Gleichviel!  
+Er starb durch dich. Ich, wo ich ging und stand,  
+Sah seinen Leib im Fluss von gier'gen Zähnen  
+Zerfleischt hintreiben, und im Ohre klang mir  
+Der armen Wittwe irrer Wiegensang,  
+Und dachte, wie viel Jugend noch, berückt  
+Vom Dämon deiner Schönheit, schwimmen wird  
+Dieselbe Bahn, bis endlich Einer kommt,  
+Gestählt durch seinen Gram, der, ungerührt  
+Von deinem Zauber, in der Hochzeitnacht,  
+Wenn er den buhlerischen Vampyr nackt  
+Und wehrlos hält in seinen Armen, ihm  
+Den weissen Hals mit starken Rächerhänden  
+Umspannt und ihn erwürgt.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nun, Königin,  
+Hab' ich dir mein Geheimniss ausgeliefert,  
+Nun zaudre länger nicht, die gift'ge Schlange  
+Mit deiner goldnen Sohle zu zertreten.  
+Denn nichts hinfort ist mir das Leben werth  
+In einer Welt, drin solche Gräu'l geschehn,  
+Und die ich dulden muss in meiner Ohnmacht,  
 Da mir mein Racheplan misslang.
-(Pause.)
-Mylitta.
-Und wenn
-Sie morgen früh Assyriens Kön'gin todt
+
+_(Pause.)_
+
+**MYLITTA.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Und wenn  
+Sie morgen früh Assyriens Kön'gin todt  
 Und lebend dich bei ihr gefunden hätten?
-Ninyas.
-Sie hätten mich in Stücke reissen mögen,
-Was lag daran? Den heissen Rachedurst
+
+**NINYAS.**
+
+Sie hätten mich in Stücke reissen mögen,  
+Was lag daran? Den heissen Rachedurst  
 Hätt' ich gestillt. Doch konnt's auch anders kommen.
+
+**MYLITTA.**
+
 Anders?
-Mylitta.
-Ninyas.
-Dass man als Halbgott mich gepriesen,
 
+**NINYAS.**
 
-0218
-
-Die Tochter der Semiramis.
-Der endlich doch die feige Welt befreit
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dass man als Halbgott mich gepriesen,  
+Der endlich doch die feige Welt befreit  
 Von einem Ungeheu'r.
-Mylitta.
-Und hätte wohl
+
+**MYLITTA.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Und hätte wohl
 Zum Dank auf dieses Ungeheuers Thron
 Den Halbgott selbst gesetzt?
-Ninyas.
-Ich auf dem Thron!
-Auf diesem Thron, dess weiche Teppiche
-Mit edlerm Blut als dem der Purpurschnecke
-Gefärbt sind? Allen Göttern sag' ich Dank
-Um meine Niedrigkeit. Denn wer den Becher
-Der Macht an seine Lippen setzte, den
-Bedünkt der Taumeltrank der Rebe bald
-Reizlos und schal. Nach anderm dürstet er,
-Und nichts versagt er sich, den Durst zu stillen.
-Ich läge lieber nackt auf Bergeshöh',
-Dem Raubgevögel hülflos preisgegeben,
+
+**NINYAS.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich auf dem Thron!  
+Auf diesem Thron, dess weiche Teppiche  
+Mit edlerm Blut als dem der Purpurschnecke  
+Gefärbt sind? Allen Göttern sag' ich Dank  
+Um meine Niedrigkeit. Denn wer den Becher  
+Der Macht an seine Lippen setzte, den  
+Bedünkt der Taumeltrank der Rebe bald  
+Reizlos und schal. Nach anderm dürstet er,  
+Und nichts versagt er sich, den Durst zu stillen.  
+Ich läge lieber nackt auf Bergeshöh',  
+Dem Raubgevögel hülflos preisgegeben,  
 Als dass ich säss' auf deinem Thron.
-(Vause.)
-221
-Mylitta.
-Du bist
-Ein weiser Iüngling, Ninyas. Nie sprach
-Ein rother Mund, den süsse Iugend schwellt,
-So hochgesinnte Wahrheit. Komm und setz
-Dich wieder her zu mir; doch sei gewarnt.
-Lass meine Nähe nicht zu jäher Wuth
-Dich reizen, dass mit diesen Rächerhänden
-Du mich erwürgen wolltest. Nur ein Laut
-Von meinen Lippen, und der Halbgott fühlt
-Die Fäuste niedrer Sclaven. Zögerst du?
 
+_(Pause.)_
 
-0219
+**MYLITTA.**
 
-222
-Die Tochter der Semiramis.
-Fürchtest, das Ungeheuer möchte dir
-Ins Fleisch die Zähne schlagen, seinen Durst
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du bist  
+Ein weiser Jüngling, Ninyas. Nie sprach  
+Ein rother Mund, den süsse Jugend schwellt,  
+So hochgesinnte Wahrheit. Komm und setz  
+Dich wieder her zu mir; doch sei gewarnt.  
+Lass meine Nähe nicht zu jäher Wuth  
+Dich reizen, dass mit diesen Rächerhänden  
+Du mich erwürgen wolltest. Nur ein Laut  
+Von meinen Lippen, und der Halbgott fühlt  
+Die Fäuste niedrer Sclaven. Zögerst du?  
+Fürchtest, das Ungeheuer möchte dir  
+Ins Fleisch die Zähne schlagen, seinen Durst  
 An deines Leibes rothem Quell zu kühlen?
-Ninyas.
-Du willst mich locken, und du weisst, ein Zauber
+
+**NINYAS.**
+
+Du willst mich locken, und du weisst, ein Zauber  
 Geht von dir aus. Ich aber bin gefeit.
-(ersteigt die Stufen und setzt sich wieder zu ihr.)
-(aut) Du siehst, ich fürchte Nichts.
-Mylitta.
-Und du hast Recht.
-Wir sahn uns heut zum ersten Mal, und doch:
-Verpflichtet bin ich dir wie einem Freund,
-Da du mir Wahrheit botest, mir die Augen
-Aufthatest über mich. So hör nun auch,
-Wie's mit dem bösen Vampyr ist bestellt.
-Mordlustig ist er nicht. Das Blutgesetz,
-Das du verabscheust, nie hätt' ich's gegeben,
-Hätt' ich nicht früh erkannt, wie schnöd und schmachvoll
-Des Weibes Schicksal, wär's im Purpur auch
-Geboren, wenn es Einem Mann gehört.
+
+_(ersteigt die Stufen und setzt sich wieder zu ihr.)_
+
+_(laut)_ Du siehst, ich fürchte Nichts.
+
+**MYLITTA.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Und du hast Recht.  
+Wir sahn uns heut zum ersten Mal, und doch:  
+Verpflichtet bin ich dir wie einem Freund,  
+Da du mir Wahrheit botest, mir die Augen  
+Aufthatest über mich. So hör nun auch,  
+Wie's mit dem bösen Vampyr ist bestellt.  
+Mordlustig ist er nicht. Das Blutgesetz,  
+Das du verabscheust, nie hätt' ich's gegeben,  
+Hätt' ich nicht früh erkannt, wie schnöd und schmachvoll  
+Des Weibes Schicksal, wär's im Purpur auch  
+Geboren, wenn es Einem Mann gehört.  
 Du hörst mich doch?
-Ninyas (der abgewendet dasitzt).
+
+**NINYAS** _(der abgewendet dasitzt)_.
+
 Ich höre, Königin.
-Mylitta.
-Nun wisse: meine Mutter, jene grosse
-Semiramis, die einer Göttin Tochter
-Sich rühmte, König Ninus raubte sie
-Dem ersten Gatten, da er ihre Schönheit
-Und Klugheit sah und ihren Muth. Doch kaum
-Gestillt die erste Sinnenbrunst, so hielt er
 
+**MYLITTA.**
 
-0220
-
-Die hohe Frau viel liebevoller nicht,
-Als hätt' er sie erkauft am Sclavenmarkt.
-Sie aber duldet' es --- so tiefgekränkt
-In ihrem Stolz sie war --- und duldete,
-Dass neben ihr noch hundert Weiber wohnten
-Im Königsschloss. Und als der König starb,
-Schuf sie dem Mann, der sie missachtet hatte,
-Ein Grabmal, wie die Welt kein reichres je,
-Kein schönres sah, und trauert' um den Todten
-Ihr Leben lang. Das sah ich, tiefempört,
-Dass sich ihr hoher Sinn erniedern lernte
-Zu hündischer Treu'. Und wie sie kam zu sterben,
-Sprach sie zu mir: Nie werde du, gleich mir,
-Ie einem einzlen Manne unterthan.
-Gelobe mir's, wenn du den Thron bestiegst,
-Gedenk zu bleiben deiner Mutter Schmach
-Und sie zu rächen an dem übermüth'gen
-Geschlecht, das uns nur schmeichelt, uns zu knechten.
-Mach sie dir dienstbar nur zu flücht'ger Lust,
-Dann opfre sie den Untern! --- Und ich schwor's.
+Nun wisse: meine Mutter, jene grosse  
+Semiramis, die einer Göttin Tochter  
+Sich rühmte, König Ninus raubte sie  
+Dem ersten Gatten, da er ihre Schönheit  
+Und Klugheit sah und ihren Muth. Doch kaum  
+Gestillt die erste Sinnenbrunst, so hielt er  
+Die hohe Frau viel liebevoller nicht,  
+Als hätt' er sie erkauft am Sclavenmarkt.  
+Sie aber duldet' es --- so tiefgekränkt  
+In ihrem Stolz sie war --- und duldete,  
+Dass neben ihr noch hundert Weiber wohnten  
+Im Königsschloss. Und als der König starb,  
+Schuf sie dem Mann, der sie missachtet hatte,  
+Ein Grabmal, wie die Welt kein reichres je,  
+Kein schönres sah, und trauert' um den Todten  
+Ihr Leben lang. Das sah ich, tiefempört,  
+Dass sich ihr hoher Sinn erniedern lernte  
+Zu hündischer Treu'. Und wie sie kam zu sterben,  
+Sprach sie zu mir: Nie werde du, gleich mir,  
+Je einem einzlen Manne unterthan.  
+Gelobe mir's, wenn du den Thron bestiegst,  
+Gedenk zu bleiben deiner Mutter Schmach  
+Und sie zu rächen an dem übermüth'gen  
+Geschlecht, das uns nur schmeichelt, uns zu knechten.  
+Mach sie dir dienstbar nur zu flücht'ger Lust,  
+Dann opfre sie den Untern! --- Und ich schwor's.  
 Du hörst mich doch?
-Die Tochter der Semiramis.
-223
-Ninyas (mehr und mehr in ihren Anblick verfunken-
+
+**NINYAS** _(mehr und mehr in ihren Anblick versunken)_.
+
 Ich höre, Königin.
-Mylitta.
-So hielt ich's und bereut' es nicht --- bis heut,
-Bis du, mein weiser Freund, mir kund gethan,
-Dass allem Volk Assyriens ich wie dir
-Ein Scheu'l und Gräuel bin, von dem die Welt
-Zu reinigen ein hochverdienstlich Werk.
-Und da ich nun mich selbst in abscheuwürd'ger
-Gestalt gesehn, im Spiegel, den du mir
 
+**MYLITTA.**
 
-0221
-
-224
-Die Tochter der Semiramis.
-Vorhieltest, muss ich, gleich dem Basilisken,
-Zu Grunde gehn an meinem eignen Bild ---
-Du aber sollst dazu die Hand mir leihn. (Ninyas steht auf.)
-Du widerstrebst? Hast du die Rachepflicht
-Nicht einzulösen? Iauchzt dir nicht das Herz,
-Der Retter eines grossen Volks zu sein?
+So hielt ich's und bereut' es nicht --- bis heut,  
+Bis du, mein weiser Freund, mir kund gethan,  
+Dass allem Volk Assyriens ich wie dir  
+Ein Scheu'l und Gräuel bin, von dem die Welt  
+Zu reinigen ein hochverdienstlich Werk.  
+Und da ich nun mich selbst in abscheuwürd'ger  
+Gestalt gesehn, im Spiegel, den du mir  
+Vorhieltest, muss ich, gleich dem Basilisken,  
+Zu Grunde gehn an meinem eignen Bild ---  
+Du aber sollst dazu die Hand mir leihn. _(Ninyas steht auf.)_  
+Du widerstrebst? Hast du die Rachepflicht  
+Nicht einzulösen? Jauchzt dir nicht das Herz,  
+Der Retter eines grossen Volks zu sein?  
 Antworte mir! --- doch nein, nicht Worte --- That!
-(steht auf, zieht einen Dolch aus dem Gürtel und wirft ihn Ninyas vor
-die Füsse.)
-Da! Nimm und brauch ihn rasch, und dass du nicht
+
+_(steht auf, zieht einen Dolch aus dem Gürtel und wirft ihn Ninyas vor die Füsse.)_
+
+Da! Nimm und brauch ihn rasch, und dass du nicht  
 Den Weg verfehlst ---
-(wirft mit einer raschen Bewegung den Schleier ab, steht hochaufgerichtet
-mit nackten Schultern und halbentblösster Brust ihm gegenüber.)
-- hier ist die Stelle, wo
-Das Leben klopft. Offn' ihm die Pforte!
-Ninyas.
-Götter!
-Schirmt meine Seele! (taumelt die Stufen hinab.)
-Mylitta.
-Zauderst du? Da liegt
-Die Waffe --- du ergreifst sie nicht? Hier steht
-Der Abscheu einer Welt, die Abgrundsschlange,
-Der nur nach jungem Blut die Zähne wässern,
+
+_(wirft mit einer raschen Bewegung den Schleier ab, steht hochaufgerichtet mit nackten Schultern und halbentblösster Brust ihm gegenüber.)_
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;--- hier ist die Stelle, wo  
+Das Leben klopft. Öffn' ihm die Pforte!
+
+**NINYAS.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Götter!  
+Schirmt meine Seele! _(taumelt die Stufen hinab.)_
+
+**MYLITTA.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Zauderst du? Da liegt  
+Die Waffe --- du ergreifst sie nicht? Hier steht  
+Der Abscheu einer Welt, die Abgrundsschlange,  
+Der nur nach jungem Blut die Zähne wässern,  
 Und du besinnst dich, sie zu tödten?
-Ninyas
-(der sie unverwandt angestarrt hat, wendet sich jetzt und schlägt die
-Sände vors Gesicht).
+
+**NINYAS.**
+
+_(der sie unverwandt angestarrt hat, wendet sich jetzt und schlägt die Hände vors Gesicht)._
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Oh!  
 Ich Elender!
-Oh!
-Mylitta (ausbrechend).
-Elender Prahler! Ia!
-Vermassest dich, du Schwächlina, diesen Hals
 
+**MYLITTA** _(ausbrechend)._
 
-0222
-
-Die Tochter der Semiramis.
-Mit zitternd weichen Händen zu umklammern,
-Bis ihm die Seel' entfuhr, berauscht vom Wein
-Der Hochzeitnacht, und vor dem leichten Stoss
-Am nüchtern hellen Tag bebst du zurück?
-Bist du verwandelt plötzlich, hätte gar
-Der vielgeschmähte Zauber deinen Hass
-Entmannt, gekühlt den heissen Rachedurst?
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Elender Prahler! Ja!  
+Vermassest dich, du Schwächling, diesen Hals  
+Mit zitternd weichen Händen zu umklammern,  
+Bis ihm die Seel' entfuhr, berauscht vom Wein  
+Der Hochzeitnacht, und vor dem leichten Stoss  
+Am nüchtern hellen Tag bebst du zurück?  
+Bist du verwandelt plötzlich, hätte gar  
+Der vielgeschmähte Zauber deinen Hass  
+Entmannt, gekühlt den heissen Rachedurst?  
 Was wendest du dich weg?
-Ninyas.
-Ha, Dämon! Ia,
-Du sagst es. Ienes Fieber, dem mein Bruder
-Erlag, es züngelt schon nach mir. Doch ich --
-Im Blute trag' ich einen Gegenzauber,
-Den Gram um einen Todten und den Iammer
-Um sie, die ich geliebt, und die nun schlimmer,
-Als todt für mich. O lächle nicht so sieghaft!
-Ein Blutgeruch geht von dir aus. Ich seh'
-Auf deinem Hals die Spur der Küsse, die
-Ihm todtgeweihte Lippen aufgedrückt,
-Und in dem schönsten Weib der Erde nur
-Die Todesgöttin, deren Blick die Glut,
-Die leichtauflodernde der Sinne, jäh
-Erstickt. Nein, wähne nicht mich zu betrügen,
-Als sei dir's Ernst zu sterben! Einem mehr
-Das Gift ins Blut zu flössen, dass er bettelnd
-Hinsänke dir zu Füssen, zu entwaffnen
-Den Rächer, dazu spieltest tückisch du
-Dies üppige Spiel. Ich aber sage dir,
+
+**NINYAS.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ha, Dämon! Ja,  
+Du sagst es. Jenes Fieber, dem mein Bruder  
+Erlag, es züngelt schon nach mir. Doch ich ---  
+Im Blute trag' ich einen Gegenzauber,  
+Den Gram um einen Todten und den Jammer  
+Um sie, die ich geliebt, und die nun schlimmer,  
+Als todt für mich. O lächle nicht so sieghaft!  
+Ein Blutgeruch geht von dir aus. Ich seh'  
+Auf deinem Hals die Spur der Küsse, die  
+Ihm todtgeweihte Lippen aufgedrückt,  
+Und in dem schönsten Weib der Erde nur  
+Die Todesgöttin, deren Blick die Glut,  
+Die leichtauflodernde der Sinne, jäh  
+Erstickt. Nein, wähne nicht mich zu betrügen,  
+Als sei dir's Ernst zu sterben! Einem mehr  
+Das Gift ins Blut zu flössen, dass er bettelnd  
+Hinsänke dir zu Füssen, zu entwaffnen  
+Den Rächer, dazu spieltest tückisch du  
+Dies üppige Spiel. Ich aber sage dir,  
 Du hast's verloren!
-Mylitta (ruhig, ohne sich zu regen).
-O du kluges Kind!
-Und wenn ich nun, statt dich zu zücht'gen für
-Heyse, Sechs kleine Dramen.
-225
 
+**MYLITTA** _(ruhig, ohne sich zu regen)._
 
-0223
-
-226
-Die Tochter der Semiramis.
-Die dreiste Rede, dir gestände, dass
-Du mich durchschaut? (da er betroffen aufblict)
-Ia, dich verführen, dich
-Entwaffnen wollt' ich, doch aus Tücke nicht:
-Weil ich dir holdgesinnt, weil du der Erste,
-Den ich als Mann mir ebenbürtig fand.
-Wer nahte sonst mir? Weibische Lüstlinge,
-Ehrsücht'ge Gecken, herrschbegier'ge Sclaven,
-In eitler Hoffnung, ganz mich zu gewinnen,
-Verächtlich, todeswürdig. Du zuerst
-Bliebst frei mir gegenüber von Begier
-Und niedrer Selbstsucht. Und so biet' ich dir
-Die Hand und schwör' bei meiner Mutter Haupt
-Und bei den Sternenaugen jener Göttin,
-Die sie gebar: ich wähle dich zum Gatten,
-Dafern du schwörst, mir einzig zu gehören
-Und keinem Herrschgelüste Raum zu geben
-In deiner Brust. Denn ich bin Königin
-Und will es sein auch als dein Weib, du aber
-Der erste, mächtigste von allen Männern
-In meinem Reich --- und der geliebteste! ---
-Du schweigst? Ungläubig staunst du? übermannt dich
-Dein schwankendes Gefühl? Ich gönne dir
-Bedenkzeit bis zum Abend. Giebst du dann
-Schwur gegen Schwur, so öffnet sich zu Nacht
-Das Brautgemach. Verschmähst du meine Huld,
-So geh zurück in deine Niedrigkeit.
-Doch hüte dich, mir je den Weg zu kreuzen!
-Ich möchte nicht an jedem Tag, wie heut,
-Grossmüthig sein und Den am Leben lassen,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;O du kluges Kind!  
+Und wenn ich nun, statt dich zu zücht'gen für  
+Die dreiste Rede, dir gestände, dass  
+Du mich durchschaut? _(da er betroffen aufblickt)_  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ja, dich verführen, dich  
+Entwaffnen wollt' ich, doch aus Tücke nicht:  
+Weil ich dir holdgesinnt, weil du der Erste,  
+Den ich als Mann mir ebenbürtig fand.  
+Wer nahte sonst mir? Weibische Lüstlinge,  
+Ehrsücht'ge Gecken, herrschbegier'ge Sclaven,  
+In eitler Hoffnung, ganz mich zu gewinnen,  
+Verächtlich, todeswürdig. Du zuerst  
+Bliebst frei mir gegenüber von Begier  
+Und niedrer Selbstsucht. Und so biet' ich dir  
+Die Hand und schwör' bei meiner Mutter Haupt  
+Und bei den Sternenaugen jener Göttin,  
+Die sie gebar: ich wähle dich zum Gatten,  
+Dafern du schwörst, mir einzig zu gehören  
+Und keinem Herrschgelüste Raum zu geben  
+In deiner Brust. Denn ich bin Königin  
+Und will es sein auch als dein Weib, du aber  
+Der erste, mächtigste von allen Männern  
+In meinem Reich --- und der geliebteste! ---  
+Du schweigst? Ungläubig staunst du? Übermannt dich  
+Dein schwankendes Gefühl? Ich gönne dir  
+Bedenkzeit bis zum Abend. Giebst du dann  
+Schwur gegen Schwur, so öffnet sich zu Nacht  
+Das Brautgemach. Verschmähst du meine Huld,  
+So geh zurück in deine Niedrigkeit.  
+Doch hüte dich, mir je den Weg zu kreuzen!  
+Ich möchte nicht an jedem Tag, wie heut,  
+Grossmüthig sein und Den am Leben lassen,  
 Der mich in meiner Schwäche sah!
-(Sie wirft ihm noch einen langen Blick zu, hüllt dann den Schleier
-wieder um den Nacken und schreitet langsam rechts hinaus.)
 
+_(Sie wirft ihm noch einen langen Blick zu, hüllt dann den Schleier wieder um den Nacken und schreitet langsam rechts hinaus.)_
 
-0224
+## 6.5 --- Fünfte Scene.
 
-Fünfte Scene.
-Ninyas allein.
-(Er hat ihr wie verzückt nachgeschaut, kehrt sich in heftigem Kampf plötzlich
-ab, schauert zusammen und thut ein paar Schritte in den Vordergrund.)
+**NINYAS** allein.
+
+_(Er hat ihr wie verzückt nachgeschaut, kehrt sich in heftigem Kampf plötzlich ab, schauert zusammen und thut ein paar Schritte in den Vordergrund.)_
+
 O Bruder,
 Wie bitt' ich deinem armen Schatten ab,
 Was ich an Schmähungen ins Reich der Nacht
