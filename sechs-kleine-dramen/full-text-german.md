@@ -6851,7 +6851,7 @@ Der Einz'ge noch?
 
 **Ninyas.**
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Des Bruders Wittwe lebt
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Des Bruders Wittwe lebt  
 In unsrer Hütte.
 
 **Mylitta.**
@@ -6869,7 +6869,7 @@ Fiel sie in Wahnsinn.
 
 **Mylitta.**
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Weisst du nicht, wie man
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Weisst du nicht, wie man  
 Der Majestät sich naht?
 
 **Ninyas** (fest zu ihr aufblickend).
