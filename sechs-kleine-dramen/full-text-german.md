@@ -12,25 +12,25 @@
 
 ---
 
-# 1. [Eine alte Geschichte.](#1-eine-alte-geschichte-1)
+# 1. [Eine alte Geschichte.](#1-----eine-alte-geschichte)
 
-# 2. [Die Zaubergeige.](#2-die-zaubergeige-1)
+# 2. [Die Zaubergeige.](#2-----die-zaubergeige)
 
-# 3. [Zu treu.](#3-zu-treu-1)
+# 3. [Zu treu.](#3-----zu-treu)
 
-# 4. [Horaz und Lydia.](#4-horaz-und-lydia-1)
+# 4. [Horaz und Lydia.](#4-----horaz-und-lydia)
 
-# 5. [Der Stern von Mantua.](#5-der-stern-von-mantua-1)
+# 5. [Der Stern von Mantua.](#5-----der-stern-von-mantua)
 
-# 6. [Die Tochter der Semiramis.](#6-die-tochter-der-semiramis-1)
+# 6. [Die Tochter der Semiramis.](#6-----die-tochter-der-semiramis)
 
-## 6.1 [Erste Scene.]()
+## 6.1 [Erste Scene.](#61-----erste-scene)
 
-## 6.2 [Zweite Scene.]()
+## 6.2 [Zweite Scene.](#62-----zweite-scene)
 
-## 6.3 [Dritte Scene.]()
+## 6.3 [Dritte Scene.](#63-----dritte-scene)
 
-## 6.4 [Vierte Scene.]()
+## 6.4 [Vierte Scene.](#64-----vierte-scene)
 
 ---
 
