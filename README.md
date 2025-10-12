@@ -38,7 +38,7 @@ German - PDF | NotoSans | GentiumPlus | Junicode | Roboto | Custom01 | Custom02 
 
 English - Plain Text  
 English - PDF  
-German - Plain Text  
+[German - Plain Text](die-geburt-der-venus/full-text-german.md)  
 German - PDF | NotoSans | GentiumPlus | Junicode | Roboto | Custom01 | Custom02 | Custom03  
 
 
