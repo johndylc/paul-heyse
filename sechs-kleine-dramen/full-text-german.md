@@ -34,9 +34,9 @@
 
 ## 6.5 [Fünfte Scene.](#65-----fünfte-scene)
 
-## 6.6 [Sechste Scene.]()
+## 6.6 [Sechste Scene.](#66-----sechste-scene)
 
-## 6.7 [Siebente Scene.]()
+## 6.7 [Siebente Scene.](#67-----siebente-scene)
 
 ---
 
