@@ -7375,7 +7375,7 @@ Du hörst mich doch?
 
 **NINYAS** _(der abgewendet dasitzt)_.
 
-Ich höre, Königin.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich höre, Königin.
 
 **MYLITTA.**
 
@@ -7409,7 +7409,7 @@ Du hörst mich doch?
 
 **NINYAS** _(mehr und mehr in ihren Anblick versunken)_.
 
-Ich höre, Königin.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ich höre, Königin.
 
 **MYLITTA.**
 
