@@ -6809,7 +6809,7 @@ Wie er sich bettet.
 
 **SIMMAS.**
 
-Still! Die Königin!
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Still! Die Königin!
 
 _(Beide werfen sich zu Boden.)_
 
