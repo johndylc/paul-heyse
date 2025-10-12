@@ -17,7 +17,7 @@ German - PDF | NotoSans | GentiumPlus | Junicode | Roboto | Custom01 | Custom02 
 
 English - Plain Text  
 English - PDF  
-German - Plain Text  
+[German - Plain Text](https://www.projekt-gutenberg.org/heyse/melusine/index.html)  
 German - PDF | NotoSans | GentiumPlus | Junicode | Roboto | Custom01 | Custom02 | Custom03  
 
 ## Der Sohn seines Vaters und andere Novellen.
