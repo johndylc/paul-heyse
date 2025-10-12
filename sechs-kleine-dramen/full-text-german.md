@@ -34,6 +34,10 @@
 
 ## 6.5 [Fünfte Scene.](#65-----fünfte-scene)
 
+## 6.6 [Sechste Scene.]()
+
+## 6.7 [Siebente Scene.]()
+
 ---
 
 Druck der Union Deutsche Verlagsgesellschaft in Stuttgart.
@@ -7454,7 +7458,7 @@ _(der sie unverwandt angestarrt hat, wendet sich jetzt und schlägt die Hände v
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Oh!  
 Ich Elender!
 
-**MYLITTA** _(ausbrechend)._
+**MYLITTA** _(ausbrechend)_.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Elender Prahler! Ja!  
 Vermassest dich, du Schwächling, diesen Hals  
@@ -7490,7 +7494,7 @@ Den Rächer, dazu spieltest tückisch du
 Dies üppige Spiel. Ich aber sage dir,  
 Du hast's verloren!
 
-**MYLITTA** _(ruhig, ohne sich zu regen)._
+**MYLITTA** _(ruhig, ohne sich zu regen)_.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;O du kluges Kind!  
 Und wenn ich nun, statt dich zu zücht'gen für  
@@ -7530,506 +7534,546 @@ _(Sie wirft ihm noch einen langen Blick zu, hüllt dann den Schleier wieder um d
 
 ## 6.5 --- Fünfte Scene.
 
-**NINYAS** allein.
+**NINYAS** _allein_.
 
 _(Er hat ihr wie verzückt nachgeschaut, kehrt sich in heftigem Kampf plötzlich ab, schauert zusammen und thut ein paar Schritte in den Vordergrund.)_
 
-O Bruder,
-Wie bitt' ich deinem armen Schatten ab,
-Was ich an Schmähungen ins Reich der Nacht
-Ihm nachgeschleudert! Dieses Weib --- ihr Götter!
-Was waren Vater dir und Mutter, was
-Dein eignes Weib, und war's auch Amytis ---
-Doch keine war's der Uberirdischen --- keine
-Wie Diese, deren Hauch erloschne Fackeln
-Aufflammen machte, eine eherne Seele
-Schmölze wie weiches Wachs --- und ich --- ich soll --
-Ich dürfte --- nicht wie du, mein armer Sarkas,
-Aus weissen Armen in den dunklen Schlund
-Des Tods hinabgestürzt --- nein, Tag für Tag
-Und Nacht für Nacht --- die Sinne taumeln mir --
-Fluch, Fluch der Stunde, wo ich in die Höhle
-Der Tigerin trat! (inkt auf die Stufen nieder.)
-(Sclaven treten ein, stellen ein niederes Tischchen vor ihn hin, andre
-folgen mit goldenen Schüsseln und Trinkgeschirren. Dann leichtgeschürzte
-Sclavinnen mit Harfen und Flöten.)
-Die Tochter der Semiramis.
-227
-Ninyas.
-Tragt dies hinweg! Was soll
-Mir irdische Speis' und Trank? Was in mir hungert
-Und dürstet, stillt kein Mahl in goldnen Schüsseln.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;O Bruder,  
+Wie bitt' ich deinem armen Schatten ab,  
+Was ich an Schmähungen ins Reich der Nacht  
+Ihm nachgeschleudert! Dieses Weib --- ihr Götter!  
+Was waren Vater dir und Mutter, was  
+Dein eignes Weib, und war's auch Amytis ---  
+Doch keine war's der Überirdischen --- keine  
+Wie Diese, deren Hauch erloschne Fackeln  
+Aufflammen machte, eine eherne Seele  
+Schmölze wie weiches Wachs --- und ich --- ich soll ---  
+Ich dürfte --- nicht wie du, mein armer Sarkas,  
+Aus weissen Armen in den dunklen Schlund  
+Des Tods hinabgestürzt --- nein, Tag für Tag  
+Und Nacht für Nacht --- die Sinne taumeln mir ---  
+Fluch, Fluch der Stunde, wo ich in die Höhle  
+Der Tigerin trat! _(sinkt auf die Stufen nieder.)_
+
+_(Sclaven treten ein, stellen ein niederes Tischchen vor ihn hin, andre folgen mit goldenen Schüsseln und Trinkgeschirren. Dann leichtgeschürzte Sclavinnen mit Harfen und Flöten.)_
+
+**NINYAS.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tragt dies hinweg! Was soll  
+Mir irdische Speis' und Trank? Was in mir hungert  
+Und dürstet, stillt kein Mahl in goldnen Schüsseln.  
 Fort! fort!
-Menon (tritt ein, verneigt sich tief bis zur Erde).
-Die Kön'gin sendet ihrem Gast
-Gruss und die Bitte, dass er fröhlich sei
 
+**MENON** _(tritt ein, verneigt sich tief bis zur Erde)_.
 
-0225
-
-228
-Und koste von dem Mahl und sich am Wein
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Die Kön'gin sendet ihrem Gast  
+Gruss und die Bitte, dass er fröhlich sei  
+Und koste von dem Mahl und sich am Wein  
 Erquicke.
-Die Tochter der Semiramis.
-Ninyas.
-Hörtest du, was ich befahl?
+
+**NINYAS.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hörtest du, was ich befahl?  
 Hinweg!
-Menon.
-Du wirst, Erlauchter, deinen Knecht
-Unglücklich machen. Dass ich dich bediene
+
+**MENON.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du wirst, Erlauchter, deinen Knecht  
+Unglücklich machen. Dass ich dich bediene  
 Wie ihresgleichen, will die Königin.
-Ninyas.
-Den Göttern dank' ich, dass ich ihresgleichen
-Nicht bin und hoffentlich so tief mich nie
-Entadle, es zu werden. Grinsest du,
-Ehrwürd'ger Greis? Geh, hinterbringe dies
-Der Herrin! Wenn sie dann in Wuth geräth
-Und dir befiehlt, den Becher mir zu würzen
-Mit scharfen Giften, setz' ich dankbar dich
-Zum Erben ein. Du magst in meiner Barke
-Nach Fischen angeln, die an meinem Leichnam
+
+**NINYAS.**
+
+Den Göttern dank' ich, dass ich ihresgleichen  
+Nicht bin und hoffentlich so tief mich nie  
+Entadle, es zu werden. Grinsest du,  
+Ehrwürd'ger Greis? Geh, hinterbringe dies  
+Der Herrin! Wenn sie dann in Wuth geräth  
+Und dir befiehlt, den Becher mir zu würzen  
+Mit scharfen Giften, setz' ich dankbar dich  
+Zum Erben ein. Du magst in meiner Barke  
+Nach Fischen angeln, die an meinem Leichnam  
 Sich fett gemästet.
-Menon (verlegen).
-Du geruhst fürwahr
+
+**MENON** _(verlegen)_.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du geruhst fürwahr  
 Seltsam zu scherzen, Herr!
-Ninyas.
-Im Ernste: geh!
-Dein biedres Sclavenlächeln machte mir
+
+**NINYAS.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Im Ernste: geh!  
+Dein biedres Sclavenlächeln machte mir  
 Den Wein zu Galle.
-(Menon entfernt sich bestürzt. Die Sclavinnen beginnen eine sanfte
-Musik.)
-Ha, noch immer mehr
 
+_(Menon entfernt sich bestürzt. Die Sclavinnen beginnen eine sanfte Musik.)_
 
-0226
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ha, noch immer mehr  
+Der buhlerischen Künste?  
+Schmachtende Flöten, weisse Schultern, Augen  
+In Wollust schwimmend, --- bis der letzte Funke  
+Von Mannheit, Stolz und Hass in mir erlischt?  
+Und dazu mir Bedenkzeit, einzulullen  
+Ein jegliches Bedenken? Warum bin ich  
+Der Thor, mich drein zu fügen, lasse mir  
+Von Schlingen weicher Üppigkeit das Herz  
+Umstricken, von der Rosen schwülem Duft  
+Den Sinn umnebeln, statt mit raschem Fuss  
+Hinaus ins Freie ---
 
-Der buhlerischen Künste?
-Schmachtende Flöten, weisse Schultern, Augen
-In Wollust schwimmend, --- bis der letzte Funke
-Von Mannheit, Stolz und Hass in mir erlischt?
-Und dazu mir Bedenkzeit, einzulullen
-Ein jegliches Bedenken? Warum bin ich
-Der Thor, mich drein zu fügen, lasse mir
-Von Schlingen weicher Uppigkeit das Herz
-Umstricken, von der Rosen schwülem Duft
-Den Sinn umnebeln, statt mit raschem Fuss
-Hinaus ins Freie -
-(steht hastig auf, wendet sich nach der Thür. Die Mutter tritt ein.)
-Mutter! Meine Mutter!
-Bist du's? du selbst? zu deinem armen Sohn
-In seiner höchsten Noth --- Still die Musik!
-Wo einer Mutter Stimme klingt, hat Flöten-
+_(steht hastig auf, wendet sich nach der Thür. Die Mutter tritt ein.)_
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mutter! Meine Mutter!  
+Bist du's? du selbst? zu deinem armen Sohn  
+In seiner höchsten Noth --- Still die Musik!  
+Wo einer Mutter Stimme klingt, hat Flöten-  
 Und Harfenton zu schweigen.
-(Die Mufik verstummt, die Sclavinnen entfernen sich durch den Garten.
-Ninyas hat beide Hände der Frau ergriffen und führt sie rasch nach
-vorn. Der Vorhang vor der Pforte schliesst sich.)
-Die Tochter der Semiramis.
-229
-Sechste Scene.
-Ninyas. Die Mutter.
-Die Mutter.
-Kind, mein Liebling -
-Ninyas.
-Mutter, was hat dich hergeführt? Wer wies dir
+
+_(Die Musik verstummt, die Sclavinnen entfernen sich durch den Garten. Ninyas hat beide Hände der Frau ergriffen und führt sie rasch nach vorn. Der Vorhang vor der Pforte schliesst sich.)_
+
+## 6.6 --- Sechste Scene.
+
+_Ninyas. Die Mutter._
+
+**DIE MUTTER.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Kind, mein Liebling ---
+
+**NINYAS.**
+
+Mutter, was hat dich hergeführt? Wer wies dir  
 Den Weg zu mir?
-Die Mutter.
-Soll eine Mutter den
 
+**DIE MUTTER.**
 
-0227
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Soll eine Mutter den  
+Nicht finden, die zum Sohne will? O Ninyas,  
+Wie bleich du bist! _(streichelt ihm die Wange.)_
 
-230
-Nicht finden, die zum Sohne will? O Ninyas,
-Wie bleich du bist! (streichelt ihm die Wange.)
-Die Tochter der Semiramis.
-Ninyas.
-Die Hände zittern dir,
-Angst hast du ausgestanden, armes Herz!
-Komm! setz dichl trink von diesem Wein!
-Die Mutter.
-Nein, nein!
-Das ist dein Hochzeitsmahl. Die arme Mutter
-Ist nicht dazu geladen. Aber sitzen,
+**NINYAS.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Die Hände zittern dir,  
+Angst hast du ausgestanden, armes Herz!  
+Komm! setz dich! trink von diesem Wein!
+
+**DIE MUTTER.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nein, nein!  
+Das ist dein Hochzeitsmahl. Die arme Mutter  
+Ist nicht dazu geladen. Aber sitzen,  
 Das will ich, wenn's erlaubt ist.
-Ninyas (führt sie zu einem Sessel).
-Hier!
-Die Mutter (ieht sich um).
-Wie schön!
-Das ist 'ne Pracht! Da wird mein lieber Sohn
+
+**NINYAS** _(führt sie zu einem Sessel)_.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hier!
+
+**DIE MUTTER** _(sieht sich um)_.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Wie schön!  
+Das ist 'ne Pracht! Da wird mein lieber Sohn  
 Nun immer wohnen.
-Ninyas.
-Niemals, Mutter! Nie!
-Die Mutter (sich im Sessel streckend).
-So weich! Das thut den alten Gliedern wohl!
-Und doch --- vielleicht an diesem selben Tisch -
-(schaudert in sich zusammen.)
+
+**NINYAS.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Niemals, Mutter! Nie!
+
+**DIE MUTTER** _(sich im Sessel streckend)_.
+
+So weich! Das thut den alten Gliedern wohl!  
+Und doch --- vielleicht an diesem selben Tisch ---
+
+_(schaudert in sich zusammen.)_
+
 Aus diesem selben Becher --- still davon!
-Ninyas.
+
+**NINYAS.**
+
 O Mutter, es ist furchtbar!
-Die Mutter.
-Ia, das ist's,
 
+**DIE MUTTER.**
 
-0228
-
-Die Tochter der Semiramis.
-Nie zu verwinden. Und das sagt' ich auch,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ja, das ist's,  
+Nie zu verwinden. Und das sagt' ich auch,  
 So gut sie zu mir war, der Königin.
-Ninyas
-Du sahst sie?
-er Köniain?
-Die Mutter.
-Wagt der Bogel
-Sich nicht ins Nest des Iltis, der sein Iunges
-Ihm stahl? Denn da du von uns weggegangen -
-Auf eine weite Reise, sagtest du --
-Nicht lang, so kam die alte Eritho:
-Ist's wahr? auch Den noch habt ihr hingegeben?
-War's nicht genug an Einem? Konntet ihr
-Ihn nicht bedräu'n mit eurem schwersten Fluch,
-Dafern er's thäte? --- Was denn? fragten wir.
-Und sie: So wisst ihr nicht --- ? Ietzt eben, da
-Ich beim Palast vorbeiging, sah ich ihn,
-Sah euren Ninyas --- er war's --- so schön
-Wie er ist Keiner ja in Niniveh --
-Den Pförtner fragt' er was, dann trat er ein.
-Was hatt' er drin zu suchen? Fisch' verkaufen?
-Er trug kein Netz. Gebt Acht, auch über ihn
-Wie über seinen Bruder kam's. --- O Kind,
-Da fielen uns die Schuppen von den Augen.
-Mann, sagt' ich, ich muss hin, die Kön'gin bitten,
-Dass sie ihn uns herausgiebt. Wenn ich ihr
-So recht wie eine Mutter Alles sage,
-Was dieser Sohn uns ist, das böse, liebe,
-Herzlose Kind --- doch nein, ich will nicht schelten.
-Ich weiss ja, nur der Gram um Amytis
-Und Sarkas trieb dich in den Tod. Doch jetzt --
-Ietzt sollst du leben.
-231
 
+**NINYAS.**
 
-0229
+Der Königin? Du sahst sie?
 
-232
-Die Tochter der Semiramis.
+**DIE MUTTER.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Wagt der Bogel  
+Sich nicht ins Nest des Iltis, der sein Junges  
+Ihm stahl? Denn da du von uns weggegangen ---  
+Auf eine weite Reise, sagtest du ---  
+Nicht lang, so kam die alte Eritho:  
+Ist's wahr? auch Den noch habt ihr hingegeben?  
+War's nicht genug an Einem? Konntet ihr  
+Ihn nicht bedräu'n mit eurem schwersten Fluch,  
+Dafern er's thäte? --- Was denn? fragten wir.  
+Und sie: So wisst ihr nicht --- ? Jetzt eben, da  
+Ich beim Palast vorbeiging, sah ich ihn,  
+Sah euren Ninyas --- er war's --- so schön  
+Wie er ist Keiner ja in Niniveh ---  
+Den Pförtner fragt' er was, dann trat er ein.  
+Was hatt' er drin zu suchen? Fisch' verkaufen?  
+Er trug kein Netz. Gebt Acht, auch über ihn  
+Wie über seinen Bruder kam's. --- O Kind,  
+Da fielen uns die Schuppen von den Augen.  
+Mann, sagt' ich, ich muss hin, die Kön'gin bitten,  
+Dass sie ihn uns herausgiebt. Wenn ich ihr  
+So recht wie eine Mutter Alles sage,  
+Was dieser Sohn uns ist, das böse, liebe,  
+Herzlose Kind --- doch nein, ich will nicht schelten.  
+Ich weiss ja, nur der Gram um Amytis  
+Und Sarkas trieb dich in den Tod. Doch jetzt ---  
+Jetzt sollst du leben.
+
+**NINYAS.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Leben, Mutter? O  
 Du träumst.
-Ninyas.
-Leben, Mutter? O
-Die Mutter.
-Nein, du mein Liebling, leben wirst du,
-So wahr ich hier mit wachen Augen sitze.
+
+**DIE MUTTER.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nein, du mein Liebling, leben wirst du,  
+So wahr ich hier mit wachen Augen sitze.  
 Sie hat mir's selbst gesagt.
-Ninyas.
-Die --- Köniain?
-Die Mutter (nick).
-Man führte mich, da ich nach dir gefragt,
-Zu ihr. O Kind, sie sagen, sie sei schlimm
-Und hart und mitleidlos. Doch sie ist mild
+
+**NINYAS.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Die --- Königin?
+
+**DIE MUTTER** _(nickt)_.
+
+Man führte mich, da ich nach dir gefragt,  
+Zu ihr. O Kind, sie sagen, sie sei schlimm  
+Und hart und mitleidlos. Doch sie ist mild  
 Wie eine Segensgöttin.
-Ninyas (finster).
-Die den Bruder
+
+**NINYAS** _(finster)_.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Die den Bruder  
 Den Fischen hinwarf!
-Die Mutter.
-Ia, das that sie, das
-Vergess' ich nie. Doch hatt' er's nicht gewusst,
-Nicht das Gesetz gekannt? Musst' er sein Weib,
-Den alten Vater, mich und dich verlassen
-In seiner rasenden Begier? Sie aber:
-Du bist gebenedeit vor allen Müttern! --
-Sprach sie und hob mich auf, da ich den Staub
-Zu ihren Füssen küssen wollt', und hiess
-Mich sitzen neben sich und fragte mich
-Nach Allem aus, wie du als Knabe warst,
-Und dann als Iüngling, ob die Weiber dir
 
+**DIE MUTTER.**
 
-0230
-
-Die Tochter der Semiramis.
-Nicht nachgestellt, und da ich überfloss
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ja, das that sie, das  
+Vergess' ich nie. Doch hatt' er's nicht gewusst,  
+Nicht das Gesetz gekannt? Musst' er sein Weib,  
+Den alten Vater, mich und dich verlassen  
+In seiner rasenden Begier? Sie aber:  
+Du bist gebenedeit vor allen Müttern! ---  
+Sprach sie und hob mich auf, da ich den Staub  
+Zu ihren Füssen küssen wollt', und hiess  
+Mich sitzen neben sich und fragte mich  
+Nach Allem aus, wie du als Knabe warst,  
+Und dann als Jüngling, ob die Weiber dir  
+Nicht nachgestellt, und da ich überfloss  
 Von deinem Lobe ---
-Ninyas (unwillig).
-Mutter!
-Die Mutter.
-Sagt' ich denn
-Mehr als die Wahrheit? Und da nickte sie
-Und sagte: Ia, so ist er, auserwählt
-Vor Tausenden an Adel seiner Seele
-Und Leibesschöne. Und so will ich ihn
-Erhöhn vor allem Volke neben mir,
-Und leben soll er lange Iahre. Doch
-Geh zu ihm, red ihm zu, den finstern Groll,
-Die Wildheit abzuthun, nicht eigensinnig
-Ein Glück zurückzustossen, das die Gottheit
-Ihm gönnen will. Du aber und dein Mann,
-Ihr sollt hinfort geehrt sein gleich wie Fürsten
-An meinem Thron. --- So sprach die Königin,
-Ia, Kind, so sprach sie ---
-Ninyas (bitter).
-Und das spricht ihr nach
-Die Frau, der sie ein Kind vom Herzen riss,
-Und die das andre nun ihr opfern will,
+
+**NINYAS** _(unwillig)_.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mutter!
+
+**DIE MUTTER.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sagt' ich denn  
+Mehr als die Wahrheit? Und da nickte sie  
+Und sagte: Ja, so ist er, auserwählt  
+Vor Tausenden an Adel seiner Seele  
+Und Leibesschöne. Und so will ich ihn  
+Erhöhn vor allem Volke neben mir,  
+Und leben soll er lange Jahre. Doch  
+Geh zu ihm, red ihm zu, den finstern Groll,  
+Die Wildheit abzuthun, nicht eigensinnig  
+Ein Glück zurückzustossen, das die Gottheit  
+Ihm gönnen will. Du aber und dein Mann,  
+Ihr sollt hinfort geehrt sein gleich wie Fürsten  
+An meinem Thron. --- So sprach die Königin,  
+Ja, Kind, so sprach sie ---
+
+**NINYAS** _(bitter)_.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Und das spricht ihr nach  
+Die Frau, der sie ein Kind vom Herzen riss,  
+Und die das andre nun ihr opfern will,  
 Um ihr Gelüst zu stillen!
-233
-Die Mutter.
-Schweige, Kind!
-O rede nichts mehr! Es ist grauenhaft.
-Ich wollt', ein Blitzstrahl führ' herab und träfe
-Dies jammervolle Herz, das nicht mehr weiss,
+
+**DIE MUTTER.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Schweige, Kind!  
+O rede nichts mehr! Es ist grauenhaft.  
+Ich wollt', ein Blitzstrahl führ' herab und träfe  
+Dies jammervolle Herz, das nicht mehr weiss,  
 Was es zu wünschen, was zu fürchten hat!
 
+**NINYAS** _(fasst ihre Hand)_.
 
-0231
+Nein, Mutter, sei getrost! Nicht beide Kinder  
+Sollst du verlieren. Wenn der Abend sinkt,  
+Verlassen wir die Stadt und dieses Land,  
+Und fern, in Medien oder Babylon  
+Baun wir auf Trümmern unsres alten Lebens  
+Ein neues auf. Oh, mir im Blute tobt  
+Die Ungeduld, weit weit von hier ---
 
-234
-Die Tochter der Semiramis.
-Ninyas (sasst ihre Hand).
-Nein, Mutter, sei getrost! Nicht beide Kinder
-Sollst du verlieren. Wenn der Abend sinkt,
-Verlassen wir die Stadt und dieses Land,
-Und fern, in Medien oder Babylon
-Baun wir auf Trümmern unsres alten Lebens
-Ein neues auf. Oh, mir im Blute tobt
-Die Ungeduld, weit weit von hier --
-Die Mutter (legt ihm die Hand auf den Arm).
-O Kind,
-Mein thöricht Kind! Und glaubst du denn, du könntest
-Ihr je entrinnen? Wo du immer auch
-Vor ihr dich bergen möchtst, sie holte dich
-Zurück. Denn haben will sie dich. Ich sah
-In ihrem Blick ein Feuer glühn, das dich
+**DIE MUTTER** _(legt ihm die Hand auf den Arm)_.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;O Kind,  
+Mein thöricht Kind! Und glaubst du denn, du könntest  
+Ihr je entrinnen? Wo du immer auch  
+Vor ihr dich bergen möchtst, sie holte dich  
+Zurück. Denn haben will sie dich. Ich sah  
+In ihrem Blick ein Feuer glühn, das dich  
 Und uns verzehrt, wenn du ihr trotzest.
-Ninyas
-(das Kinn tief auf die Brust gesenkt, nach einer Pause, tonlos).
-Mutter,
-So sahst du auch, wie furchtbar schön sie ist?
-Ia, Mutter, lass mich meine Schmach gestehn:
-Da sie in allem Zauber sich vor mir
-Enthüllte, jeder Tropfen meines Bluts
-Entbrannt' in Sehnsucht, einmal nur dies Weib
-In meinen Arm zu schliessen, Sarkas' Mördrin
-Mit Küssen zu ersticken. Noch bewahrte
-Vor dieser Schande mich des Bruders Bild,
-Das mir mit blassem Geisterfinger warnend
-Vor Augen trat. Doch wenn ich wieder so
-Sie schauen müsste --
-(schlägt die Hände vors Gesicht. Dann verstört aufblickend)
 
+**NINYAS.**
 
-0232
+_(das Kinn tief auf die Brust gesenkt, nach einer Pause, tonlos)._
 
-Die Tochter der Semiramis.
-- Lass uns fliehn! Gleich jetzt!
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mutter,  
+So sahst du auch, wie furchtbar schön sie ist?  
+Ja, Mutter, lass mich meine Schmach gestehn:  
+Da sie in allem Zauber sich vor mir  
+Enthüllte, jeder Tropfen meines Bluts  
+Entbrannt' in Sehnsucht, einmal nur dies Weib  
+In meinen Arm zu schliessen, Sarkas' Mördrin  
+Mit Küssen zu ersticken. Noch bewahrte  
+Vor dieser Schande mich des Bruders Bild,  
+Das mir mit blassem Geisterfinger warnend  
+Vor Augen trat. Doch wenn ich wieder so  
+Sie schauen müsste ---
+
+_(schlägt die Hände vors Gesicht. Dann verstört aufblickend)_
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; --- Lass uns fliehn! Gleich jetzt!  
 Noch eh' die Frist verstrich!
-(Er fasst ihre Hand.)
-Die Mutter.
-Ach nein! Da draussen
-Stehn grimme Wächter. Werden sie's erlauben,
-Dass der, den sich die Königin erkor,
-Entflieht? Und wirst du ihren Häschern auch
+
+_(Er fasst ihre Hand.)_
+
+**DIE MUTTER.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ach nein! Da draussen  
+Stehn grimme Wächter. Werden sie's erlauben,  
+Dass der, den sich die Königin erkor,  
+Entflieht? Und wirst du ihren Häschern auch  
 Entrinnen können?
-235
-Ninyas.
-Du hast Recht. Doch sieh,
-(hebt den Dolch auf.)
-Den gab die list'ge Königin mir selbst,
-Als sie vor mir gespielt ihr Gaukelspiel.
-Wer uns entgegentritt, mit dieser Waffe
-Zu Boden streck' ich ihn und bahn' uns so
+
+**NINYAS.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Du hast Recht. Doch sieh,  
+
+_(hebt den Dolch auf.)_
+
+Den gab die list'ge Königin mir selbst,  
+Als sie vor mir gespielt ihr Gaukelspiel.  
+Wer uns entgegentritt, mit dieser Waffe  
+Zu Boden streck' ich ihn und bahn' uns so  
 Den Weg zur Rettung! Komm!
-(Er wendet sich, die Mutter mit fortziehend, hastig nach der Thür. In
-diesem Augenblick wird der Vorhang zurückgeschlagen, die Königin steht
-auf der Schwelle, den Schleier lose wieder umgeschlagen, doch so, dass
-ein Theil ihrer Schultern entblösst ist.)
-Siebente Scene.
-Vorige. Mylitta.
-Mylitta
-(tritt ein, thut einen Schritt zur Seite, deutet nach der Pforte).
+
+_(Er wendet sich, die Mutter mit fortziehend, hastig nach der Thür. In diesem Augenblick wird der Vorhang zurückgeschlagen, die Königin steht auf der Schwelle, den Schleier lose wieder umgeschlagen, doch so, dass ein Theil ihrer Schultern entblösst ist.)_
+
+## 6.7 --- Siebente Scene.
+
+_Vorige. Mylitta._
+
+**MYLITTA.**
+
+_(tritt ein, thut einen Schritt zur Seite, deutet nach der Pforte)._
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Der Weg ist frei.  
+Flieh, wenn du magst! Und ich --- beim höchsten Gott  
+Schwör' ich, dir keine Häscher nachzusenden.  
+Doch so gewiss, wie du dies Haus betratst,  
+Das Herz voll Mordgedanken, so gewiss  
+Wird dieses Herz unwiderstehlich dich  
+Zurückziehn. Wo du auch dich bergen möchtest,  
+Doch eines Tages wirst du meiner Macht  
+Erliegen, auf das schnellste Ross dich werfen,  
+Nicht achtend, ob es todt zusammenbricht,  
+Wenn es dich nur in meine Arme trug,  
+In diese offnen Arme! Also geh!  
 Der Weg ist frei.
-Flieh, wenn du magst! Und ich --- beim höchsten Gott
-Schwör' ich, dir keine Häscher nachzusenden.
-Doch so gewiss, wie du dies Haus betratst,
-Das Herz voll Mordgedanken, so gewiss
-Wird dieses Herz unwiderstehlich dich
 
+**NINYAS.**
 
-0233
+_(der sie unverwandt angestarrt hat, lässt den Arm der Mutter fahren)._
 
-236
-Zurückziehn. Wo du auch dich bergen möchtest,
-Doch eines Tages wirst du meiner Macht
-Erliegen, auf das schnellste Ross dich werfen,
-Nicht achtend, ob es todt zusammenbricht,
-Wenn es dich nur in meine Arme trug,
-In diese offnen Arme! Also geh!
-Der Weg ist frei.
-Ninyas
-(der sie unverwandt angestarrt hat, lässt den Arm der Mutter fahren).
-Ia, Teufelin, du weisst,
-Und ob ich tausendmal dich Lügen strafte,
-Die wildeste Schmähung ins Gesicht dir spiee,
-Dich Dirne, Abschaum aller Weiber nennte,
-Doch übertönt' ich Rasender, Verlorner
-Hier in geheimster Brust die Stimme nicht,
-Die widerriese jeden Schimpf, die dich
-Als Krone des Geschlechts, als eine Göttin
-Anbetete und all der Narren Taumel,
-Die um dich starben, für die tiefste Weisheit,
-Die Flucht vor dir, der Unentrinnbaren,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ja, Teufelin, du weisst,  
+Und ob ich tausendmal dich Lügen strafte,  
+Die wildeste Schmähung ins Gesicht dir spiee,  
+Dich Dirne, Abschaum aller Weiber nennte,  
+Doch übertönt' ich Rasender, Verlorner  
+Hier in geheimster Brust die Stimme nicht,  
+Die widerriese jeden Schimpf, die dich  
+Als Krone des Geschlechts, als eine Göttin  
+Anbetete und all der Narren Taumel,  
+Die um dich starben, für die tiefste Weisheit,  
+Die Flucht vor dir, der Unentrinnbaren,  
 Für Wahnsinn hielte!
-Die Tochter der Semiramis.
-Mylitta
-(mit triumphierendem Blick ihm einen Schritt entgegen).
-Kommt mein holder Freund
-Nun endlich zur Vernunft? Soll nicht hinfort
-Von Flucht und Widerstand die Rede sein?
-O Mutter, du hast einen stolzen Sohn!
-Er darf sich rühmen, einer Königin
+
+**MYLITTA.**
+
+_(mit triumphierendem Blick ihm einen Schritt entgegen)._
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Kommt mein holder Freund  
+Nun endlich zur Vernunft? Soll nicht hinfort  
+Von Flucht und Widerstand die Rede sein?  
+O Mutter, du hast einen stolzen Sohn!  
+Er darf sich rühmen, einer Königin  
 Wie Keiner je den Sieg erschwert zu haben.
-Ninyas
-(zurückweichend, hascht blindlings nach dem Arm der Mutter).
-Den Sieg? Nein, Mütterchen, nicht wahr, wir geben
 
+**NINYAS.**
 
-0234
+_(zurückweichend, hascht blindlings nach dem Arm der Mutter)._
 
-Die Tochter der Semiramis.
-So rasch uns nicht verloren. Zwar, der Feind
-Hat Recht: die Flucht zum Rand der Erde würde
-Nicht frommen. Doch frohlockt er noch zu früh.
-Ein andrer Weg noch bleibt, in ein Asyl,
-Wohin sein lockender Triumphgesang
-Nicht dringt, sein Lächeln dieses schwache Herz
-Nicht unterjochen kann --- und diese Flucht
-Entehrt mich nicht, o Mutter, wenn sie auch
+Den Sieg? Nein, Mütterchen, nicht wahr, wir geben  
+So rasch uns nicht verloren. Zwar, der Feind  
+Hat Recht: die Flucht zum Rand der Erde würde  
+Nicht frommen. Doch frohlockt er noch zu früh.  
+Ein andrer Weg noch bleibt, in ein Asyl,  
+Wohin sein lockender Triumphgesang  
+Nicht dringt, sein Lächeln dieses schwache Herz  
+Nicht unterjochen kann --- und diese Flucht  
+Entehrt mich nicht, o Mutter, wenn sie auch  
 Mich trennen muss von euch.
+
 (stösst sich den Dolch in die Brust, sinkt auf den Stufen zusammen.)
-Die Mutter (türzt zu ihm hin, umfängt ihn).
-Mein Sohn! O was,
+
+**DIE MUTTER** _(stürzt zu ihm hin, umfängt ihn)_.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mein Sohn! O was,  
 Du böses, einz'ges Kind, hast du gethan!
-237
-Ninyas (mühsam).
-Das Klügste, gute Mutter --- und --- ich sag' dir:
-Nicht jede Flucht --- ist memmenhaft. --- Zu dieser
-Gehörte mehr noch --- als gemeiner Muth.
+
+**NINYAS.** _(mühsam)_.
+
+Das Klügste, gute Mutter --- und --- ich sag' dir:  
+Nicht jede Flucht --- ist memmenhaft. --- Zu dieser  
+Gehörte mehr noch --- als gemeiner Muth.  
 Oh!
-Die Mutter.
-Kind! Stirb nicht! Was sollen wir --- dein Vater--
-Ninyas.
-Sag ihm --- ich ging --- Sarkas von ihm zu grüssen ---
+
+**DIE MUTTER.**
+
+&emsp;&emsp;&emsp;&emsp;Kind! Stirb nicht! Was sollen wir --- dein Vater ---
+
+**NINYAS.**
+
+Sag ihm --- ich ging --- Sarkas von ihm zu grüssen ---  
 Und jetzt --- o Welt --- o kurzer Traum --- vorbei!
-(stirbt.)
-Die Mutter (wirft sich uber ihn).
-Mein Liebling, meiner alten Augen Sonne!
-Ach, gingst du unter, lässest mich in Nacht
-Und ew'gem Iammer --- oh, sein Athem stockt,
-Sein tapfres Herz steht still --- o, Todesgöttin,
-Kannst du die blühnde Iuaend vor dem Alter
 
+_(stirbt.)_
 
-0235
+**DIE MUTTER** _(wirft sich über ihn)_.
 
-238
-Die Tochter der Semiramis.
-Hinunterreissen? O mein Herzl warum
+Mein Liebling, meiner alten Augen Sonne!  
+Ach, gingst du unter, lässest mich in Nacht  
+Und ew'gem Jammer --- oh, sein Athem stockt,  
+Sein tapfres Herz steht still --- o, Todesgöttin,  
+Kannst du die blühnde Jugend vor dem Alter  
+Hinunterreissen? O mein Herz! warum  
 Will es nicht brechen!
-Mylitta (die regungslos dagestanden).
-Hörst du endlich auf
-Zu winseln und zu wimmern, schlaues Weib?
-Mich täuscht dein Singsang nicht, so wenig als
-Die Maske, die dein Liebling vorgenommen.
+
+**MYLITTA** _(die regungslos dagestanden)._
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hörst du endlich auf  
+Zu winseln und zu wimmern, schlaues Weib?  
+Mich täuscht dein Singsang nicht, so wenig als  
+Die Maske, die dein Liebling vorgenommen.  
 Ich weiss, er ist nicht todt.
-(geht rasch zu der Gruppe hin, stösst die Alte mit dem Fuss an.)
-Heb dich hinweg!
-Wie hätt' er sterben dürfen? Er ist mein,
-Und ich, die allgewalt'ge Herrscherin,
-Will, dass er lebe! horcht.) Still! Regt er sich nicht?
-Geh fort du! Vor der Mutter schämt er sich
-Der Schwäche, meiner Bitte nachzugeben.
-Doch weiss er wohl, ein Meer von süssen Wonnen
-Soll über seinem Haupt zusammenschlagen,
-Wenn er die Augen öffnet. Ist's nicht so,
-Mein Heissgeliebter? Doch nun spotte länger
-Nicht meiner Ungeduld. Ich bin es nicht
-Gewohnt zu bitten, zu befehlen nur,
-Und so befehl' ich dir bei meinem Zorn:
-Lebel Ich will's! --- -
-Was red' ich? Ist er denn
-Ein Sclav und Höfling, der vorm Stirnerunzeln
-Der Kön'gin bebt? Nein, anders fang' ich's an,
+
+_(geht rasch zu der Gruppe hin, stösst die Alte mit dem Fuss an.)_
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Heb dich hinweg!  
+Wie hätt' er sterben dürfen? Er ist mein,  
+Und ich, die allgewalt'ge Herrscherin,  
+Will, dass er lebe! _(horcht.)_ Still! Regt er sich nicht?  
+Geh fort du! Vor der Mutter schämt er sich  
+Der Schwäche, meiner Bitte nachzugeben.  
+Doch weiss er wohl, ein Meer von süssen Wonnen  
+Soll über seinem Haupt zusammenschlagen,  
+Wenn er die Augen öffnet. Ist's nicht so,  
+Mein Heissgeliebter? Doch nun spotte länger  
+Nicht meiner Ungeduld. Ich bin es nicht  
+Gewohnt zu bitten, zu befehlen nur,  
+Und so befehl' ich dir bei meinem Zorn:  
+Lebe! Ich will's! --- ---  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Was red' ich? Ist er denn  
+Ein Sclav und Höfling, der vorm Stirnerunzeln  
+Der Kön'gin bebt? Nein, anders fang' ich's an,  
 List gegen List!
-(lässt sich auf ein Knie neben ihm nieder, nimmt sein Haupt in ihre Arme.)
-Hör an, was ich dir sage:
-Die hier dein Haupt umfasst hält, ist Mylitta,
-Der Gräu'l, die Schmach, der Abscheu einer Welt,
-Die Mördrin deines Bruders. --- Siehst du wohl,
-Alte? Bei meinem Namen zuckt's in ihm
 
+_(lässt sich auf ein Knie neben ihm nieder, nimmt sein Haupt in ihre Arme.)_
 
-0236
-
-Von wildem Hass. Wenn ich die Lippen jetzt
-Auf seine drücke, wird der Ekel so
-Ihn übermannen, so der Blutgeruch
-Sein Blut empören, dass er auffährt aus
-Dem heuchlerischen Schlaf und schaudernd mich
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hör an, was ich dir sage:  
+Die hier dein Haupt umfasst hält, ist Mylitta,  
+Der Gräu'l, die Schmach, der Abscheu einer Welt,  
+Die Mördrin deines Bruders. --- Siehst du wohl,  
+Alte? Bei meinem Namen zuckt's in ihm  
+Von wildem Hass. Wenn ich die Lippen jetzt  
+Auf seine drücke, wird der Ekel so  
+Ihn übermannen, so der Blutgeruch  
+Sein Blut empören, dass er auffährt aus  
+Dem heuchlerischen Schlaf und schaudernd mich  
 Zurückstösst. Gieb nur Acht!
-(beugt sich zu ihm hinab und küsst ihn.)
-Ihr Unterird'schen!
+
+_(beugt sich zu ihm hinab und küsst ihn.)_
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ihr Unterird'schen!  
 Er hat den Kuss geduldet --- er ist todt!
-(lässt das Haupt aus ihren Armen gleiten, sinkt in sich zusammen.)
-Die Tochter der Semiramis.
-239
-Die Mutter (dumpf vor sich hin).
+
+_(lässt das Haupt aus ihren Armen gleiten, sinkt in sich zusammen.)_
+
+**DIE MUTTER** _(dumpf vor sich hin)_.
+
 Ihr Rachegötter, Dank! Ihr hörtet mich.
-Mylitta
-(nach einerPause, sich halb aufrichtend, in den Anblick des Todten versunten).
-Ist das denn wahr? Von diesen blassen Lippen
-Soll nie ein Laut des Grimms und der Verachtung,
-Kein Hohnwort mehr ertönen, das im Stillen
-Mich jauchzen macht, da endlich mir der Mann
-Begegnet ist, dem Sclavendienst zu thun
-Mich süsser dünkt, als Sclaven zu gebieten?
-Kannst du so hart sein, mir für immer zu
-Verstummen, taub zu bleiben, eh' ich noch
-Dir ganz gesagt, wie du mein Abgott bist?
-O schien ich eine Tigerin dir, die Leben
-Hinwürgt erbarmungslos --- du selber bist
-Grausamer als das wildeste Thier der Wüste;
-Denn der Lebend'gen aus der nackten Brust
-Hast du das Herz geraubt und lässest doch
-Sie weiter athmen, ewiglich verdammt
-Zum Durst nach einem einz'gen Tropfen Glück,
+
+**MYLITTA.**
+
+_(nach einer Pause, sich halb aufrichtend, in den Anblick des Todten versunken)._
+
+Ist das denn wahr? Von diesen blassen Lippen  
+Soll nie ein Laut des Grimms und der Verachtung,  
+Kein Hohnwort mehr ertönen, das im Stillen  
+Mich jauchzen macht, da endlich mir der Mann  
+Begegnet ist, dem Sclavendienst zu thun  
+Mich süsser dünkt, als Sclaven zu gebieten?  
+Kannst du so hart sein, mir für immer zu  
+Verstummen, taub zu bleiben, eh' ich noch  
+Dir ganz gesagt, wie du mein Abgott bist?  
+O schien ich eine Tigerin dir, die Leben  
+Hinwürgt erbarmungslos --- du selber bist  
+Grausamer als das wildeste Thier der Wüste;  
+Denn der Lebend'gen aus der nackten Brust  
+Hast du das Herz geraubt und lässest doch  
+Sie weiter athmen, ewiglich verdammt  
+Zum Durst nach einem einz'gen Tropfen Glück,  
 Der nie ihr netzt die Lippe!
 
+**DIE MUTTER** _(für sich)_.
 
-0237
-
-240
-Die Tochter der Semiramis.
-Die Mutter (ür sich).
-Armes Weib!
-Sie klagt um ihn! Aus meinem Mutterherzen
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Armes Weib!  
+Sie klagt um ihn! Aus meinem Mutterherzen  
 Stiehlt sie den Hass.
-(Mylitta, richtet sich, ohne auf sie zu achten, langsam auf, fährt mit der
-Hand über die Stirn und schreitet dann mit erhobenem Haupt zu dem
-Schilde, gegen den sie einen laut hallenden Schlag thut. Menon und
-die Wächter treten ein.)
-Mylitta.
-Man trage diesen Todten
-Hinaus zum Tempel der vermählten Götter,
-Baal und Derketo. Dorten aufgebahrt
-Im Königssaal auf hohem Katafalk,
-Soll er dem Volk von Niniveh drei Tage
-Zur Schau stehn, bis der goldne Scheiterhaufen
-Errichtet ist. Und künden soll ein Herold,
-Der Todte nehme in die Unterwelt
-Den Treueschwur der Königin mit hinab,
-Die nie in Zukunft einem andern Manne
-Gehören wird, als diesem ihrem Gatten.
-Denn in den Flammen seines Scheiterhaufens
-Wird auch dies Herz verglühn, wie lang es noch
-Fortmodern mag im Leibe, bis auch der
+
+_(Mylitta, richtet sich, ohne auf sie zu achten, langsam auf, fährt mit der Hand über die Stirn und schreitet dann mit erhobenem Haupt zu dem Schilde, gegen den sie einen laut hallenden Schlag thut. Menon und die Wächter treten ein.)_
+
+**MYLITTA.**
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Man trage diesen Todten  
+Hinaus zum Tempel der vermählten Götter,  
+Baal und Derketo. Dorten aufgebahrt  
+Im Königssaal auf hohem Katafalk,  
+Soll er dem Volk von Niniveh drei Tage  
+Zur Schau stehn, bis der goldne Scheiterhaufen  
+Errichtet ist. Und künden soll ein Herold,  
+Der Todte nehme in die Unterwelt  
+Den Treueschwur der Königin mit hinab,  
+Die nie in Zukunft einem andern Manne  
+Gehören wird, als diesem ihrem Gatten.  
+Denn in den Flammen seines Scheiterhaufens  
+Wird auch dies Herz verglühn, wie lang es noch  
+Fortmodern mag im Leibe, bis auch der  
 Dereinst in Asche sinkt.
-(Vorhang fällt.)
-d
+
+_(Vorhang fällt.)_
