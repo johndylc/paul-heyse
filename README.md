@@ -31,7 +31,7 @@ German - PDF | NotoSans | GentiumPlus | Junicode | Roboto | Custom01 | Custom02 
 
 English - Plain Text  
 English - PDF  
-German - Plain Text  
+[German - Plain Text](maria-von-magdala/full-text-german.md)  
 German - PDF | NotoSans | GentiumPlus | Junicode | Roboto | Custom01 | Custom02 | Custom03  
 
 ## Die Geburt der Venus.
